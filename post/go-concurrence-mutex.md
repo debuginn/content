@@ -2,12 +2,8 @@
 title: "Go 并发编程之 Mutex"
 date: 2020-11-15T20:34:12+08:00
 draft: false
-author: "Meng小羽"
-authorLink: "https://debuginn.com"
-authorEmail: "debuginn@icloud.com"
 keywords: "faas,notes"
 comments: true
-weight: 0
 tags: ["go","concurrence","Mutex"]
 categories: ["golang"]
 image: "https://webp.debuginn.com/202302282003561.jpg"
