@@ -7,27 +7,28 @@ comments: true
 image: "https://webp.debuginn.com/202302262119034.jpg"
 ---
 
-你好，我是 Meng小羽，非标准程序猿，喜欢编码、摄影、音乐、吉他，对新鲜事物和新的技术总是保持着好奇心并愿意去探索。
+你好，我是 Meng 小羽，一名热爱技术的全栈开发者。除了编程，我还热衷于摄影、音乐和吉他。我对新技术充满好奇，始终保持探索精神。
 
-这是我独立维护的站点，目前已经维护了 7个年头，前一段时间已经实现了全站点静态化设计，可以把重点投入到内容的创作当中去。
+这是我独立维护的个人博客，已持续运营 7 年。近期完成了全站静态化改造，让我能够更专注于内容创作。
 
-## 工作
+## 工作经历
 
-我目前是一名软件开发工程师，在小米工作，主要从事小米商城服务端的相关业务及技术研发工作，20年以应届生身份通过小米应届生专项计划 “YOU计划” 入职，目前已经工作近 3年时间，“永远相信美好的事情即将发生” 这句话成为了工作中第一句职场 slogan，也不断激励着我成长。
+我目前任职于小米，担任软件开发工程师，主要负责小米商城服务端的业务开发和技术研发。2020 年通过小米 "YOU计划" 应届生专项计划加入公司，至今已有 3 年工作经验。"永远相信美好的事情即将发生" 这句公司 slogan 一直激励着我不断成长。
 
-下面是我目前所使用到的技术栈及工具：
+以下是我主要使用的技术栈：
 
 ![技能树](https://skillicons.dev/icons?i=go,java,spring,maven,mysql,postgres,redis,mongodb,linux,bash,docker,kubernetes,grafana,prometheus,nginx,git,github,gitlab,vim,idea,vscode,md,postman,stackoverflow,apple,obsidian,ps,cloudflare&theme=light)
 
-## 摄影
+## 摄影作品
 
-同时我也喜欢摄影，你可以从我的导航页面看到我有在维护的摄影展，每年我都会挑选 Top 摄影照片上传到此站点：
+摄影是我工作之余的重要爱好。我每年都会精选最佳作品上传至个人摄影站：
 
 [https://photo.debuginn.com](https://photo.debuginn.com)
 
-## 项目
+## 开源项目
 
-目前我开源了一些[小工具和思路](/project)，感兴趣的可以去给一个 Star， 感谢。
+我开发并开源了一些实用工具和项目，欢迎访问我的项目页面查看并给予支持：
 
+[项目展示](/project)
 
 ![Gopher](https://webp.debuginn.com/202303022149399.png)
