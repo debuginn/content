@@ -27,7 +27,7 @@ Debug客栈给您提供了四种常规订阅方式，分别是 **[邮箱订阅](
 
 我还不时制作视频上传至 [哔哩哔哩](https://space.bilibili.com/238989334) 和 [Youtube]([http](https://www.youtube.com/@debuginn)) 网站：
 
-[![BiliBili](https://img.shields.io/badge/Bilibili-ff0066?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/238989334)
+[![哔哩哔哩](https://img.shields.io/badge/Bilibili-ff0066?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/238989334)
 [![Youtube](https://img.shields.io/badge/Youtube-ff0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@debuginn)
 
 ![Gopher](https://webp.debuginn.com/202303022149399.png)
