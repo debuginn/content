@@ -5,7 +5,7 @@ keywords: "travel"
 comments: true
 tags: ["travel"]
 categories: ["debuginn"]
-image: "https://webp.debuginn.com/20250510Y48j7B.jpg"
+image: "https://webp.debuginn.com/2025051038jxzl.jpg"
 ---
 
 大家好呀，我是 Meng 小羽，未来我计划着后续分享下自己的游记，五一回来公司一直在忙着公司项目，推迟了一周的时间终于可以闲下来记录一下了。
