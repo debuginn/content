@@ -1,10 +1,6 @@
 ---
 title: 友情链接
 links:
-  - title: Debug客栈
-    image: https://webp.debuginn.com/202302182238057.JPG
-    website: https://debuginn.com
-    description: 做一个爱分享的程序猿
   - title: 刘悦的技术博客
     image: https://v3u.cn/v3u/Public/images/logo_dark.png
     website: https://v3u.cn
@@ -37,10 +33,6 @@ links:
     image: https://chaoszhu.com/avatar.png
     website: https://chaoszhu.com/
     description: 好记性不如烂笔头~
-  - title: 汐塔魔法屋
-    image: https://blog.storical.space/images/icon.png
-    website: https://blog.storical.space/
-    description: 种下一颗有故事的种子，让它带着魔法和奇迹生根发芽
   - title: PattenKuo的博客
     image: https://guopengzhen.com/img/avater.jpg
     website: https://guopengzhen.com
