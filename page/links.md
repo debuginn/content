@@ -39,7 +39,7 @@ links:
     description: Thoughts, stories and ideas of Patten Kuo .
 
 comments: true
-license: true
+license: false
 readingTime: false
 image: "https://webp.debuginn.com/20250221QKKCYH.jpeg"
 ---
