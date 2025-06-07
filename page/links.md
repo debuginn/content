@@ -39,7 +39,23 @@ links:
     description: Thoughts, stories and ideas of Patten Kuo .
 
 comments: true
-license: false
+license: true
 readingTime: false
 image: "https://webp.debuginn.com/20250221QKKCYH.jpeg"
 ---
+
+## 博客组织
+
+[BlogFinder](https://bf.zzxworld.com/s/870)
+ | 
+[十年之约](https://www.foreverblog.cn/)
+ | 
+[个站商店](https://storeweb.cn/site/o/1761)
+ | 
+[博客录](https://boke.lu/)
+ | 
+[博友圈](https://www.boyouquan.com/blogs/blog.debuginn.com)
+
+![friend](https://webp.debuginn.com/20250607PVNEDF.png)
+
+## 友情链接
