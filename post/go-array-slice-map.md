@@ -6,7 +6,7 @@ keywords: "go,array,slice,map"
 comments: true
 tags: ["go","array","slice","map"]
 categories: ["golang"]
-image: "https://webp.debuginn.com/202303031922787.jpg"
+image: "https://static.debuginn.com/202303031922787.jpg"
 ---
 
 在 Go 语言中，为便于存储及管理用户数据，其数据结构设计分为**数组 Array、切片 Slice、映射 Map** 三种结构。

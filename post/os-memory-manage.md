@@ -5,7 +5,7 @@ keywords: "os,introduction"
 comments: true
 tags: ["os", "system"]
 categories: ["OS"]
-image: "https://webp.debuginn.com/202302221853276.jpg"
+image: "https://static.debuginn.com/202302221853276.jpg"
 ---
 
 计算机系统中的存储器可以分为两类：内存储器（简称内存）和外存储器（简称外存）。处理器可以直接访问内存，但不能直接访问内存。CPU要通过启动相应的输入/输出设备后才能使内存和外存交换信息。
@@ -135,7 +135,7 @@ image: "https://webp.debuginn.com/202302221853276.jpg"
 
 由于地址转换工作是在程序开始执行前集中完成的，所以在程序执行过程中就无须再进行地址转换工作。称为“静态重定位”。
 
-![静态重定位](https://webp.debuginn.com/202304132235363.png)
+![静态重定位](https://static.debuginn.com/202304132235363.png)
 
 ### 动态重定位
 
@@ -145,4 +145,4 @@ image: "https://webp.debuginn.com/202302221853276.jpg"
 
 存储管理为程序分配内存区域后，装入程序把程序直接装到所分配的区域中，并把内存区域的起始地址存入相应程序进程的进程控制块中。当程序进程被调度占用处理器时，随同现场信息的恢复，程序所占的内存区域的起始地址也被存放到“基址寄存器”中。程序执行时，处理器每执行都会把指令中的逻辑地址与基址寄存器中的值相加得到绝对地址，然后按绝对地址访问内存。
 
-![动态重定位](https://webp.debuginn.com/202304132235250.png)
+![动态重定位](https://static.debuginn.com/202304132235250.png)

@@ -13,8 +13,8 @@ tags: ["coin","e-pay","数字人民币","纪念币"]
 categories: ["coin"]
 
 
-image: "https://webp.debuginn.com/202302272023525.jpeg"
-imagePreview: "https://webp.debuginn.com/202302272023525.jpeg"
+image: "https://static.debuginn.com/202302272023525.jpeg"
+imagePreview: "https://static.debuginn.com/202302272023525.jpeg"
 ---
 
 今天使用数字人民币兑换了建党100周年纪念币，过程比较坎坷，不过最终还是兑换成功了。
@@ -29,5 +29,5 @@ imagePreview: "https://webp.debuginn.com/202302272023525.jpeg"
 
 数字人民币未来由国家导向大力推广，会使人民的支付更加便捷，不过个人建议纸质币保留下来，照顾不会使用手机的老年群体，总之，技术的进步，未来看来我们都是为了一串数字而奋斗喽。
 
-![数字人民币](https://webp.debuginn.com/202302272024966.jpg)
+![数字人民币](https://static.debuginn.com/202302272024966.jpg)
 

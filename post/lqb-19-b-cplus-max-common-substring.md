@@ -9,7 +9,7 @@ keywords: "蓝桥杯"
 comments: true
 tags: ["蓝桥杯","algorithm"]
 categories: ["algorithm"]
-image: "https://webp.debuginn.com/202303241303887.jpg"
+image: "https://static.debuginn.com/202303241303887.jpg"
 ---
 
 最大公共子串长度问题就是：

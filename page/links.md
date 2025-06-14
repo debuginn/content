@@ -18,7 +18,7 @@ links:
     website: https://blognas.hwb0307.com
     description: 百代繁华一朝都，谁非过客；千秋明月吹角寒，花是主人。
   - title: 浮云的博客
-    image: https://webp.debuginn.com/202311181848462.ico
+    image: https://static.debuginn.com/202311181848462.ico
     website: https://last2win.com/
     description: 浮云的博客
   - title: 王明明的小站
@@ -41,7 +41,7 @@ links:
 comments: true
 license: false
 readingTime: false
-image: "https://webp.debuginn.com/20250221QKKCYH.jpeg"
+image: "https://static.debuginn.com/20250221QKKCYH.jpeg"
 ---
 
 ## 博客组织
@@ -60,6 +60,6 @@ image: "https://webp.debuginn.com/20250221QKKCYH.jpeg"
  | 
 [笔墨迹](https://blogscn.fun/)
 
-![friend](https://webp.debuginn.com/20250607PVNEDF.png)
+![friend](https://static.debuginn.com/20250607PVNEDF.png)
 
 ## 友情链接
