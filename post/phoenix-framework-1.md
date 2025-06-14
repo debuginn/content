@@ -5,7 +5,7 @@ keywords: "phoenix,java"
 comments: true
 tags: ["phoenix","java"]
 categories: ["phoenix"]
-image: "https://webp.debuginn.com/202402111005028.jpeg"
+image: "https://static.debuginn.com/202402111005028.jpeg"
 ---
 ## 前言
 
@@ -39,22 +39,22 @@ image: "https://webp.debuginn.com/202402111005028.jpeg"
 
 ## 设计
 
-![拆分 Task](https://webp.debuginn.com/202306292003014.png)
+![拆分 Task](https://static.debuginn.com/202306292003014.png)
 
 根据产品站的实际场景，我们发现，调用下游接口若干个，且请求接口存在不同的请求协议与不同的中间件。
 
-![单向依赖](https://webp.debuginn.com/202306292007655.png)
+![单向依赖](https://static.debuginn.com/202306292007655.png)
 
 更重要的是，接口存在着依赖关系，我们梳理接口调用发现，接口依赖正好是有向依赖图的结构，
 那么我们就可以进行遍历依赖关系进行编排并发分组。
 
-![并发调用组](https://webp.debuginn.com/202306292017666.png)
+![并发调用组](https://static.debuginn.com/202306292017666.png)
 
 这样就解决了依赖的问题，我们可以依次并行执行每个并发组的任务，这样就可以得到所有接口或依赖的结果。
 
 那么获取到结果之后，怎么进行业务逻辑的编排，怎么隔离下游接口，其实原理很简单，既然任务可以进行分层，那么我们业务调用、业务编排、防腐蚀层也可以进行分层设计。
 
-![分层设计](https://webp.debuginn.com/20240308vidGwp.jpeg)
+![分层设计](https://static.debuginn.com/20240308vidGwp.jpeg)
 
 - **Transfer 层**的作用是业务逻辑层，用来进行业务编排，将 BO 数据提供给客户端使用；
 - **Task 任务层**是并发执行的核心设计层，在这里通过并发分组的每个子 Task 在这里进行编排后执行调用，用来进行**超时控制、耗时统计**等操作；
@@ -64,10 +64,10 @@ image: "https://webp.debuginn.com/202402111005028.jpeg"
 
 好了，上文就是给大家讲解的**自动构建并发调用图的业务框架**，也就是 Phoenix Framework。
 
-![Phoenix](https://webp.debuginn.com/202402111005028.jpeg)
+![Phoenix](https://static.debuginn.com/202402111005028.jpeg)
 
 Phoenix，最初在周志明老师的网站"凤凰架构"提及，一方面是对周老师的架构设计理解与 Java 相关知识学习的致敬，另一方面，Phoenix 不死鸟，软件的生命周期也是如此，随着业务的快速发展诞生、并随着业务的的收缩而凋亡，生生不息。
 
 最后，我会以系列的方式进行讲解这个框架遇到的问题以及解决思路，感谢大家的阅读，大家要是感兴趣的话推荐大家关注公众号，让我们一起变得更强～
 
-![WeChat](https://webp.debuginn.com/202302202248422.png)
+![WeChat](https://static.debuginn.com/202302202248422.png)

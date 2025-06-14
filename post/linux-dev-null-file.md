@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["linux","shell"]
 categories: ["OS"]
-image: "https://webp.debuginn.com/202303161935472.jpg"
+image: "https://static.debuginn.com/202303161935472.jpg"
 ---
 
 近期在开发项目中遇到了PHP使用`shell_exec`执行 Shell 命令的问题，具体说是 Shell 使用 FFmpeg 软件进行录制直播流，但是 PHP 等待命令执行时间是有限的，并且会出现等待时间过长导致该执行接口出现未响应问题，寻找了网上方法，发现了一种比较好的方式，就是将要执行的Shell语句后面加上`>/dev/null 2>&1`这段特殊的命令，简单来说就是将执行的 Shell 操作放到后台进行运行，将快捷反应执行的操作，解决执行 Shell 语句等待问题，接下来就是对这段命令的解析：

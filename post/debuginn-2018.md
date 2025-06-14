@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["Debug客栈","2018","2019","年度总结"]
 categories: ["summary"]
-image: "https://webp.debuginn.com/202304121931935.jpg"
+image: "https://static.debuginn.com/202304121931935.jpg"
 ---
 
 转眼之间，自己已经成了大三狗了，记得上一年，自己还是一个刚有目标，刚有理想的孩子，现在已经转身一变，变成一块老腊肉了，?，再过一年的时间，自己将走向社会，去赚取自己人生过程中的真正的第一桶金。

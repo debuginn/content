@@ -5,7 +5,7 @@ keywords: "phoenix,java"
 comments: true
 tags: ["phoenix","java"]
 categories: ["phoenix"]
-image: "https://webp.debuginn.com/202402111005028.jpeg"
+image: "https://static.debuginn.com/202402111005028.jpeg"
 ---
 
 上篇文章主要讲了设计 Phoenix 框架前的遇到的问题和设计框架的思路 [《 Phoenix 框架 从0到1设计业务并发框架 小米商城产品站革新之路》](/p/phoenix-framework-1/)，本篇文章主要讲一下如何设计框架的。
@@ -14,7 +14,7 @@ image: "https://webp.debuginn.com/202402111005028.jpeg"
 
 产品站业务静态接口与动态接口都需要调用大量的后台服务进行获取数据进行业务编排，而各个并发调用之间又相互存在依赖，采用并发组设计拆解依赖，同时并发控制调用，BO to DTO 采用统一的 Transfer 层进行设计，开发人员只需要关系定义每次调用事件的 Task 和 Transfer 代码逻辑的书写，直接返回业务数据。
 
-![分层设计](https://webp.debuginn.com/20240308vidGwp.jpeg)
+![分层设计](https://static.debuginn.com/20240308vidGwp.jpeg)
 
 ## 名词解释
 
@@ -86,16 +86,16 @@ public @interface PhoenixTrans {
 
 自定义了 `PhoenixTask` 和 `PhoenixTrans` 注解，通过声明一个 `AnnotationProcessor` 继承 `BeanPostProcessor` 来进行收集定义的注解。
 
-![收集 Task 与 Trans](https://webp.debuginn.com/20240318xHJQIJ.jpeg)
+![收集 Task 与 Trans](https://static.debuginn.com/20240318xHJQIJ.jpeg)
 
 - 首先是根据注解类收集上来对应的 Task 和 Trans；
 - 根据不同的 Trans 划分不同的 API，收集不同 API 依赖的 Task；
 - 按照 Trans 是否进行依赖过滤使用到的 Task；
 - 根据 Task 之间的相互依赖关系，将 Task 进行分组；
 
-![划分 API](https://webp.debuginn.com/20240318m9lRul.jpeg)
+![划分 API](https://static.debuginn.com/20240318m9lRul.jpeg)
 
-![划分并发调用组](https://webp.debuginn.com/20240318Wzvtlt.jpeg)
+![划分并发调用组](https://static.debuginn.com/20240318Wzvtlt.jpeg)
 
 这样就完成了对框架的分层与自动构建的设计，框架的设计主要的是要思考如何将实际业务中使用的**模块抽象化设计**，同时要思考框架的扩展性与强约束性。
 
@@ -105,4 +105,4 @@ public @interface PhoenixTrans {
 
 如果你感兴趣，推荐关注公众号或订阅本站，欢迎互动与交流，让我们一起变得更强～
 
-![WeChat](https://webp.debuginn.com/202302202248422.png)
+![WeChat](https://static.debuginn.com/202302202248422.png)

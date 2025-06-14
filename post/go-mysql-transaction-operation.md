@@ -9,7 +9,7 @@ keywords: "go,mysql,transaction"
 comments: true
 tags: ["go","mysql","transaction"]
 categories: ["golang"]
-image: "https://webp.debuginn.com/202303031854061.jpg"
+image: "https://static.debuginn.com/202303031854061.jpg"
 ---
 
 ## 事务

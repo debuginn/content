@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["default"]
 categories: ["debuginn"]
-image: "https://webp.debuginn.com/202303181147944.jpg"
+image: "https://static.debuginn.com/202303181147944.jpg"
 ---
 
 是不是经常在群中看到大神闲的无聊敲的代码构图，今天，他来了，搜集了网上尽可能多的代码构图，展示给大家，友情提示，推荐使用比较大的屏幕查看，效果会比较好的。
