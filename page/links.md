@@ -37,6 +37,10 @@ links:
     image: https://guopengzhen.com/img/avater.jpg
     website: https://guopengzhen.com
     description: Thoughts, stories and ideas of Patten Kuo .
+  - title: 码农观测站
+    image: https://codeobservatory.cn/img/butterfly-icon.webp
+    website: https://codeobservatory.cn
+    description: 技术分享，编程学习
 
 comments: true
 license: false
