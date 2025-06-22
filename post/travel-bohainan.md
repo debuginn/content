@@ -4,7 +4,7 @@ date: 2025-05-10T22:00:00+08:00
 keywords: "travel"
 comments: true
 tags: ["travel"]
-categories: ["debuginn"]
+categories: ["travel"]
 image: "https://static.debuginn.com/2025051038jxzl.jpg"
 ---
 
