@@ -4,6 +4,7 @@ date: 2019-05-28T22:11:11+08:00
 layout: "about"
 slug: "about"
 comments: true
+license: false
 image: "https://static.debuginn.com/202302262119034.jpg"
 ---
 
