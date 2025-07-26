@@ -34,8 +34,6 @@ image: "https://static.debuginn.com/20250725uaor1Q.jpg"
 | Sony 16-50 饼干镜头                     |  镜头  |    🌟     | 买了吃灰，强烈不推荐购买，吃灰的！！！                      |
 | Sony ECM-W3 无线蓝牙麦克风              | 麦克风 |    🌟     | 买了吃灰，本来打算用来拍 Vlog，实际没有开始...              |
 
-
-
 ## 软件
 
 软件由于使用 Apple 生态，也分为两大阵营，一部分是付费软件（增强原生系统，同时要稳定好用），另外一部分来自于开源软件，也算是付费软件的平替。
@@ -57,8 +55,6 @@ image: "https://static.debuginn.com/20250725uaor1Q.jpg"
 | [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118?ref=debuginn.com) | `MacOS` `PadOS` `IOS` |   付费   |  🌟🌟🌟🌟🌟   | 去广告、代理软件，性价比高但耗电。                           |
 
 > 这里的软件指的是一次性买断、免费下载或收费但使用免费的版本。
-
-
 
 ## 订阅
 
