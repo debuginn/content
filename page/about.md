@@ -5,6 +5,7 @@ layout: "about"
 slug: "about"
 comments: true
 license: false
+readingTime: false
 image: "https://static.debuginn.com/202302262119034.jpg"
 ---
 

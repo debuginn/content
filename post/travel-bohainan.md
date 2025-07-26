@@ -1,5 +1,5 @@
 ---
-title: "五一环渤海南海岸自驾之旅"
+title: "游记 五一环渤海南海岸自驾之旅"
 date: 2025-05-10T22:00:00+08:00
 keywords: "travel"
 comments: true
