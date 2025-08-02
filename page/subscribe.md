@@ -13,6 +13,8 @@ readingTime: false
 
 - [https://blog.debuginn.com/index.xml](https://blog.debuginn.com/index.xml)
 
+推荐使用开源免费颜值极高的 [Folo](/tags/follow/) 软件订阅，本博客已经有 [![folo](https://badge.follow.is/feed/41458948890269701?color=FF5C00&labelColor=black&style=flat-square)](follow://add?url=https%3A%2F%2Fblog.debuginn.com%2Findex.xml) 订阅者。
+
 ## 公众号订阅
 
 ![wechat](https://static.debuginn.com/202302202248422.png)
