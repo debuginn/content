@@ -23,6 +23,6 @@ readingTime: false
 
 ## 视频专区
 
-我还不时制作视频上传至 [哔哩哔哩](https://space.bilibili.com/238989334) 和 [Youtube]([http](https://www.youtube.com/@debuginn)) 。
+我还不时制作视频上传至 [哔哩哔哩](https://space.bilibili.com/238989334) 和 [Youtube](https://www.youtube.com/@debuginn) ，欢迎关注。
 
 ![Gopher](https://static.debuginn.com/202303022149399.png)

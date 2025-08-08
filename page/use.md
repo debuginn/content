@@ -65,4 +65,3 @@ image: "https://static.debuginn.com/20250725uaor1Q.jpg"
 | Apple Music（中国大陆区）                                    | `全平台` |  🌟🌟🌟🌟🌟   | 长期订阅，简约简单性价比高                                   |
 | Apple iCloud+ 200GB 版本                                     | `全平台` |   🌟🌟🌟🌟   | 小贵，但是可以享受全生态闭环，等待小米 NAS ing               |
 | [VPN XFlash Cloud](https://www.xflash.live/#/register?code=GZRNxKBh) | `全平台` |  🌟🌟🌟🌟🌟   | 稳定使用 3 年，节点干净，速度尚可，可以按流量订阅，[推荐链接](https://www.xflash.live/#/register?code=GZRNxKBh) |
-| [VPN MR.MK Cloud](https://mr.mk/#/register?code=PQ6GQIuP) | `全平台` |  🌟🌟🌟🌟   | 备用 SSR，节点干净，速度尚可，可以按流量订阅，[推荐链接](https://mr.mk/#/register?code=PQ6GQIuP) |
