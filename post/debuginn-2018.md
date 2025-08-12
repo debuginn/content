@@ -1,13 +1,8 @@
 ---
-title: "Debug客栈 2018-2019 年度干货分享"
+title: "2018 年度总结"
 date: 2018-12-28T19:29:58+08:00
-draft: false
-author: "Meng小羽"
-authorLink: "https://debuginn.com"
-authorEmail: "debuginn@icloud.com"
 keywords: "Debug客栈,2019,2018,年度总结"
 comments: true
-weight: 0
 tags: ["Debug客栈","2018","2019","年度总结"]
 categories: ["summary"]
 image: "https://static.debuginn.com/202304121931935.jpg"
@@ -19,7 +14,7 @@ image: "https://static.debuginn.com/202304121931935.jpg"
 
 又是一年给大家分享的时光，希望今年能够给你们传播一些比较好的经验、理念、公众号、还有一系列好玩的东西……
 
---- 
+---
 
 和上年一样，希望给大家带来一些比较实用的工具及网页，还有公众号，等等福利。
 
