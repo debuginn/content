@@ -13,19 +13,13 @@ image: "https://static.debuginn.com/20250813sgLuED.jpg"
 
 当然，面对极客，我也支持通过区块链币进行打赏：
 
-**BTC：**
-
-```bash
-bc1quwwdn506pknw8tl8ynrgjql2350cpmxmgjttdp
-```
-
-**ETH:**
+**Ethereum 网络：ETH / USDT**
 
 ```bash
 0xd06a56704ecb1eee65abcaa3101d88e2a8225a4e
 ```
 
-**SOL:**
+**Solana 网络：SOL / USDT / V2EX**
 
 ```bash
 5LupLo8NuTfC411zAPo6UZTuasoTHaueuptVyGKmsdBV
