@@ -41,6 +41,11 @@ links:
     image: https://codeobservatory.cn/img/butterfly-icon.webp
     website: https://codeobservatory.cn
     description: 技术分享，编程学习
+  - title: forecho
+    image: https://static.debuginn.com/20250828sqFsS0.png
+    website: https://blog.forecho.com/
+    description: 把生命浪费在美好的事物上
+
 
 comments: true
 license: false
