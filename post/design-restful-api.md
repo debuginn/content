@@ -6,7 +6,7 @@ keywords: "api,restful api"
 comments: true
 tags: ["api","restful api"]
 categories: ["debuginn"]
-image: "https://static.debuginn.com/202303132137265.jpg"
+image: "https://webp.debuginn.com/202303132137265.jpg"
 ---
 
 近期学习了 Go 语言，跟着七米在学习，学习过程中了解到了 API 的一个设计规范，也就是本文要讲的 Restful API 设计模式，现在互联网处在前后端分离的阶段，API 的书写及规范化是非常重要的，针对于 API 中 Restful API 中设计比较规范的是 Github API，可以直接访问他们的 [https://api.github.com](https://api.github.com) 直接查看 Github 针对与公共接口的链接及使用方法。

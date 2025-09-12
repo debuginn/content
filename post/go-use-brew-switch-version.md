@@ -9,7 +9,7 @@ keywords: "go,brew"
 comments: true
 tags: ["go","brew"]
 categories: ["golang"]
-image: "https://static.debuginn.com/202302282016622.jpg"
+image: "https://webp.debuginn.com/202302282016622.jpg"
 ---
 
 Brew 是 Mac 上包管理工具，和 Linux 上的 apt 、yum、rpm 一样，可以提供非图形化软件的安装，昨天在打造宇宙最强 IDE 的时候，使用brew工具更新了一下软件包，是我的 Go 版本升级到了最新版本，同时之前配置的多版本 Go 抹掉了，现在写一下记录，你如果需要的话可以使用一下。

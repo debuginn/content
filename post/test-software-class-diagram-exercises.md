@@ -5,7 +5,7 @@ keywords: "软件工程"
 comments: true
 tags: ["软件工程"]
 categories: ["software"]
-image: "https://static.debuginn.com/202303202156985.jpg"
+image: "https://webp.debuginn.com/202303202156985.jpg"
 ---
 
 - 依赖（Dependency）: 虚线箭头表示 
@@ -44,7 +44,7 @@ A：材料        B：事物 C：订单        D：会员
 
 **5、在类图中，下面哪个符号表示继承关系（    C   ）**
 
-![类图元素](https://static.debuginn.com/202303202150359.png)
+![类图元素](https://webp.debuginn.com/202303202150359.png)
 
 **6、在类图中，“#”表示的可见性是（   B    ）**
 
@@ -52,7 +52,7 @@ A：材料        B：事物 C：订单        D：会员
 
 **7、在类图中，下面哪个符号表示实现关系（   B    ）**
 
-![类图指示线](https://static.debuginn.com/202303202151210.png)
+![类图指示线](https://webp.debuginn.com/202303202151210.png)
 
 **8、在类图中，哪种关系表达总体与局部的关系（  D    ）**
 
@@ -66,7 +66,7 @@ A.实体类 B.边界类 C.控制类 D.主类
 
 A. 0..1 B. 0..* C. 1..* D. `*..*`
 
-![重数性关联](https://static.debuginn.com/202303202151846.png)
+![重数性关联](https://webp.debuginn.com/202303202151846.png)
 
 **11、通常对象有很多属性，但对于外部对象来说某些属性应该不能被直接访问，下面哪个不是UML中的类成员访问限定性（  C ）**
 
@@ -88,7 +88,7 @@ A 实现    B、关联     C、 依赖     D、 泛化
 
 **14、在UML中下列图形代表什么关系？（A）**
 
-![](https://static.debuginn.com/202303202152498.png)
+![](https://webp.debuginn.com/202303202152498.png)
 
 A、组合关系         B、 依赖关系
 
@@ -96,7 +96,7 @@ C、聚合关系          D、泛化关系
 
 **15、在UML中下列图形代表什么关系？( D  )**
 
-![](https://static.debuginn.com/202303202153725.png)
+![](https://webp.debuginn.com/202303202153725.png)
 
 A、组成关系         B、 依赖关系
 
@@ -110,7 +110,7 @@ C、包含关系              D、组合关系
 
 **17、在下面的图例中，哪个用来描述注释（ B ）**
 
-![图例](https://static.debuginn.com/202303202153624.png)
+![图例](https://webp.debuginn.com/202303202153624.png)
 
 **18、消息传递是对象间通信的手段，一个对象通过向另一个对象发送消息来请求其服务，一个消息通常包括：（ A ）**
 
@@ -171,7 +171,7 @@ D、类B是一个全局变量
 
 根据上面的陈述，下面哪个设计是最合理的？（ C  ）
 
-![](https://static.debuginn.com/202303202155826.png)
+![](https://webp.debuginn.com/202303202155826.png)
 
 **24、类X与类Y有许多相同的属性和行为，但是它的行为与类Y稍微有所不同，这时可以认为类X是类Y的一种特例；则类X和类Y之间是（  A   ）关系。**
 
@@ -190,7 +190,7 @@ D、对象是动态的实例
 ## 二、填空题
 **1、 下图中类的名字是： _ Login_类中的成员属性是： _sName、sPass _ 类中的行为（方法）是：___checkUser___。**
 
-![login方法](https://static.debuginn.com/202303202156676.png)
+![login方法](https://webp.debuginn.com/202303202156676.png)
 
 2、类描述具有相同性质的一组对象的（集合），类用（new）来表示。
 

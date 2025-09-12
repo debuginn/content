@@ -6,7 +6,7 @@ keywords: "faas,notes"
 comments: true
 tags: ["go","concurrence","Mutex"]
 categories: ["golang"]
-image: "https://static.debuginn.com/202302282003561.jpg"
+image: "https://webp.debuginn.com/202302282003561.jpg"
 ---
 
 我们比较常见的大型项目的设计中都会出现并发访问问题，并发就是为了解决数据的准确性，保证同一个临界区的数据只能被一个线程进行操作，日常中使用到的并发场景也是很多的：
@@ -26,7 +26,7 @@ image: "https://static.debuginn.com/202302282003561.jpg"
 
 **使用互斥锁，限定临界区只能同时由一个线程持有**，若是临界区此时被一个线程持有，那么其他线程想进入到这个临界区的时候，就会失败或者等待释放锁，持有此临界区的线程退出，其他线程才有机会获得这个临界区。
 
-![go mutex 临界区示意图](https://static.debuginn.com/202302282005455.jpg)
+![go mutex 临界区示意图](https://webp.debuginn.com/202302282005455.jpg)
 
 Mutex 是 Go 语言中使用最广泛的同步原语，也称为并发原语，**解决的是并发读写共享资源，避免出现数据竞争 data race 问题。**
 
@@ -147,7 +147,7 @@ A：FIFO，先来先服务的策略，Go 的 goroutine 调度中，会维护一�
 
 Mutex 的架构演进目前分为四个阶段：
 
-![Mutex 演化过程](https://static.debuginn.com/202302282008657.jpg)
+![Mutex 演化过程](https://webp.debuginn.com/202302282008657.jpg)
 
 - 初版 Mutex：使用一个 flag 变量表示锁?是否被持有； 
 - **给新人机会**：照顾新来的 goroutine 先获取到锁； 
@@ -172,7 +172,7 @@ Unlock 方法可以被任意的 goroutine 调用释放锁，即使是没持有�
 
 由于使用了给新人机会，又肯呢个会出现每次都会被新来的 goroutine 获取到锁，导致等待的 goroutine 一直获取不到锁，造成饥饿问题。
 
-![state 字段设计](https://static.debuginn.com/202302282009302.jpg)
+![state 字段设计](https://webp.debuginn.com/202302282009302.jpg)
 
 ```go
 type Mutex struct {

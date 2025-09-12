@@ -9,7 +9,7 @@ keywords: "go,mysql,sqlx"
 comments: true
 tags: ["go","mysql"]
 categories: ["golang"]
-image: "https://static.debuginn.com/202303011912531.jpg"
+image: "https://webp.debuginn.com/202303011912531.jpg"
 ---
 
 ## SQLX 库

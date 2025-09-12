@@ -39,7 +39,7 @@ GROUP BY
 	MONTH(FactInternetSales.OrderDate);
 ```
 
-![result](https://static.debuginn.com/202303252142124.png)
+![result](https://webp.debuginn.com/202303252142124.png)
 
 ## 切块操作
 
@@ -63,7 +63,7 @@ GROUP BY
 	MONTH(FactInternetSales.OrderDate);
 ```
 
-![切块操作切块](https://static.debuginn.com/202303252144018.png)
+![切块操作切块](https://webp.debuginn.com/202303252144018.png)
 
 ## 旋转操作
 
@@ -94,7 +94,7 @@ GROUP BY
 	MONTH(FactInternetSales.OrderDate);
 ```
 
-![旋转操作旋转](https://static.debuginn.com/202303252144795.png)
+![旋转操作旋转](https://webp.debuginn.com/202303252144795.png)
 
 ## 旋转+切块
 
@@ -123,7 +123,7 @@ GROUP BY
 	MONTH(FactInternetSales.OrderDate);
 ```
 
-![旋转+切块](https://static.debuginn.com/202303252145242.png)
+![旋转+切块](https://webp.debuginn.com/202303252145242.png)
 
 ## 上钻操作
 
@@ -145,7 +145,7 @@ GROUP BY
 	MONTH(FactInternetSales.OrderDate);
 ```
 
-![上钻](https://static.debuginn.com/202303252146458.png)
+![上钻](https://webp.debuginn.com/202303252146458.png)
 
 ## 下钻操作
 

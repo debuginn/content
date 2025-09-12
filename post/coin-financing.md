@@ -9,7 +9,7 @@ keywords: "coin,financing"
 comments: true
 tags: ["coin"]
 categories: ["coin"]
-image: "https://static.debuginn.com/202303142342799.jpg"
+image: "https://webp.debuginn.com/202303142342799.jpg"
 ---
 
 最近在上了一个在线的理财班（微信群实时上课），因为收费比较便宜，自己抱着学到赚到的原则，看看实际情况进行合理安排自己的进阶课程，因为知道这是一个类似公益性质的课程，之后会推荐他们专业课程，所以自己有一定的衡量，接下来对这个理财做一下小结。

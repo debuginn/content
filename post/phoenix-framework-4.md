@@ -5,7 +5,7 @@ keywords: "phoenix,java"
 comments: true
 tags: ["phoenix","java"]
 categories: ["phoenix"]
-image: "https://static.debuginn.com/202402111005028.jpeg"
+image: "https://webp.debuginn.com/202402111005028.jpeg"
 ---
 
 从 0 到 1 设计业务并发框架系列：
@@ -53,7 +53,7 @@ public interface PhoenixBuilder {
 4. 将每个 API 收集上来的 Task 按照先后依赖关系进行分组划分；
 5. 打印并发分组信息，用来给开发者调试及校验使用；
 
-![划分并发调用组](https://static.debuginn.com/20240218bWEpd9.png)
+![划分并发调用组](https://webp.debuginn.com/20240218bWEpd9.png)
 
 由于存在依赖关系，需要进行分层设计，这里可以结合 [Phoenix 框架 怎么组织设计一个框架](/p/phoenix-framework-2/) 来看，然而每一层并不需要关系执行的顺序问题，这里采用了最简单的数据结构存储分层信息，`Map<String, ArrayList<ArrayList<TaskObj>>>` Key 用来标识属于哪个 API 请求的并发分组，Value 则采用最简单的二维数组进行存储，每一维分别存储需要进行执行的 Task 任务。
 
@@ -63,7 +63,7 @@ public interface PhoenixBuilder {
 
 由于我们要进行构建的是有向无环图，那么存在相互依赖的 Task，在框架设计逻辑中是行不通的，若存在相互依赖，那么究竟该先执行哪个 Task 呢？
 
-![20240507belpU6](https://static.debuginn.com/20240507belpU6.jpeg)
+![20240507belpU6](https://webp.debuginn.com/20240507belpU6.jpeg)
 
 可以看到上图，只要有两个场景：
 
@@ -110,4 +110,4 @@ public interface PhoenixBuilder {
 感谢你的阅读，你要是有好的方案或者好的 idea 可以与我一起交流，最后，如果你感兴趣，推荐关注公众号或订阅本站，欢迎互动与交流，让我们一起变得更强～
 
 
-![WeChat](https://static.debuginn.com/202302202248422.png)
+![WeChat](https://webp.debuginn.com/202302202248422.png)

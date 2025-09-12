@@ -5,7 +5,7 @@ keywords: "algorithm,sort,structure"
 comments: true
 tags: ["algorithm","sort","structure"]
 categories: ["algorithm"]
-image: "https://static.debuginn.com/202302221903175.jpg"
+image: "https://webp.debuginn.com/202302221903175.jpg"
 ---
 
 在 v2ex 社区看到有人提问怎么把十万个电话号码排出出现次数最多的十个电话号码，我看到这个问题的时候第一时间想到的是将十万个电话号码读出来放到 Redis 中，之后做一个动态计数器，使用 foreach 函数对这个电话号码进行遍历，以电话号码为索引 key，计数器 value 进行自增，最后求出最多的电话号码，这样最后时间复杂度为 O(n)，不是一个好的解决方案，之后我看到评论区，有人提出使用归并排序，原理是一样的，不过可以将十万个电话号码平均分成十组，之后每组查找电话号码最多的十个号码，最后将十组最多的号码取出来再次进行相加排序，最后得到的最多的十个号码就是十万个电话号码中出现次数最多的号码。
@@ -19,13 +19,13 @@ image: "https://static.debuginn.com/202302221903175.jpg"
 
 采用**分治思想**，将一个问题拆分为若干个问题，之后将若干个问题解决，最后将若干个结果进行合并，即最终结果。
 
-![归并排序](https://static.debuginn.com/202303122243108.jpeg)
+![归并排序](https://webp.debuginn.com/202303122243108.jpeg)
 
 ## 分治合并
 
 在合并结果阶段，可以看到两个子结果的求解数组为`[1, 2, 6]` 和 `[3, 4, 5]`，将子数组合并排序为 `[1, 2, 3, 4, 5, 6]`。
 
-![分治合并](https://static.debuginn.com/202303122244127.jpeg)
+![分治合并](https://webp.debuginn.com/202303122244127.jpeg)
 
 ## 算法实现
 

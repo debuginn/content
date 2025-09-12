@@ -5,7 +5,7 @@ keywords: "Debug客栈,2022,2023,年度总结"
 comments: true
 tags: ["Debug客栈","2022","2023","年度总结"]
 categories: ["summary"]
-image: "https://static.debuginn.com/202302251041682.jpg"
+image: "https://webp.debuginn.com/202302251041682.jpg"
 ---
 
 今年，时光依旧不饶人，步入社会以来，时间就似乎不会慢下来，都在光速飞逝，很遗憾，今年疫情依旧没有结束，3 月份的时候还作为密切接触者被隔离了 21 天，总的来说，今年有悲伤同时又十分幸运，感觉冥冥之中都是安排好的。
@@ -14,15 +14,15 @@ image: "https://static.debuginn.com/202302251041682.jpg"
 
 [2022年统计数据共享链接](https://analytics.google.com/analytics/web/#/p260538804/reports/reportinghub?params=_u.dateOption%3DyearToDate%26_u.comparisonOption%3Ddisabled)
 
-![访客地图](https://static.debuginn.com/202302251044940.jpg)
+![访客地图](https://webp.debuginn.com/202302251044940.jpg)
 
-![访客数量 & top 文章](https://static.debuginn.com/202302251044112.jpg)
+![访客数量 & top 文章](https://webp.debuginn.com/202302251044112.jpg)
 
 ## 摄影专区
 
 今年为了兴趣爱好买了一台微单 索尼 α6400+18135 镜头，同时，也想着把自己的摄影作品呈现给大家，每年我都会更新一批图片到这里，选 10 张自己认为比较好的图片拿来展出，水平不高，但是每一张照片背后都有属于它的专属意义。[直达链接](https://photo.debuginn.com)
 
-![摄影站点](https://static.debuginn.com/202302251045907.jpg)
+![摄影站点](https://webp.debuginn.com/202302251045907.jpg)
 
 ## 年度事件
 
@@ -30,7 +30,7 @@ image: "https://static.debuginn.com/202302251041682.jpg"
 
 记得在 3 月份的某一天，突然接到领导通知，大家全体居家办公，具体情况听通知，不得外出，下午就接到了确认密接的防疫办的电话，让在家等着去集中隔离，由于密接人数比较多，第二天下午才安排到酒店隔离，一切安排都没有那么混乱，大家都有序进行隔离入住，庆幸的是，隔离的地方还不错，至少可以安心的在隔离期间办公了，隔离期间还下了一场雪，别有一番风景。
 
-![隔离期间的雪](https://static.debuginn.com/202302251046480.jpeg)
+![隔离期间的雪](https://webp.debuginn.com/202302251046480.jpeg)
 
 隔离期间，大家互相勉励，配合大白检测，大家都很有信心，隔离结束之后，得知大家作为密接都没有被感染 😷，像是一个奇迹，大家都好好滴，同时也传来了确诊同事阳转阴的好消息。
 
@@ -82,7 +82,7 @@ ps：不过多介绍，还有下文哦～
 
 今年倾心打造自己的技术主页，术业有专攻，对自己在技术专业能力方面在 23年有更高的要求，同时希望自己在技术圈可以成为有影响力的人，来帮助更多的同行，同时也在不断的提升自己，[直达链接](https://github.com/debuginn)。
 
-![Meng小羽的 GitHub 个人页面](https://static.debuginn.com/202302251051076.jpg)
+![Meng小羽的 GitHub 个人页面](https://webp.debuginn.com/202302251051076.jpg)
 
 ## 总结
 

@@ -5,7 +5,7 @@ keywords: "travel"
 comments: true
 tags: ["travel"]
 categories: ["travel"]
-image: "https://static.debuginn.com/2025051038jxzl.jpg"
+image: "https://webp.debuginn.com/2025051038jxzl.jpg"
 ---
 
 大家好呀，我是 Meng 小羽，未来我计划着后续分享下自己的游记，五一回来公司一直在忙着公司项目，推迟了一周的时间终于可以闲下来记录一下了。
@@ -24,33 +24,33 @@ image: "https://static.debuginn.com/2025051038jxzl.jpg"
 
 我们选择了相对小众的城市——东营。然而，黄河入海口著名的“鸳鸯锅”景观对天气条件要求颇高。我们第一天下午抵达东营时，天已经开始下起零星小雨，还刮起了风——风浪对海水颜色的影响很大。考虑到这样的天气难以看到理想的景色，2 号一早我们暂时放弃了前往入海口景区的计划，改去了当地较为热门的景点——孤东海堤。
 
-![孤东海堤](https://static.debuginn.com/202505109vsKjY.jpg)
+![孤东海堤](https://webp.debuginn.com/202505109vsKjY.jpg)
 
 2 号上午，天气依然阴沉，海风格外强劲，海浪也较大。我们来到了这条颇具人气的“网红海堤”。据说，这条防浪堤原本是东营为保护油田开采而专门修建的，没想到却意外成了一个备受欢迎的网红打卡地。
 
-![对生活比个耶](https://static.debuginn.com/20250510qaxK2J.jpeg)
+![对生活比个耶](https://webp.debuginn.com/20250510qaxK2J.jpeg)
 
-![毫无镜头感的我](https://static.debuginn.com/20250510bpKC6z.jpeg)
+![毫无镜头感的我](https://webp.debuginn.com/20250510bpKC6z.jpeg)
 
 低头一看，海堤上的石块早已布满青苔，在海浪的拍打下，呈现出别样的视觉效果，格外好看。忍不住拍了几张照片，现在看来，每一张都足以用作壁纸。
 
-![海堤与青苔](https://static.debuginn.com/20250510yJb8ur.jpeg)
+![海堤与青苔](https://webp.debuginn.com/20250510yJb8ur.jpeg)
 
-![青苔与海浪](https://static.debuginn.com/20250510bhQ4OG.jpg)
+![青苔与海浪](https://webp.debuginn.com/20250510bhQ4OG.jpg)
 
 当天虽然天气不算理想，但海堤与海浪的画面感十足，拍出来的照片意外地出片。
 
-![海堤与石头](https://static.debuginn.com/20250510FEQ04D.jpg)
+![海堤与石头](https://webp.debuginn.com/20250510FEQ04D.jpg)
 
 在东营，自然也少不了那标志性的磕头机（石油开采设备）。往返孤东海堤的路上，沿途尽是密集的油田，成千上万台磕头机正在有节奏地运转，场面颇为震撼。
 
-![磕头机](https://static.debuginn.com/20250510MCKPqG.jpg)
+![磕头机](https://webp.debuginn.com/20250510MCKPqG.jpg)
 
 ## 黄河入海
 
 当天的风一直没有停，天气也始终阴沉。看到小红书上大家都没有见到“鸳鸯锅”的景象后，我们决定放弃前往景区坐船的计划，转而出发前往烟台。我们选择了一条靠近黄河入海口的道路，算是与黄河在它的末端再度相会。
 
-![黄河入海口](https://static.debuginn.com/20250510AI69MO.jpg)
+![黄河入海口](https://webp.debuginn.com/20250510AI69MO.jpg)
 
 ## 烟大海滩
 
@@ -60,21 +60,21 @@ image: "https://static.debuginn.com/2025051038jxzl.jpg"
 
 次日，我们前往烟大海滩时，发现海滩旁的停车场已满，于是改为从养马岛向西沿海岸线行驶，最终在一处不知名的海滩停下，迎着海风晒太阳，静享片刻宁静。
 
-![海与滩](https://static.debuginn.com/20250510Y48j7B.jpg)
+![海与滩](https://webp.debuginn.com/20250510Y48j7B.jpg)
 
-![浪](https://static.debuginn.com/20250510ufq5VQ.jpg)
+![浪](https://webp.debuginn.com/20250510ufq5VQ.jpg)
 
-![love](https://static.debuginn.com/20250510h21oi3.jpg)
+![love](https://webp.debuginn.com/20250510h21oi3.jpg)
 
 ## 渔人码头
 
 在同事的建议下，去渔人码头看了日落，吃过饭后，在这个半岛上溜达了一圈，很出片。
 
-![日落](https://static.debuginn.com/20250510pLnCHa.jpg)
+![日落](https://webp.debuginn.com/20250510pLnCHa.jpg)
 
-![渔人码头](https://static.debuginn.com/2025051038jxzl.jpg)
+![渔人码头](https://webp.debuginn.com/2025051038jxzl.jpg)
 
-![渔人码头](https://static.debuginn.com/20250510nYuPTS.jpg)
+![渔人码头](https://webp.debuginn.com/20250510nYuPTS.jpg)
 
 这里推荐下烟台的**海肠捞饭**还有大生蚝，建议两个人要一个人的量，因为给的太多了。还有**八鲜馅的包子**，先喝汤再吃馅。
 
@@ -82,17 +82,17 @@ image: "https://static.debuginn.com/2025051038jxzl.jpg"
 
 最后一天旅程，去了蓬莱阁景区，不过五一假期，全都是人从众，在蓬莱阁看长岛很清晰，再看远处的群岛，若隐若现犹如仙境一样。
 
-![黄渤海分界线](https://static.debuginn.com/202505105A03Qm.jpg)
+![黄渤海分界线](https://webp.debuginn.com/202505105A03Qm.jpg)
 
-![远处的长岛](https://static.debuginn.com/20250510zkQn5O.jpg)
+![远处的长岛](https://webp.debuginn.com/20250510zkQn5O.jpg)
 
 偶遇景区节目，嗯，为了促进结婚也是费心了。
 
-![民俗表演](https://static.debuginn.com/20250510bxEaGo.jpg)
+![民俗表演](https://webp.debuginn.com/20250510bxEaGo.jpg)
 
-![蓬莱阁](https://static.debuginn.com/20250510ftfLPZ.jpg)
+![蓬莱阁](https://webp.debuginn.com/20250510ftfLPZ.jpg)
 
-![透过城墙的快艇](https://static.debuginn.com/20250510zQqYeK.jpg)
+![透过城墙的快艇](https://webp.debuginn.com/20250510zQqYeK.jpg)
 
 ## 尾
 

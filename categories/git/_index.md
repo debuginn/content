@@ -1,4 +1,4 @@
 ---
 title: Git
-image: "https://static.debuginn.com/202303252231697.jpg"
+image: "https://webp.debuginn.com/202303252231697.jpg"
 ---

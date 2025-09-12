@@ -5,7 +5,7 @@ keywords: "os,introduction"
 comments: true
 tags: ["os", "system"]
 categories: ["OS"]
-image: "https://static.debuginn.com/202302221853276.jpg"
+image: "https://webp.debuginn.com/202302221853276.jpg"
 ---
 
 > 把一个逻辑地址连续的程序分散存放到几个不连续的内存区域中，并且保证程序的正确执行，即可充分利用内存空间，又可减少移动所花费的开销。

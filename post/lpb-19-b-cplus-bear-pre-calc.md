@@ -9,7 +9,7 @@ keywords: "蓝桥杯"
 comments: true
 tags: ["蓝桥杯","algorithm"]
 categories: ["algorithm"]
-image: "https://static.debuginn.com/202303241303887.jpg"
+image: "https://webp.debuginn.com/202303241303887.jpg"
 ---
 
 X星球的高科技实验室中整齐地堆放着某批珍贵金属原料。

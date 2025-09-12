@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: [ "js","cross" ]
 categories: [ "js" ]
-image: "https://static.debuginn.com/202304131856440.jpg"
+image: "https://webp.debuginn.com/202304131856440.jpg"
 ---
 
 ## JS跨域

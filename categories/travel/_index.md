@@ -1,4 +1,4 @@
 ---
 title: Travel
-image: "https://static.debuginn.com/20250510Y48j7B.jpg"
+image: "https://webp.debuginn.com/20250510Y48j7B.jpg"
 ---

@@ -5,7 +5,7 @@ keywords: "软件工程"
 comments: true
 tags: ["软件工程"]
 categories: ["software"]
-image: "https://static.debuginn.com/202303191228166.jpg"
+image: "https://webp.debuginn.com/202303191228166.jpg"
 ---
 
 **1．请按下述要求绘制类图。**
@@ -14,14 +14,14 @@ image: "https://static.debuginn.com/202303191228166.jpg"
 一个班级有 1 到 40 名学生。
 1 个班级有 1 名担任班主任。
 
-![class班级类图](https://static.debuginn.com/202303191229848.png)
+![class班级类图](https://webp.debuginn.com/202303191229848.png)
 
 **2．请按下述要求绘制出书橱的类图。**
 
 可以把书放到书橱里。
 书橱的门有木制的门或玻璃制的门。
 
-![书橱的类图](https://static.debuginn.com/202303191230260.png)
+![书橱的类图](https://webp.debuginn.com/202303191230260.png)
 
 **3．请按下述要求绘制出网上商店的类图。**
 
@@ -29,11 +29,11 @@ image: "https://static.debuginn.com/202303191228166.jpg"
 购物车里可以装入 10 件商品。
 顾客分会员及非会员两类。
 
-![网上商店的类图](https://static.debuginn.com/202303191231932.png)
+![网上商店的类图](https://webp.debuginn.com/202303191231932.png)
 
 **4．看图回答下面问题** 
 
-![学生-课程关联图](https://static.debuginn.com/202303191232619.png)
+![学生-课程关联图](https://webp.debuginn.com/202303191232619.png)
 
 **类 Student 和类 Course 之间是什么关系？并用文字性语言描述该类图表达意思。**
 

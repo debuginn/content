@@ -2,7 +2,7 @@
 title: "我的项目"
 keywords: "我的项目"
 comments: true
-image: "https://static.debuginn.com/202302262119034.jpg"
+image: "https://webp.debuginn.com/202302262119034.jpg"
 license: false
 readingTime: false
 date: 2023-06-06T08:00:00+08:00

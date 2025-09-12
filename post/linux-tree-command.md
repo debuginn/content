@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["linux","unix","tree"]
 categories: ["OS"]
-image: "https://static.debuginn.com/202303152010224.jpg"
+image: "https://webp.debuginn.com/202303152010224.jpg"
 ---
 
 Tree 命令以树状形状列出目录的内容的一个工具，你时常在 Github 中常看到一些开源项目会将自己的项目目录展现出来，这篇文章的背景图就是展现的开源项目 Laravel 中 app 目录的树状图，接下来介绍一下基本使用语法。

@@ -5,7 +5,7 @@ keywords: "Debug客栈,2024,2025,年度总结"
 comments: true
 tags: ["Debug客栈","2024","2025","年度总结"]
 categories: ["summary"]
-image: "https://static.debuginn.com/20241229aK3HCm.jpeg"
+image: "https://webp.debuginn.com/20241229aK3HCm.jpeg"
 ---
 
 2024 年，这一年就像做梦一样的度过，还好，我终是梦醒了，也没有睡过头。 
@@ -24,7 +24,7 @@ image: "https://static.debuginn.com/20241229aK3HCm.jpeg"
 
 回望今年，这也是我入职公司的第 4 年多，再过半年，我就能解锁金米兔的成就啦 🎉。这段旅程充满挑战，但也伴随着成长与喜悦。
 
-![miwork](https://static.debuginn.com/202302262202290.jpg)
+![miwork](https://webp.debuginn.com/202302262202290.jpg)
 
 ## 站点
 
@@ -32,9 +32,9 @@ image: "https://static.debuginn.com/20241229aK3HCm.jpeg"
 
 同时，我也在持续努力创作优质文章，不断丰富站点的内容。今年，站点的曝光度与流量都有了显著增长，看到更多人关注与认可我的分享，倍感欣慰与动力十足。
 
-![访问者地图](https://static.debuginn.com/20241231x7t5lP.jpg)
+![访问者地图](https://webp.debuginn.com/20241231x7t5lP.jpg)
 
-![访问量](https://static.debuginn.com/20241231xT0S2m.jpg)
+![访问量](https://webp.debuginn.com/20241231xT0S2m.jpg)
 
 ## 文章
 
@@ -56,7 +56,7 @@ image: "https://static.debuginn.com/20241229aK3HCm.jpeg"
 
 今年的开源主要体现在博客和站点的维护上，但其实，分享文章与传播技术，又何尝不是另一种形式的开源呢？
 
-![github](https://static.debuginn.com/20241231a0w1gk.jpeg)
+![github](https://webp.debuginn.com/20241231a0w1gk.jpeg)
 
 ## 生活
 
@@ -64,27 +64,27 @@ image: "https://static.debuginn.com/20241229aK3HCm.jpeg"
 
 这一场如梦般的经历，好在我醒了过来，并且没有睡过头。
 
-![](https://static.debuginn.com/20241225JuJDgq.jpeg)
+![](https://webp.debuginn.com/20241225JuJDgq.jpeg)
 
 今年，我也走过了许多地方，见证了人世间的悲欢离合，用镜头记录下无数动人的瞬间。赛里木湖的湛蓝、《苹果香》中的蓝色小屋、风吹草低的牛羊、第四纪火山的奇特地貌、一望无际的戈壁滩、肉眼可见的深邃银河、万人大合唱的震撼、还有海上的日落与月升……每一处风景都饱含故事，每一帧画面都充满了意义。这一年，旅途不仅拓宽了视野，更丰富了心灵。
 
 在这里分享给大家。
 
-![新疆·果子沟大桥](https://static.debuginn.com/20241225feEOQU.jpeg)
+![新疆·果子沟大桥](https://webp.debuginn.com/20241225feEOQU.jpeg)
 
-![北京·天坛](https://static.debuginn.com/20241225l5WfKG.jpeg)
+![北京·天坛](https://webp.debuginn.com/20241225l5WfKG.jpeg)
 
-![北京·鸟巢五月天演唱会](https://static.debuginn.com/20241225ivgCkw.jpeg)
+![北京·鸟巢五月天演唱会](https://webp.debuginn.com/20241225ivgCkw.jpeg)
 
-![乌兰察布·乌兰布统火山](https://static.debuginn.com/20241225yXBPO5.jpeg)
+![乌兰察布·乌兰布统火山](https://webp.debuginn.com/20241225yXBPO5.jpeg)
 
-![乌兰察布·草原](https://static.debuginn.com/20241225emJVQx.jpeg)
+![乌兰察布·草原](https://webp.debuginn.com/20241225emJVQx.jpeg)
 
-![兰州·马踏飞燕](https://static.debuginn.com/20241225wm4pMb.jpeg)
+![兰州·马踏飞燕](https://webp.debuginn.com/20241225wm4pMb.jpeg)
 
-![金昌·银河](https://static.debuginn.com/20241225ZQvVjT.jpeg)
+![金昌·银河](https://webp.debuginn.com/20241225ZQvVjT.jpeg)
 
-![北京·古北水镇长城](https://static.debuginn.com/20241225Gpckpo.jpeg)
+![北京·古北水镇长城](https://webp.debuginn.com/20241225Gpckpo.jpeg)
 
 
 ## 摄影
@@ -93,13 +93,13 @@ image: "https://static.debuginn.com/20241229aK3HCm.jpeg"
 
 Debug客栈摄影展：[https://photo.debuginn.com](https://photo.debuginn.com/2024/)
 
-![2024年度照片](https://static.debuginn.com/20241225A9zeI4.jpg)
+![2024年度照片](https://webp.debuginn.com/20241225A9zeI4.jpg)
 
 ## 阅读
 
 今年阅读的书籍比较少，但是都非常有营养。
 
-![2024 books](https://static.debuginn.com/20241225GxCeHJ.JPG)
+![2024 books](https://webp.debuginn.com/20241225GxCeHJ.JPG)
 
 感谢同事分享的马伯庸老师的《太白金星有点烦》和《长安的荔枝》，我理解他的作品为神话历史类讽刺小说？
 

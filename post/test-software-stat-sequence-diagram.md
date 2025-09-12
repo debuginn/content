@@ -5,7 +5,7 @@ keywords: "软件工程"
 comments: true
 tags: ["软件工程"]
 categories: ["software"]
-image: "https://static.debuginn.com/202303191228166.jpg"
+image: "https://webp.debuginn.com/202303191228166.jpg"
 ---
 
 
@@ -15,7 +15,7 @@ A）用例图   B）类图   C）状态机图   D）流程图
 
 **2、下面中（   C   ）图表示结束状态。**
 
-![结束状态](https://static.debuginn.com/202303231428357.png)
+![结束状态](https://webp.debuginn.com/202303231428357.png)
 
 **3、UML中，对象行为是通过交互来实现的，是对象间为完成某一目的而进行的一系列消息交换。消息序列可用两种类来表示，分别是（　D　）。**
 
@@ -83,7 +83,7 @@ D.通信图和顺序图不能互换
 
 A．对象           B．箭头线         C．活动           D．状态
 
-![顺序图](https://static.debuginn.com/202303231429539.png)
+![顺序图](https://webp.debuginn.com/202303231429539.png)
 
 **16、顺序图描述（ D   ）对象之间消息的传递顺序。**
 
@@ -103,7 +103,7 @@ A．事件             B．对象           C．执行者         D．数据
 
 **20、 下面的状态图描述了一辆汽车的状态，指出哪种说法是错误的（ D  ）**
 
-![汽车的状态](https://static.debuginn.com/202303231430595.png)
+![汽车的状态](https://webp.debuginn.com/202303231430595.png)
 
 A  “运动”状态是一个组成状态，由多个简单状态组成。
 
@@ -121,7 +121,7 @@ D  “前进”状态和“低速”状态是两个顺序子状态。
 
 （A）行为图   （B）状态图        （C）实现图          （D）顺序图
 
-![交互图](https://static.debuginn.com/202303231432339.png)
+![交互图](https://webp.debuginn.com/202303231432339.png)
 
 **23、顺序图主要可以为设计人员提供（A）信息。**
 

@@ -10,19 +10,19 @@ comments: true
 weight: 0
 tags: ["poster"]
 categories: ["debuginn"]
-image: "https://static.debuginn.com/202303182303574.jpg"
+image: "https://webp.debuginn.com/202303182303574.jpg"
 ---
 
-![《影》](https://static.debuginn.com/202303182306053.jpeg)
+![《影》](https://webp.debuginn.com/202303182306053.jpeg)
 
-![《影》](https://static.debuginn.com/202303182306614.jpg)
+![《影》](https://webp.debuginn.com/202303182306614.jpg)
 
-![《捉妖记》](https://static.debuginn.com/202303182307230.jpg)
+![《捉妖记》](https://webp.debuginn.com/202303182307230.jpg)
 
-![《捉妖记》](https://static.debuginn.com/202303182307618.jpg)
+![《捉妖记》](https://webp.debuginn.com/202303182307618.jpg)
 
-![《道士下山》](https://static.debuginn.com/202303182308105.jpg)
+![《道士下山》](https://webp.debuginn.com/202303182308105.jpg)
 
-![《黄金时代》美版](https://static.debuginn.com/202303182308924.jpg)
+![《黄金时代》美版](https://webp.debuginn.com/202303182308924.jpg)
 
-![《黄飞鸿》](https://static.debuginn.com/202303182308915.jpg)
+![《黄飞鸿》](https://webp.debuginn.com/202303182308915.jpg)

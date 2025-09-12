@@ -9,7 +9,7 @@ keywords: "computer"
 comments: true
 tags: ["computer"]
 categories: ["debuginn"]
-image: "https://static.debuginn.com/202303122249241.jpg"
+image: "https://webp.debuginn.com/202303122249241.jpg"
 ---
 
 早就想着装一台组装机，来实操一下高中学的计算机组装与维修 ?，哈哈，开玩笑，想着组装一台电脑是我早有打算的事情，凭借着在学校实验室的时候帮助老师修理百十来台电脑的经验也可以轻松应对，正好家里人有装电脑的需求，本想着装机是一件比较愉快的事情，实时是激动的心、残废的手，装机翻车了，不过整体流程还可以，最后也正常的运行了起来，听我细细道来吧。
@@ -32,13 +32,13 @@ image: "https://static.debuginn.com/202303122249241.jpg"
 
 ## 包装
 
-![包装](https://static.debuginn.com/202303122254830.jpg)
+![包装](https://webp.debuginn.com/202303122254830.jpg)
 
 不得不说，京东快递就是很快，不过，快归快，3000米，抱着这三个大箱子往住的地方跑，最后手抖不停???，看来要健身减肥了。
 
 打开了纸箱，买的配件都显露了出来，在床上摆拍了一下。
 
-![包装](https://static.debuginn.com/202303122255171.jpg)
+![包装](https://webp.debuginn.com/202303122255171.jpg)
 
 很壮观，也很有气势，哈哈，接下来就进行拆解组装了…………
 
@@ -46,7 +46,7 @@ image: "https://static.debuginn.com/202303122249241.jpg"
 
 一般组装都讲究顺序，作为从不看产品使用说明的我，上来就装起了主板 ?，看到 CPU 和散热风扇在孤零零的躺着，emmm，拆出来吧，唉，就这样才把 CPU 放上，装上了内存，固态 SSD，和散热器，由于太过锋利，又没有防护措施，唉，挂了彩。
 
-![挂了彩](https://static.debuginn.com/202303122255566.jpg)
+![挂了彩](https://webp.debuginn.com/202303122255566.jpg)
 
 此处省略弱鸡的我装机，省略500子，最后终于安装成功。
 
@@ -63,11 +63,11 @@ image: "https://static.debuginn.com/202303122249241.jpg"
 
 经过以上安装步骤，终于安装完毕，请看结果：
 
-![请看结果](https://static.debuginn.com/202303122257806.jpeg)
+![请看结果](https://webp.debuginn.com/202303122257806.jpeg)
 
 插上电源，为我爆灯………………
 
-![为我爆灯](https://static.debuginn.com/202303122258728.jpg)
+![为我爆灯](https://webp.debuginn.com/202303122258728.jpg)
 
 正常运行，感觉良好，记下来就要装系统喽。
 
@@ -75,8 +75,8 @@ image: "https://static.debuginn.com/202303122249241.jpg"
 
 首当其从，当然是 Windows10 啦，嗯，没错，只有 Windows10 是可以配得上我亲手装的机器，所谓郎才配女貌  ??。从公司让同事帮忙借了一套显示器及无线键鼠，之后又安装了大白菜系统，开始安装。
 
-![系统](https://static.debuginn.com/202303122259537.jpg)
+![系统](https://webp.debuginn.com/202303122259537.jpg)
 
 不得不说，现在的配置安装 windows10 真的很快，并且开关机可以达到5秒内完成，牛掰。
 
-![windows10](https://static.debuginn.com/202303122259091.jpg)
+![windows10](https://webp.debuginn.com/202303122259091.jpg)

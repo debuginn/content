@@ -5,7 +5,7 @@ keywords: "NCRE"
 comments: true
 tags: ["NCRE"]
 categories: ["debuginn"]
-image: "https://static.debuginn.com/202303261146594.jpg"
+image: "https://webp.debuginn.com/202303261146594.jpg"
 ---
 
 **在以下几种帧中，属于IEEE 802.11管理帧的是（BC）。**

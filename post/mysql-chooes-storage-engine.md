@@ -6,7 +6,7 @@ keywords: "mysql,engin,database"
 comments: true
 tags: ["mysql","engin","database"]
 categories: ["sql"]
-image: "https://static.debuginn.com/202303121916799.jpg"
+image: "https://webp.debuginn.com/202303121916799.jpg"
 ---
 
 对于数据库这一块询问比较多的就是在 MySQL 中怎么去选择一种合适当前业务需求的存储引擎，而 MySQL 中支持的存储引擎又有很多种，那么 MySQL 中分别又有那些，怎么优雅的使用呢？

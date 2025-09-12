@@ -9,7 +9,7 @@ keywords: "go,standard lib,time rate"
 comments: true
 tags: ["go","standard lib","time rate"]
 categories: ["golang"]
-image: "https://static.debuginn.com/202303011912531.jpg"
+image: "https://webp.debuginn.com/202303011912531.jpg"
 ---
 
 限流器是后台服务中十分重要的组件，在实际的业务场景中使用居多，其设计在微服务、网关、和一些后台服务中会经常遇到。限流器的作用是用来限制其请求的速率，保护后台响应服务，以免服务过载导致服务不可用现象出现。

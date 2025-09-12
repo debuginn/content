@@ -5,7 +5,7 @@ keywords: "NCRE"
 comments: true
 tags: ["NCRE"]
 categories: ["debuginn"]
-image: "https://static.debuginn.com/202303261146594.jpg"
+image: "https://webp.debuginn.com/202303261146594.jpg"
 ---
 
 **在不同类型的操作系统中，批处理操作系统的缺点是：**

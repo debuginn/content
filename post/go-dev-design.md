@@ -5,7 +5,7 @@ keywords: "go,mysql,redis,code review,log,stat,go fmt"
 comments: true
 tags: ["go","mysql","redis","code review","log","stat","go fmt"]
 categories: ["golang"]
-image: "https://static.debuginn.com/202302272119360.png"
+image: "https://webp.debuginn.com/202302272119360.png"
 ---
 
 Go 语言是一种强类型、编译型的语言，在开发过程中，代码规范是尤为重要的，一个小小的失误可能会带来严重的事故，拥有一个良好的 Go 语言开发习惯是尤为重要的，遵守开发规范便于维护、便于阅读理解和增加系统的健壮性。

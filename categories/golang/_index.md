@@ -1,4 +1,4 @@
 ---
 title: Golang
-image: "https://static.debuginn.com/202302262119034.jpg"
+image: "https://webp.debuginn.com/202302262119034.jpg"
 ---

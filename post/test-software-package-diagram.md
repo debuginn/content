@@ -5,7 +5,7 @@ keywords: "软件工程"
 comments: true
 tags: ["软件工程"]
 categories: ["software"]
-image: "https://static.debuginn.com/202303191228166.jpg"
+image: "https://webp.debuginn.com/202303191228166.jpg"
 ---
 
 **1、（   A   )是用于把元素组织成组的通用机制**
@@ -14,7 +14,7 @@ A）包      B、类       C）接口        D）组件
 
 **2、下面哪个符号代表包图（   A   ）**
 
-![包图](https://static.debuginn.com/202303211956908.png)
+![包图](https://webp.debuginn.com/202303211956908.png)
 
 **3、包内的元素可以被包内的元素、继承的子包元素所访问是指包的____B_____。**
 
@@ -62,7 +62,7 @@ A. 类  B. 构件  C. 用例   D. 包
 
 A. 《subsystem》  B. 《facade》  C. 《framework》  D. 《node》
 
-![包的常见构造型](https://static.debuginn.com/202303211959259.png)
+![包的常见构造型](https://webp.debuginn.com/202303211959259.png)
 
 **12、UML系统需求分析阶段产生的包图描述了系统的（  B  ）。**
 
@@ -74,7 +74,7 @@ A、包     B、节点   C、接口    D、组件
 
 **14、如下选项所示，哪一种设计所包含的包之间的依赖关系是最不好的？（A）**
 
-![设计所包含的包之间的依赖关系](https://static.debuginn.com/202303212001634.png)
+![设计所包含的包之间的依赖关系](https://webp.debuginn.com/202303212001634.png)
 
 **15、下面哪一项不是包图中的关系（   D   ）**
 

@@ -6,7 +6,7 @@ keywords: "debuginn,questionnaire"
 comments: true
 tags: ["debuginn", "questionnaire"]
 categories: ["debuginn"]
-image: "https://static.debuginn.com/20241123YYRL9F.jpeg"
+image: "https://webp.debuginn.com/20241123YYRL9F.jpeg"
 ---
 
 ## 简单介绍下自己或者你的博客？
@@ -26,7 +26,7 @@ image: "https://static.debuginn.com/20241123YYRL9F.jpeg"
 
 感谢你关注 Debug客栈，也期待与大家在这里共同成长，探索更多有趣、有价值的内容！
 
-![debuginn](https://static.debuginn.com/20241123LGffwe.png)
+![debuginn](https://webp.debuginn.com/20241123LGffwe.png)
 
 ## 什么契机让你开始写博客？
 
@@ -44,7 +44,7 @@ image: "https://static.debuginn.com/20241123YYRL9F.jpeg"
 
 此外，博客内容也会同步发布到微信公众号「**Debug客栈**」，欢迎关注！
 
-![obsidian](https://static.debuginn.com/20241123Vio0py.png)
+![obsidian](https://webp.debuginn.com/20241123Vio0py.png)
 
 ## 运营博客的过程中是否有失去过动力？
 

@@ -13,8 +13,8 @@ tags: ["蓝桥杯","algorithm"]
 categories: ["algorithm"]
 
 
-image: "https://static.debuginn.com/202303241303887.jpg"
-imagePreview: "https://static.debuginn.com/202303241303887.jpg"
+image: "https://webp.debuginn.com/202303241303887.jpg"
+imagePreview: "https://webp.debuginn.com/202303241303887.jpg"
 ---
 
 下图给出了一个迷宫的平面图，其中标记为1 的为障碍，标记为0 的为可
@@ -77,7 +77,7 @@ imagePreview: "https://static.debuginn.com/202303241303887.jpg"
 DDDDRRURRRRRRDRRRRDDDLDDRDDDDDDDDDDDDRDDRRRURRUURRDDDDRDRRRRRRDRRURRDDDRRRRUURUUUUUUULULLUUUURRRRUULLLUUUULLUUULUURRURRURURRRDDRRRRRDDRRDDLLLDDRRDDRDDLDDDLLDDLLLDLDDDLDDRRRRRRRRRDDDDDDRR
 ```
 
-![答案](https://static.debuginn.com/202303242147586.png)
+![答案](https://webp.debuginn.com/202303242147586.png)
 
 ```c
 #include<cstdio>

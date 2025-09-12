@@ -9,7 +9,7 @@ keywords: "go,net,socket"
 comments: true
 tags: ["go","net","socket"]
 categories: ["golang"]
-image: "https://static.debuginn.com/202303031854061.jpg"
+image: "https://webp.debuginn.com/202303031854061.jpg"
 ---
 
 ## TCP/IP
@@ -23,9 +23,9 @@ TCP/IP 传输协议，即传输控制/网络协议，也叫作网络通讯协议
 - **网络层**：IP，ICMP，OSPF，EIGRP，IGMP 
 - **数据链路层**：SLIP，CSLIP，PPP，MTU
 
-![ip](https://static.debuginn.com/202303032258519.jpg)
+![ip](https://webp.debuginn.com/202303032258519.jpg)
 
-![tcp](https://static.debuginn.com/202303032258291.gif)
+![tcp](https://webp.debuginn.com/202303032258291.gif)
 
 ## Socket
 
@@ -37,7 +37,7 @@ socket是一种"打开—读/写—关闭"模式的实现，服务器和客户�
 
 Socket 是实现“打开--读/写--关闭”这样的模式，以使用 TCP 协议通讯的 socket 为例。如下图所示：
 
-![socket](https://static.debuginn.com/202303032259498.png)
+![socket](https://webp.debuginn.com/202303032259498.png)
 
 ## TCP 实现
 

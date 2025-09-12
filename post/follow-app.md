@@ -6,7 +6,7 @@ keywords: "follow,app,RSS,RSS3"
 comments: true
 tags: ["follow", "app", "RSS", "RSS3"]
 categories: ["debuginn"]
-image: "https://static.debuginn.com/20241013ivn8eL.jpeg"
+image: "https://webp.debuginn.com/20241013ivn8eL.jpeg"
 ---
 
 近期体验了一款高效的私有化信息订阅平台，给大家推荐一下，官方则是描述为 Next-gen information browser，下一代的信息浏览器，它不单纯是一个 RSS 订阅软件，因为在传统的 RSS 仅仅订阅的是网站的 feed 流信息进行 follow。
@@ -15,7 +15,7 @@ image: "https://static.debuginn.com/20241013ivn8eL.jpeg"
 
 ## Follow
 
-![Follow](https://static.debuginn.com/20241009Vpq1w7.jpg)
+![Follow](https://webp.debuginn.com/20241009Vpq1w7.jpg)
 
 Follow 不单单提供了 RSS 的订阅，它的定位更是官网中所描述的 "下一代的信息浏览器"，目前它提供的功能有：
 
@@ -47,17 +47,17 @@ Follow 不单单提供了 RSS 的订阅，它的定位更是官网中所描述�
 
 ### AI Summary
 
-![summary](https://static.debuginn.com/20241009tNs61I.png)
+![summary](https://webp.debuginn.com/20241009tNs61I.png)
 
 通过自动化设置，可以将文章使用 AI 生成摘要，一些复杂难懂且文章比较长的场景，通过 AI 进行总结，可以带来阅读效率的极大提升。
 
-![summary](https://static.debuginn.com/20241010rGF6de.png)
+![summary](https://webp.debuginn.com/20241010rGF6de.png)
 
 ### 订阅共享
 
 订阅共享功能是 Follow 的特色功能，大家可以通过订阅的文章了解到和自己一样订阅这个文章的人他（她）们订阅了什么信息，从而充实自己的订阅源。
 
-![share](https://static.debuginn.com/20241010Fe5wr7.png)
+![share](https://webp.debuginn.com/20241010Fe5wr7.png)
 
 ### 邀请制
 
@@ -70,7 +70,7 @@ Follow 不单单提供了 RSS 的订阅，它的定位更是官网中所描述�
 
 相信未来代币可以在 Follow 中有更多的场景和玩法，同时作者还承诺代币未来的价值，期待 (✧∀✧)
 
-![invite](https://static.debuginn.com/20241013nluSz7.png)
+![invite](https://webp.debuginn.com/20241013nluSz7.png)
 
 ## 写在最后
 

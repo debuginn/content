@@ -5,7 +5,7 @@ keywords: "笔记,数据结构"
 comments: true
 tags: ["笔记", "数据结构"]
 categories: ["algorithm"]
-image: "https://static.debuginn.com/202302221903175.jpg"
+image: "https://webp.debuginn.com/202302221903175.jpg"
 ---
 
 ## 与哈夫曼树相关名词
@@ -20,7 +20,7 @@ image: "https://static.debuginn.com/202302221903175.jpg"
 
 树的带权路径长度为树中所有叶子结点的带权路径长度之和。通常记作 “WPL” 。
 
-![哈夫曼树](https://static.debuginn.com/202304141934409.png)
+![哈夫曼树](https://webp.debuginn.com/202304141934409.png)
 
 此树的带全路径长度为：
 
@@ -40,7 +40,7 @@ image: "https://static.debuginn.com/202302221903175.jpg"
 2. 在原有的 n 个权值中删除那两个最小的权值，同时将新的权值加入到 n–2 个权值的行列中，以此类推； 
 3. 重复 1 和 2 ，直到所以的结点构建成了一棵二叉树为止，这棵树就是哈夫曼树。
 
-![构建哈夫曼树](https://static.debuginn.com/202304141935930.png)
+![构建哈夫曼树](https://webp.debuginn.com/202304141935930.png)
 
 - （A）给定了四个结点a，b，c，d，权值分别为7，5，2，4； 
 - 第一步如（B）所示，找出现有权值中最小的两个，2 和 4 ，相应的结点 c 和 d 构建一个新的二叉树，树根的权值为 2 + 4 = 6，同时将原有权值中的 2 和 4 删掉，将新的权值 6 加入； 
@@ -132,7 +132,7 @@ void Select(HuffmanTree HT, int end, int *s1, int *s2)
 
 > 文本中字符出现的次数越多，在哈夫曼树中的体现就是越接近树根。编码的长度越短。
 
-![哈夫曼编码](https://static.debuginn.com/202304142149107.png)
+![哈夫曼编码](https://webp.debuginn.com/202304142149107.png)
 
 如图所示，字符 a 用到的次数最多，其次是字符 b 。字符 a 在哈夫曼编码是 0 ，字符 b 编码为 10 ，字符 c 的编码为 110 ，字符 d 的编码为 111 。
 

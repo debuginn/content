@@ -5,7 +5,7 @@ keywords: "笔记,数据结构"
 comments: true
 tags: ["笔记", "数据结构"]
 categories: ["algorithm"]
-image: "https://static.debuginn.com/202302221903175.jpg"
+image: "https://webp.debuginn.com/202302221903175.jpg"
 ---
 
 ## B+树定义
@@ -19,7 +19,7 @@ image: "https://static.debuginn.com/202302221903175.jpg"
 
 例如，下图中所示的就是一棵深度为 4 的 3 阶 B+树：
 
-![b+ tree](https://static.debuginn.com/202304142210301.png)
+![b+ tree](https://webp.debuginn.com/202304142210301.png)
 
 如上图所示，B+树中含有两个头指针，一个指向整棵树的根结点，另一个指向关键字最小的叶子结点。同时所有的叶子结点依据其关键字的大小自小而大顺序链接，所有的叶子结点构成了一个 sqt 指针为头指针的链表。
 

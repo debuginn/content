@@ -5,7 +5,7 @@ keywords: "理财,港卡,港卡开户,投资,港美股,跨境支付通,汇丰ONE
 comments: true
 tags: ["理财","港卡","港卡开户","投资","港美股","跨境支付通","汇丰ONE","中银香港","众安银行"]
 categories: ["coin"]
-image: "https://static.debuginn.com/20250803ABvd0s.jpeg"
+image: "https://webp.debuginn.com/20250803ABvd0s.jpeg"
 ---
 大家好呀，我是 Meng小羽，最近去香港旅游，顺便办了港卡，给大家分享下办理的指南，先说下成果，一共办理了 5 张卡，其中 2 张实体卡有中国银行（香港）卡、汇丰 HSBC 红狮子卡（One 账户），其他 3 张都是数字银行：众安银行、天星银行还有蚂蚁银行。
 
@@ -45,7 +45,7 @@ image: "https://static.debuginn.com/20250803ABvd0s.jpeg"
 10. **中国银行银行卡**：用于办理中银香港卡，提前在大陆开通中国银行的银行卡（一类二类卡均可），存入资金养卡即可；
 11. **手机带有 NFC 功能**；
 
-![chujin](https://static.debuginn.com/20250803jSi4Am.jpg)
+![chujin](https://webp.debuginn.com/20250803jSi4Am.jpg)
 
 ## 中银香港开户
 
@@ -73,7 +73,7 @@ image: "https://static.debuginn.com/20250803ABvd0s.jpeg"
 
 这里的英文地址填写要填写自己居住的地址（电邮地址），后续制卡邮寄的地址。
 
-![address](https://static.debuginn.com/20250803JvlCKs.jpg)
+![address](https://webp.debuginn.com/20250803JvlCKs.jpg)
 
 2. **存入资金**
 
@@ -102,6 +102,6 @@ image: "https://static.debuginn.com/20250803ABvd0s.jpeg"
 - **众安银行 ZA Bank**：专属邀请码 **J36MK3** ，是香港第一的数字银行，界面简洁，UI 是这些银行中相对友好的；
 - **天星银行 Airstar Bank**：[专属邀请链接](https://app.airstarbank.com/apph5/friendsInvite_appLink.html#/detail)，小米和富途占股银行，港币兑换美元汇率与其他银行相比比较优惠些；
 
-![Digital Bank](https://static.debuginn.com/20250803ySucvO.jpeg)
+![Digital Bank](https://webp.debuginn.com/20250803ySucvO.jpeg)
 
 最后，如果你对**港美股开户、以及香港银行卡、新加坡银行卡**开通感兴趣或者开户有问题，欢迎关注微信公众号「**Debug 客栈**」并私信留言，我会第一时间给大家解答疑问，另外你有更便捷的开卡方式，推荐分享到评论区，帮助更多的人。

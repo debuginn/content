@@ -18,7 +18,7 @@ links:
     website: https://blognas.hwb0307.com
     description: 百代繁华一朝都，谁非过客；千秋明月吹角寒，花是主人。
   - title: 浮云的博客
-    image: https://static.debuginn.com/202311181848462.ico
+    image: https://webp.debuginn.com/202311181848462.ico
     website: https://last2win.com/
     description: 浮云的博客
   - title: 王明明的小站
@@ -42,7 +42,7 @@ links:
     website: https://codeobservatory.cn
     description: 技术分享，编程学习
   - title: forecho
-    image: https://static.debuginn.com/20250828sqFsS0.png
+    image: https://webp.debuginn.com/20250828sqFsS0.png
     website: https://blog.forecho.com/
     description: 把生命浪费在美好的事物上
 
@@ -50,7 +50,7 @@ links:
 comments: true
 license: false
 readingTime: false
-image: "https://static.debuginn.com/20250221QKKCYH.jpeg"
+image: "https://webp.debuginn.com/20250221QKKCYH.jpeg"
 ---
 
 ## 博客组织
@@ -69,6 +69,6 @@ image: "https://static.debuginn.com/20250221QKKCYH.jpeg"
  | 
 [笔墨迹](https://blogscn.fun/)
 
-![friend](https://static.debuginn.com/20250607PVNEDF.png)
+![friend](https://webp.debuginn.com/20250607PVNEDF.png)
 
 ## 友情链接

@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["http","post","get"]
 categories: ["agreement"]
-image: "https://static.debuginn.com/202304131900179.jpg"
+image: "https://webp.debuginn.com/202304131900179.jpg"
 ---
 
 ## 给服务器传递数据量

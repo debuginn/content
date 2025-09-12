@@ -5,7 +5,7 @@ keywords: "软件质量测试"
 comments: true
 tags: ["软件质量测试"]
 categories: ["software"]
-image: "https://static.debuginn.com/202303191412328.jpg"
+image: "https://webp.debuginn.com/202303191412328.jpg"
 ---
 
 ## 问题描述
@@ -37,10 +37,10 @@ image: "https://static.debuginn.com/202303191412328.jpg"
 
 根据最终的因果图生成判定表：
 
-![因果图生成判定表](https://static.debuginn.com/202303191413964.png)
+![因果图生成判定表](https://webp.debuginn.com/202303191413964.png)
 
 最后把测试用例写出来： 
 
-![测试用例](https://static.debuginn.com/202303191414741.png)
+![测试用例](https://webp.debuginn.com/202303191414741.png)
 
 转载自文章： [测试用例设计技术-因果图之二](https://blog.csdn.net/xuhongge/article/details/2627464) 

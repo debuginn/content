@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["project"]
 categories: ["debuginn"]
-image: "https://static.debuginn.com/202307102310436.jpg"
+image: "https://webp.debuginn.com/202307102310436.jpg"
 ---
 
 > 在工作中，接手负责管理别人开发或者前人开发的项目是每个开发人员的工作任务之一，那么，如何快速并且高效的消化接手过来的项目呢，本文主要讲解一些方法与实践技巧，希望可以帮助你快速了解你接手的项目。

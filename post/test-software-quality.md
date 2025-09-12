@@ -5,7 +5,7 @@ keywords: "软件质量测试"
 comments: true
 tags: ["软件质量测试"]
 categories: ["software"]
-image: "https://static.debuginn.com/202303191356876.jpg"
+image: "https://webp.debuginn.com/202303191356876.jpg"
 ---
 
 **1、什么是软件、软件的特征有哪些？**
@@ -57,7 +57,7 @@ image: "https://static.debuginn.com/202303191356876.jpg"
 
 **7、什么是软件质量控制模型TSQC？**
 
-![TSQC模型](https://static.debuginn.com/202303191358662.png)
+![TSQC模型](https://webp.debuginn.com/202303191358662.png)
 
 TSQC过程是一个调节和控制那些影响软件质量的参数的过程。隐形软件质量的参数如下：
 
@@ -180,7 +180,7 @@ TSQC过程是PDCA的几个活动的循环。
 
 单元测试、集成测试、系统测试、验收测试、在所有测试过程中始终贯穿着回归测试。
 
-![软件测试过程V字模型](https://static.debuginn.com/202303191405290.png)
+![软件测试过程V字模型](https://webp.debuginn.com/202303191405290.png)
 
 **22、软件测试的种类有哪些？**
 
