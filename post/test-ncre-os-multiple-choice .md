@@ -5,7 +5,7 @@ keywords: "NCRE"
 comments: true
 tags: ["NCRE"]
 categories: ["debuginn"]
-image: "https://static.debuginn.com/202303261146594.jpg"
+image: "https://webp.debuginn.com/202303261146594.jpg"
 ---
 
 **保存在进程控制块中的是**

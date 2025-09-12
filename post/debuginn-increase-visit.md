@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["技术","博文"]
 categories: ["summary"]
-image: "https://static.debuginn.com/202303261138384.jpg"
+image: "https://webp.debuginn.com/202303261138384.jpg"
 ---
 
 看到别人翻译的一篇文章，是讨论如何提高博客访问量的，提到的有几个方法蛮有新意，不过不赞成原文的“在聚合中只输出摘要”的方法。

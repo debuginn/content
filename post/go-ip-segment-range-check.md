@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["go","ip"]
 categories: ["golang"]
-image: "https://static.debuginn.com/202303011905845.jpg"
+image: "https://webp.debuginn.com/202303011905845.jpg"
 ---
 
 近期做了一个需求，是检测某个 IP 是否在若干 IP 段内，做固定地点 IP 筛查，满足特定业务需求。

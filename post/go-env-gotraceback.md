@@ -5,7 +5,7 @@ keywords: "go,env,GOTRACEBACK"
 comments: true
 tags: ["go","env","GOTRACEBACK"]
 categories: ["golang"]
-image: "https://static.debuginn.com/20240909WOFpJS.jpg"
+image: "https://webp.debuginn.com/20240909WOFpJS.jpg"
 ---
 
 近期迁移了一个 go 的项目至 k8s 机器上，发现机器不时会自动重启，当想看重启前日志的时候，Goroutine 运行的状态全部都打印了出来，由于公司云平台查看行数限制，看到最后，还是没有想要看到的 panic 的关键堆栈信息。
@@ -189,13 +189,13 @@ func b() {
 
 ### All 显示所有信息
 
-![20240827iHys3u](https://static.debuginn.com/20240827iHys3u.png)
+![20240827iHys3u](https://webp.debuginn.com/20240827iHys3u.png)
 
 可以看到，运行时所有的 Goroutine 信息都被打印了出来。
 
 ### None 不输出任何信息
 
-![20240827iDAwRU](https://static.debuginn.com/20240827iDAwRU.png)
+![20240827iDAwRU](https://webp.debuginn.com/20240827iDAwRU.png)
 
 设置为 none 后，只会将运行信息打印出来，非用户打印信息不会抛出。
 
@@ -204,6 +204,6 @@ func b() {
 
 这个设置参数也是默认的设置：
 
-![20240827t9D7HY](https://static.debuginn.com/20240827t9D7HY.png)
+![20240827t9D7HY](https://webp.debuginn.com/20240827t9D7HY.png)
 
 这里只会显示导致 panic 的 goroutine 的堆栈信息以及运行状态。

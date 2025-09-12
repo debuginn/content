@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["Debug客栈","2020","2021","年度总结"]
 categories: ["summary"]
-image: "https://static.debuginn.com/202302272141603.jpeg"
+image: "https://webp.debuginn.com/202302272141603.jpeg"
 ---
 
 今年，最大的感受就是时间过的太快了，一切都是那么的来不及 ......
@@ -25,7 +25,7 @@ image: "https://static.debuginn.com/202302272141603.jpeg"
 
 今年是小站运行的第 4 年，感谢大家的支持与访问，这是我分享的天地、同时也是见证我成长的地方，加油～ 一往无前 ！！！
 
-![2020 年度访问](https://static.debuginn.com/202302272142177.png)
+![2020 年度访问](https://webp.debuginn.com/202302272142177.png)
 
 ## 最受欢迎的文章
 

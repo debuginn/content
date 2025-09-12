@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["js","jquery"]
 categories: ["js"]
-image: "https://static.debuginn.com/202303161941860.jpg"
+image: "https://webp.debuginn.com/202303161941860.jpg"
 ---
 
 马上就要到了传统节日“春节”?，网站添加了飞雪❄️特效，从网上找了源代码，先要感谢张戈博客分享?，现计划将网站在今天上线至过年回来下线，看看可以么，你可以复制到自己的网站或者博客体验一波，加上《一剪梅》真是别有一番滋味。

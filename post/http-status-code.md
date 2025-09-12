@@ -5,7 +5,7 @@ keywords: "http status code"
 comments: true
 tags: ["http"]
 categories: ["agreement"]
-image: "https://static.debuginn.com/202303181451617.jpeg"
+image: "https://webp.debuginn.com/202303181451617.jpeg"
 ---
 
 当浏览者访问一个网页时，浏览者的浏览器会向网页所在服务器发出请求。当浏览器接收并显示网页前，此网页所在的服务器会返回一个包含HTTP状态码的信息头（server header）用以响应浏览器的请求。

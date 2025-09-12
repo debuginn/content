@@ -5,7 +5,7 @@ keywords: "git"
 comments: true
 tags: ["git"]
 categories: ["git"]
-image: "https://static.debuginn.com/202303252231697.jpg"
+image: "https://webp.debuginn.com/202303252231697.jpg"
 ---
 
 ## 常规操作

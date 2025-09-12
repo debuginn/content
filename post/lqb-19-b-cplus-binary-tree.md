@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["蓝桥杯","algorithm"]
 categories: ["algorithm"]
-image: "https://static.debuginn.com/202303241303887.jpg"
+image: "https://webp.debuginn.com/202303241303887.jpg"
 ---
 
 ## 问题描述
@@ -18,7 +18,7 @@ image: "https://static.debuginn.com/202303241303887.jpg"
 给定一棵包含N 个节点的完全二叉树，树上每个节点都有一个权值，按从
 上到下、从左到右的顺序依次是A1, A2,...... AN，如下图所示：
 
-![完全二叉树](https://static.debuginn.com/202303242155344.png)
+![完全二叉树](https://webp.debuginn.com/202303242155344.png)
 
 
 现在小明要把相同深度的节点的权值加在一起，他想知道哪个深度的节点

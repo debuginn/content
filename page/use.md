@@ -4,7 +4,7 @@ date: 2025-07-26T11:30:00+08:00
 keywords: "use"
 comments: true
 tags: ["use"]
-image: "https://static.debuginn.com/20250725uaor1Q.jpg"
+image: "https://webp.debuginn.com/20250725uaor1Q.jpg"
 ---
 
 基本上所有大件物品购买基本上我采用《三天原则》，“连续三天，考虑这个设备我有没有必要买，买了我使用的频率又是怎么样的呢？在第三天的时候还是强烈的需求，则加购，若没有，则放弃购买”。在这个原则下，我还是有很多吃灰的设备和多余的软件或者服务付费，但是已经相对理性了。同时希望大家**理性消费**。

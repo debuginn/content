@@ -5,7 +5,7 @@ keywords: "os,introduction"
 comments: true
 tags: ["os", "system"]
 categories: ["OS"]
-image: "https://static.debuginn.com/202302221853276.jpg"
+image: "https://webp.debuginn.com/202302221853276.jpg"
 ---
 
 调度是分层次的，在操作系统中，一般将调度分为高级调度、中级调度和低级调度。
@@ -94,7 +94,7 @@ CPU利用率：用于对批处理系统的度量，系统每小时可完成多�
 
 基本思想：将CPU的处理时间划分为一个个的时间片，就绪队列中的诸程序轮流运行一个时间片。当时间片结束时，就强迫运行的进程让出CPU，该进程机内就绪队列，等待下一次调度。同时，进程调度又去选择就绪队列中的一个进程，分配给它一个时间片，以投入运行。
 
-![轮转法RR算法](https://static.debuginn.com/202304132254517.png)
+![轮转法RR算法](https://webp.debuginn.com/202304132254517.png)
 
 影响时间片值设置的几个主要因素：
 

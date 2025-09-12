@@ -5,7 +5,7 @@ keywords: "os,runtime,运行机制"
 comments: true
 tags: ["os", "runtime", "操作系统", "学习笔记"]
 categories: ["OS"]
-image: "https://static.debuginn.com/202302221949419.jpg"
+image: "https://webp.debuginn.com/202302221949419.jpg"
 ---
 
 ## 中央处理器CPU
@@ -43,7 +43,7 @@ image: "https://static.debuginn.com/202302221949419.jpg"
 
 处理指令的最简单的方式包括两种步骤：处理器先从存储器中每次读取一条指令，然后执行这条指令。
 
-![处理指令步骤](https://static.debuginn.com/202302221954410.png)
+![处理指令步骤](https://webp.debuginn.com/202302221954410.png)
 
 这些指令大致分为以下五类：
 
@@ -140,7 +140,7 @@ PSW包括以下状态代码：
 
 存储速度越快，平均每比特价格越高，容量越小，平均每比特的价格越低，同时容量也增大。
 
-![存储器的层次结构](https://static.debuginn.com/202302222008421.png)
+![存储器的层次结构](https://webp.debuginn.com/202302222008421.png)
 
 ### 存储访问局部性原理
 

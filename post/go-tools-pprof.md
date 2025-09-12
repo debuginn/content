@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["Go","pprof","分析","go pprof","go tools"]
 categories: ["golang"]
-image: "https://static.debuginn.com/202302262119034.jpg"
+image: "https://webp.debuginn.com/202302262119034.jpg"
 ---
 
 ## 前言
@@ -75,7 +75,7 @@ http://127.0.0.1:8848/debug/pprof/trace      # 当前程序执行的跟踪
 
 ## 分析
 
-![cpu profile](https://static.debuginn.com/202302262125077.png)
+![cpu profile](https://webp.debuginn.com/202302262125077.png)
 
 上图是针对 CPU 使用做的采集可视化，箭头越粗、方块越大就代表着对应的操作消耗 CPU 大，可以看到占用 CPU 最多的操作就是 json 的序列化和反序列化操作。
 

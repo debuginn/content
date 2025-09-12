@@ -5,7 +5,7 @@ keywords: "小米,职场,小米汽车,职业生涯,五周年"
 comments: true
 tags: ["小米","职场","小米汽车","职业生涯","五周年"]
 categories: ["job"]
-image: "https://static.debuginn.com/20250708YetNyt.jpeg"
+image: "https://webp.debuginn.com/20250708YetNyt.jpeg"
 ---
 
 大家好呀，我是 Meng小羽，今天是我入职小米 5 周年的一天，也是我正式职业生涯的 5 年，5 年是一个职业发展的节点，接下来给大家分享一下我的 5 年职场的那些事儿。
@@ -22,7 +22,7 @@ image: "https://static.debuginn.com/20250708YetNyt.jpeg"
 
 20 年春，准备完毕业答辩，毕业季，由于口罩原因，没能回学校参加毕业典礼，还记得毕业证书和学位证书还是通过邮寄的方式“云毕业”的，😂，应该历年来毕业中最简单的一年了。
 
-![love](https://static.debuginn.com/20250705sCAO7p.jpg)
+![love](https://webp.debuginn.com/20250705sCAO7p.jpg)
 
 ## 入职
 
@@ -32,7 +32,7 @@ image: "https://static.debuginn.com/20250708YetNyt.jpeg"
 
 那时候还有高管给面对面的培训，还有一些职场基本技能的培训，金字塔原理、结构化思维等等课程，至今对自己的职场包括生活都很有帮助。
 
-![YOU计划](https://static.debuginn.com/20250611xKEbdf.webp)
+![YOU计划](https://webp.debuginn.com/20250611xKEbdf.webp)
 
 集团的培训当然没有技能的相关培训，但是部门内，对应届生有两个阶段的培训，一个是部门的对应届生的集中业务与代码规范的集训，还有就是我们公司的青蓝导师制度，每一个应届生都会安排一名导师，一起带着做项目，Review 代码等相关的辅导，很荣幸遇到了一位很负责和认真的导师文哥。
 
@@ -44,7 +44,7 @@ image: "https://static.debuginn.com/20250708YetNyt.jpeg"
 
 不过后来在系统组有两个月的时间，我就被重新分配到了业务部门，开始从事业务相关代码的开发工作，最开始从组内基建工作开始做起，之后就是相对来说比较简单的练手的项目，之后就作为机动力量开始支援组内的业务开发，也在积累着相关的技能。
 
-![square](https://static.debuginn.com/20250705pEmBsi.JPG)
+![square](https://webp.debuginn.com/20250705pEmBsi.JPG)
 
 真正自己作为核心开发开始承接项目，算是从第二年，那时候整个小米在战略上专注于服务数字化的建设，也就是服务通专项，自己作为其中的一环担任了一年的核心项目的开发，从 0 到 1 构建起了 C 端服务通的建设。
 
@@ -54,7 +54,7 @@ image: "https://static.debuginn.com/20250708YetNyt.jpeg"
 
 开始接手与维护开发产品站相关的业务，那时候我们的产品站已经经过了 8 年多时间的沉淀，变得愈发的复杂与难以维护，怎么把这个烫手的山芋消化掉，是当时的重中之重，当时部门还在往 Java 技术栈转型，自己的技术栈的功底还是相对来说比较薄弱的。但是业务需求越来越多，对于产品站的革新变得也越来越迫在眉睫，当时推动领导做出了决定，就是我们要重新设计与规划产品站的设计，便于后续的开发迭代与维护工作，同时也做到高效的开发与成本的降低。于是开发并设计了[有向无环图的并发框架 Phoenix 框架](/categories/phoenix/)，这个框架的思想之前还在博客给大家分享过，通过 Java 实现。
 
-![phoenix](https://static.debuginn.com/202402111005028.jpeg)
+![phoenix](https://webp.debuginn.com/202402111005028.jpeg)
 
 现在也是一样，业务都在不断的变化着，自己负责的业务领域也随着职级的变化在调整着，只有不断的学习与积累经验，才可以应对工作上的难题。
 
@@ -76,7 +76,7 @@ image: "https://static.debuginn.com/20250708YetNyt.jpeg"
 
 以上，5 年时间，总结了 5 点小经验，与大家分享和共勉，屏幕前的你可能已经工作了 5 年 10 年可能还没有 5 年时间，也欢迎你把你的经验在评论区分享给大家。
 
-![moon](https://static.debuginn.com/20250705C9rAhC.jpg)
+![moon](https://webp.debuginn.com/20250705C9rAhC.jpg)
 
 ## 结
 
@@ -88,6 +88,6 @@ image: "https://static.debuginn.com/20250708YetNyt.jpeg"
 
 未来，继续努力，不断的学习与成长，接触与学习新鲜的知识技能与事物，持续积累，让我们下一个 5 年再见。
 
-![XiaoMi Su7 U](https://static.debuginn.com/20250703vt6I6K.jpg)
+![XiaoMi Su7 U](https://webp.debuginn.com/20250703vt6I6K.jpg)
 
 这就是我第一个 5 年职业生涯，你的第一个 5 年生涯是怎么度过的呢，欢迎在评论区分享你的成长，让我们一起变得更强！

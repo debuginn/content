@@ -5,7 +5,7 @@ keywords: "phoenix,java"
 comments: true
 tags: ["phoenix","java"]
 categories: ["phoenix"]
-image: "https://static.debuginn.com/202402111005028.jpeg"
+image: "https://webp.debuginn.com/202402111005028.jpeg"
 ---
 
 ## 背景
@@ -16,7 +16,7 @@ image: "https://static.debuginn.com/202402111005028.jpeg"
 
 前两篇文章已经讲述了我设计框架的背景以及抽象设计的细节，今天讲一下并发框架最为关键的并发线程池的核心设计，主要讲一下在设计线程池划分遇到的问题以及最终我采用了哪种方式实现的。
 
-![并发调用组](https://static.debuginn.com/202306292017666.png)
+![并发调用组](https://webp.debuginn.com/202306292017666.png)
 
 将存在依赖关系的 Task 进行划分分组后，依次执行分组就可以拿到所有想要的结果，但是怎么划分线程池、设置线程池是面临的问题。
 
@@ -28,7 +28,7 @@ image: "https://static.debuginn.com/202402111005028.jpeg"
 
 最开始，我计划将分配的 Task 公用一个线程池，让 Task 去线程池竞争资源，如下图：
 
-![公用线程池](https://static.debuginn.com/20240402UDmgNy.jpeg)
+![公用线程池](https://webp.debuginn.com/20240402UDmgNy.jpeg)
 
 但是很快发现，单个线程池一旦请求数量上来，某个 Task 接口变慢就会导致整个接口成功率急速下降，直至不可用的状态。
 
@@ -36,7 +36,7 @@ image: "https://static.debuginn.com/202402111005028.jpeg"
 
 ### 效果
 
-![公用线程池](https://static.debuginn.com/202404024RVJfT.jpeg)
+![公用线程池](https://webp.debuginn.com/202404024RVJfT.jpeg)
 
 - **T1 时刻**，第 1 波流量进来，之后率先执行 TaskA 或者 TaskB；
 - TaskA 请求的快速递增，接口变得越来越慢；
@@ -62,13 +62,13 @@ image: "https://static.debuginn.com/202402111005028.jpeg"
 
 公用线程池的情况肯定是有问题的，在此基础上，尝试将分层并发划分不同的并发池，每一层公用线程池，如下图：
 
-![分层线程池](https://static.debuginn.com/20240402liTZYD.jpeg)
+![分层线程池](https://webp.debuginn.com/20240402liTZYD.jpeg)
 
 上了分层公用线程池之后，压力测试发现效果只有小幅的提升，没有达到预期的目标，甚至来说相差很远，为啥会出现这个问题？
 
 ### 效果
 
-![分层线程池](https://static.debuginn.com/20240402tpIWJo.jpeg)
+![分层线程池](https://webp.debuginn.com/20240402tpIWJo.jpeg)
 
 
 我们还是假设 TaskA 会随着请求量上来会大面积超时来举例。
@@ -101,14 +101,14 @@ image: "https://static.debuginn.com/202402111005028.jpeg"
 
 ### 方案
 
-![独立线程池](https://static.debuginn.com/20240402lXnyb4.jpeg)
+![独立线程池](https://webp.debuginn.com/20240402lXnyb4.jpeg)
 
 
 每个 Task 单独创建线程池来承接流量，各个线程池互相不干扰，同时承接流量交给 CPU 抢占资源进行调度运行。
 
 ### 效果
 
-![独立线程池](https://static.debuginn.com/20240402i6w2aW.jpeg)
+![独立线程池](https://webp.debuginn.com/20240402i6w2aW.jpeg)
 
 
 由于是单独承接流量，这种设计满足了高可用的目标，还是依照 TaskA 接口随着并发请求的提升，接口越来越慢直至不可用，之后再加入一个条件，就是 **TaskC 的执行条件是 TaskA 执行完毕的结果**。
@@ -141,7 +141,7 @@ image: "https://static.debuginn.com/202402111005028.jpeg"
 
 如果你感兴趣，推荐关注公众号或订阅本站，欢迎互动与交流，让我们一起变得更强～
 
-![WeChat](https://static.debuginn.com/202302202248422.png)
+![WeChat](https://webp.debuginn.com/202302202248422.png)
 
 
 

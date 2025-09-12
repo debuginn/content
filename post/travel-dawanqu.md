@@ -5,7 +5,7 @@ keywords: "travel"
 comments: true
 tags: ["travel"]
 categories: ["travel"]
-image: "https://static.debuginn.com/20250727qmakyu.jpg"
+image: "https://webp.debuginn.com/20250727qmakyu.jpg"
 ---
 
 大家好呀，我是 Meng小羽，计划去大湾区旅游一直是 25 年的规划之一，一方面计划去香港来一趟 City Walk 和办理港卡，另外一方面计划去深圳水贝购买饰品，因为和我家领导订婚之后由于黄金价格水涨船高，一直没有购置，听说水贝是按照大盘价走的，款式非常多，性价比也比较高，还有就是顺道去一趟赖导视频下的氹仔岛-澳门。于是调休了两天，开始了 4 天 3 夜的特种兵旅程。
@@ -18,7 +18,7 @@ image: "https://static.debuginn.com/20250727qmakyu.jpg"
 
 但是万万没有想到的是，去香港的当天是台风（当地人称为风球）来临前的头一天的放晴，临近香港的时候在南海上，看到了东南方向巨大的云团，没想到是第三天逼近的台风韦帕。于是这次行程也是在风球笼罩下的旅行。
 
-![weipa](https://static.debuginn.com/20250727VAMl2u.jpg)
+![weipa](https://webp.debuginn.com/20250727VAMl2u.jpg)
 
 ## 东方之珠
 
@@ -34,15 +34,15 @@ image: "https://static.debuginn.com/20250727qmakyu.jpg"
 
 临近傍晚，吃完饭，我们就出发去了维多利亚港，香港的繁华在这一瞬间变得具象化了。
 
-![Victoria](https://static.debuginn.com/20250727qmakyu.jpg)
+![Victoria](https://webp.debuginn.com/20250727qmakyu.jpg)
 
 维多利亚港的来源是源自于清政府签署《南京条约》之后，英国人以当时在位的女王命名的港湾。不过现在去香港正好遇到了回归 28 周年相关的活动。
 
-![星光大道](https://static.debuginn.com/20250727GtRCLs.jpg)
+![星光大道](https://webp.debuginn.com/20250727GtRCLs.jpg)
 
 晚上 8 点，维港都会绽放着属于她的魅力，维港灯光秀，不愧是世界三大夜景之一。
 
-![维港灯光秀](https://static.debuginn.com/202507270CNTuI.jpg)
+![维港灯光秀](https://webp.debuginn.com/202507270CNTuI.jpg)
 
 观看完维港灯光秀之后就返回酒店了，正好遇到了躲避台风的游轮，不得不说，香港的空间真的是狭小。查阅资料才知道，香港是世界人口密度排名前 5 的地区。
 
@@ -52,17 +52,17 @@ image: "https://static.debuginn.com/20250727qmakyu.jpg"
 
 旺角，原本计划去著名的香港招牌街景，但是找寻了几条街都没有发现霓虹灯大招牌。
 
-![街景](https://static.debuginn.com/202507277MVmvP.jpg)
+![街景](https://webp.debuginn.com/202507277MVmvP.jpg)
 
-![Mong Kok](https://static.debuginn.com/20250727wwttMl.jpg)
+![Mong Kok](https://webp.debuginn.com/20250727wwttMl.jpg)
 
 油麻地警署，港片警匪片取景地，当然要来一张。
 
-![YAUMA TEL](https://static.debuginn.com/20250727NfXg9d.jpg)
+![YAUMA TEL](https://webp.debuginn.com/20250727NfXg9d.jpg)
 
 当然，必然少不了李嘉诚成功人士三件套（紧握财富、财向我来、指定发财）。
 
-![成功人士三件套](https://static.debuginn.com/20250727mFaxUT.jpg)
+![成功人士三件套](https://webp.debuginn.com/20250727mFaxUT.jpg)
 
 此时，台风的核心团状云已经到达香港附近，可以看到乌云变得特别多，但是也没有多想，因为计划今晚就离港回深圳了。
 
@@ -70,11 +70,11 @@ image: "https://static.debuginn.com/20250727qmakyu.jpg"
 
 到了天星摩天轮，因为台风即将到来，已经停止营业了，只给我家领导拍了几张照片，就导航去了皇后大街。
 
-![MDRT#1](https://static.debuginn.com/20250727JIEcHb.jpg)
+![MDRT#1](https://webp.debuginn.com/20250727JIEcHb.jpg)
 
 皇后大街，街拍 && 街景。
 
-![Queen Street](https://static.debuginn.com/20250727z5tM0j.jpg)
+![Queen Street](https://webp.debuginn.com/20250727z5tM0j.jpg)
 
 游玩到皇后大街，本来计划着乘坐半山电梯去太平山顶，但是由于开始下雨，就提前结束了香港的旅程，吃过饭后就准备返程了。
 
@@ -100,11 +100,11 @@ image: "https://static.debuginn.com/20250727qmakyu.jpg"
 
 一路上阴雨交加，来到口岸停车场（8 元/h）已经 11 点多，出了停车场就直奔出入境大厅过关了，过关之后到达广场开始乘坐小红书上推荐的“发财车”，去往新葡京，此时雨越下越大，到达新葡京的时候已经开始瓢泼大雨，在附近吃了碗猪脚面，就开始体验特色了。
 
-![pujing](https://static.debuginn.com/20250729acU5jX.jpg)
+![pujing](https://webp.debuginn.com/20250729acU5jX.jpg)
 
 嗯，分享成果，给了两张体验卡，最后老虎的机器吐出来了 $180 港币，不过不建议玩，因为赢钱是会给人带来上瘾的感觉的，大家要有十赌九输的意识。这样的场所也和宜家的套路一样，乘坐“发财车”，每到一个酒店，都需要让游客穿越这样的场地，来吸引大家留下驻足并从心理乃至行动上为此买单。
 
-![Venice](https://static.debuginn.com/20250729DMMU5T.jpg)
+![Venice](https://webp.debuginn.com/20250729DMMU5T.jpg)
 
 威尼斯人城给我的第一感觉就是和电影《楚门的世界》太像了，在这里紫醉金迷，无论外面的天地是阴雨还是天晴、暗夜还是白昼。
 

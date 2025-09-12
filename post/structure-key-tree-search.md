@@ -5,7 +5,7 @@ keywords: "笔记,数据结构"
 comments: true
 tags: ["笔记", "数据结构"]
 categories: ["algorithm"]
-image: "https://static.debuginn.com/202302221903175.jpg"
+image: "https://webp.debuginn.com/202302221903175.jpg"
 ---
 
 ## 定义
@@ -34,7 +34,7 @@ image: "https://static.debuginn.com/202302221903175.jpg"
 
 然后使用键树结构表示该查找表，如下图所示：
 
-![键树](https://static.debuginn.com/202304141856996.png)
+![键树](https://webp.debuginn.com/202304141856996.png)
 
 > 注意 ：键树中叶子结点的特殊符号 \$ 为结束符，表示字符串的结束。使用键树表示查找表时，为了方便后期的查找和插入操作，约定键树是有序树（兄弟结点之间自左至右有序），同时约定结束符 ‘\$’ 小于任何字符。
 
@@ -57,7 +57,7 @@ image: "https://static.debuginn.com/202302221903175.jpg"
 
 上图中键树用孩子兄弟表示法表示为双链树时，如下图所示：
 
-![孩子兄弟表示法](https://static.debuginn.com/202304141900499.png)
+![孩子兄弟表示法](https://webp.debuginn.com/202304141900499.png)
 
 > 提示：每个关键字的叶子结点 \$ 的 infoptr 指针指向的是各自的关键字，通过该指针就可以找到各自的关键字的首地址。
 
@@ -121,7 +121,7 @@ DLTree SearchChar(DLTree T, KeysType k){
 
 开始的键树，采用字典树表示如下图所示：
 
-![字典树](https://static.debuginn.com/202304141903096.png)
+![字典树](https://webp.debuginn.com/202304141903096.png)
 
 > 注意：在 Trie 树中，如果从某个结点一直到叶子结点都只有一个孩子，这些结点可以用一个叶子结点来代替，例如 ZHAO 就可以直接作为叶子结点。
 

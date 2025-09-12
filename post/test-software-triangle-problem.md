@@ -5,7 +5,7 @@ keywords: "软件质量测试"
 comments: true
 tags: ["软件质量测试"]
 categories: ["software"]
-image: "https://static.debuginn.com/202303191412328.jpg"
+image: "https://webp.debuginn.com/202303191412328.jpg"
 ---
 
 ## 问题描述
@@ -19,9 +19,9 @@ A>0，B>0，C>0，且A+B>C，B+C>A，A+C>B。
 
 ## 等价类划分
 
-![判定关系表](https://static.debuginn.com/202303191420550.png)
+![判定关系表](https://webp.debuginn.com/202303191420550.png)
 
-![等价类划分表](https://static.debuginn.com/202303191421993.png)
+![等价类划分表](https://webp.debuginn.com/202303191421993.png)
 
 ## 代码实现
 

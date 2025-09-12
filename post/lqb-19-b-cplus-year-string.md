@@ -13,8 +13,8 @@ tags: ["蓝桥杯","algorithm"]
 categories: ["algorithm"]
 
 
-image: "https://static.debuginn.com/202303241303887.jpg"
-imagePreview: "https://static.debuginn.com/202303241303887.jpg"
+image: "https://webp.debuginn.com/202303241303887.jpg"
+imagePreview: "https://webp.debuginn.com/202303241303887.jpg"
 ---
 
 小明用字母A 对应数字1，B 对应2，以此类推，用Z 对应26。

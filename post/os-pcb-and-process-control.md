@@ -5,7 +5,7 @@ keywords: "os,introduction"
 comments: true
 tags: ["os", "system"]
 categories: ["OS"]
-image: "https://static.debuginn.com/202302221853276.jpg"
+image: "https://webp.debuginn.com/202302221853276.jpg"
 ---
 
 ## 进程控制块PCB

@@ -9,7 +9,7 @@ keywords: "go,gin,rss,mdui,douban"
 comments: true
 tags: ["go","gin","rss","mdui","douban"]
 categories: ["project"]
-image: "https://static.debuginn.com/202303031942110.jpg"
+image: "https://webp.debuginn.com/202303031942110.jpg"
 ---
 
 事情的起因是这样的，前几日在看 [idealclover](https://idealclover.top) 大佬的博客，不经意间看到了他的[豆瓣观影记录](https://idealclover.top/movies.html)，他博客中关于豆瓣观影记录是实时同步的，很好奇是如何实现的，经过查看，他是爬取的豆瓣观影界面来实现的，其实关于豆瓣观影记录，网上也有很多的教程，恰巧自己所学的 Go 语言也可以做简单的爬虫实现其效果，于是开始上手造轮子了，PS：了解到非法爬取网站信息是违法的，之前豆瓣 API 接口，关闭访问，在豆瓣上找了好久，终于在我的主页中找到了对于观影记录的官方提供 RSS 订阅，打开订阅，看到有自己所需要的字段，比较好获取，于是就开始了此项目。
@@ -18,7 +18,7 @@ image: "https://static.debuginn.com/202303031942110.jpg"
 
 首先，需要获取豆瓣提供的 XML 文件，在我的主页右下角就可以看到 RSS 订阅链接：
 
-![豆瓣订阅地址](https://static.debuginn.com/202303031930118.png)
+![豆瓣订阅地址](https://webp.debuginn.com/202303031930118.png)
 
 找到了订阅地址，点击查看 XML 结构，可以看到豆瓣提供的结构还是挺理想的：
 
@@ -178,7 +178,7 @@ r.GET("/doubanmovies", func(context *gin.Context) {
 _ = r.Run(":8080")
 ```
 
-![api json数据](https://static.debuginn.com/202303031934481.png)
+![api json数据](https://webp.debuginn.com/202303031934481.png)
 
 启动服务，可以得到对应的 json 数据，你若以为现在就可以实现了，那么你错了，远远没有那么简单......
 
@@ -235,7 +235,7 @@ _ = r.Run(":8080")
 
 设计好了以后，访问页面，却加载不出来，emmmmmm
 
-![CORS](https://static.debuginn.com/202303031935689.png)
+![CORS](https://webp.debuginn.com/202303031935689.png)
 
 ## CORS
 
@@ -294,7 +294,7 @@ func Cors() gin.HandlerFunc {
 
 这样就可以看到结果了，如下图：
 
-![演示](https://static.debuginn.com/202303031937830.png)
+![演示](https://webp.debuginn.com/202303031937830.png)
 
 看到结果后，心中窃喜，感觉成功了，接下来就需要将 Go 服务部署到我的服务器中去了，部署步骤比较简单，就不过多解释了，最后访问服务器 IP 及对应单口可以呈现结果，最后将前台代码粘贴到新建的页面中，生成预览，emmmm，啥都没有，浏览器居然报 HTTPS 请求 HTTP 资源是不安全的，吐了一口血，解决吧，唉，经过查询资料，得出如下两个解决方案：
 
@@ -325,7 +325,7 @@ server{
 
 解决了 HTTPS 访问 HTTP 资源的问题，就解决了所有问题，实现了效果。
 
-![我的观影](https://static.debuginn.com/202303031939914.png)
+![我的观影](https://webp.debuginn.com/202303031939914.png)
 
 具体效果如下：~~https://debuginn.com/doubanmovies~~
 

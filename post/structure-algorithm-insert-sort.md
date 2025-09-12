@@ -5,7 +5,7 @@ keywords: "笔记,数据结构,算法"
 comments: true
 tags: ["笔记", "数据结构"]
 categories: ["algorithm"]
-image: "https://static.debuginn.com/202302221903175.jpg"
+image: "https://webp.debuginn.com/202302221903175.jpg"
 ---
 
 ## 插入排序算法介绍

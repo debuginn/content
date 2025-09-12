@@ -6,7 +6,7 @@ comments: true
 weight: 0
 tags: ["mysql","occ","pcc"]
 categories: ["sql"]
-image: "https://static.debuginn.com/202303161947714.jpg"
+image: "https://webp.debuginn.com/202303161947714.jpg"
 ---
 
 在关系型数据库中，悲观锁与乐观锁是解决资源并发场景的解决方案，接下来将详细讲解一下这两个并发解决方案的实际使用及优缺点。

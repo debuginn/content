@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["git","github","reset","revert"]
 categories: ["git"]
-image: "https://static.debuginn.com/202302262207101.jpg"
+image: "https://webp.debuginn.com/202302262207101.jpg"
 ---
 
 ## 前言
@@ -19,7 +19,7 @@ image: "https://static.debuginn.com/202302262207101.jpg"
 
 首先从英文释义来讲，reset 是重置的意思，revert 是恢复、还原的意思，作为 Coder ，第一感觉 reset 的效果比 revert 更猛一些，实际情况也的确如此，让我们一起探讨一下吧。
 
-![git](https://static.debuginn.com/202302262208546.png)
+![git](https://webp.debuginn.com/202302262208546.png)
 
 ## 背景
 
@@ -57,7 +57,7 @@ Date:   Tue Sep 21 16:35:16 2021 +0800
 
 `git reset` 的作用是将 HEAD 指向指定的版本上去：
 
-![git reset](https://static.debuginn.com/202302262210014.png)
+![git reset](https://webp.debuginn.com/202302262210014.png)
 
 **1 使用 git log 查看提交记录：**
 
@@ -113,7 +113,7 @@ To github.com:debuginn/demo.git
  + b98f95e...6b166ed master -> master (forced update)
 ```
 
-![github](https://static.debuginn.com/202302262212430.png)
+![github](https://webp.debuginn.com/202302262212430.png)
 
 此时我们可以看到远程也没有了我们之前提交的三次记录而是只有第一次的提交记录。
 
@@ -123,7 +123,7 @@ To github.com:debuginn/demo.git
 
 `git revert` 是用来重做某一个 commit 提交的内容，在我们原始的提交之中，我们会发现分支上面有创建了一个新的 commit 提交，而此时我们对于想重做的某个 commit 提交的内容都不存在了：
 
-![git revert](https://static.debuginn.com/202302262214658.png)
+![git revert](https://webp.debuginn.com/202302262214658.png)
 
 **1 使用git log查看提交记录：**
 
@@ -164,7 +164,7 @@ Date:   Tue Sep 21 17:05:39 2021 +0800
 
 可以看到当前已经重做了一下 commit 2 的提交，已经讲 2.go 删除掉了。
 
-![github](https://static.debuginn.com/202302262217507.png)
+![github](https://webp.debuginn.com/202302262217507.png)
 
 可以看到 github 上面有了四次提交记录。
 

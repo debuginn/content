@@ -5,7 +5,7 @@ keywords: "prometheus,grafana,open falcon,counter,histogram"
 comments: true
 tags: ["prometheus","grafana","open falcon","counter","histogram"]
 categories: ["debuginn"]
-image: "https://static.debuginn.com/202302262145770.jpg"
+image: "https://webp.debuginn.com/202302262145770.jpg"
 ---
 
 近期，我们对 APP 网关 Gateway 做了升级，由于项目创建时间过早（6年前的项目），那时候还没有好的包管理工具，使用的是最原始的 Go Path 来进行项目的依赖管理，历史包袱比较重，项目中很多的第三方引用都是直接将代码拷贝到项目目录下，升级与维护起来特别麻烦，升级之后就是现在官方主推的是 Go module 包管理方式。
@@ -125,14 +125,14 @@ DefBuckets = []float64{.005, .01, .025, .05, .1, .25, .5, 1, 2.5, 5, 10}
 
 使用 Prometheus 的 Alert Manager 就可以对服务进行报警，但是如何及时又准确的报警，已经如何合理设置报警，我们就要引入 SLO 的概念，在实际的业务场景中，我们会发现某个接口某个时间段的耗时是一组离散的点：
 
-![请求时间数量分布图](https://static.debuginn.com/202302262154973.png)
+![请求时间数量分布图](https://webp.debuginn.com/202302262154973.png)
 
 我们可以看到大部分的请求可以在 1s 之内就可以快速的返回，只有个别的请求可能由于网络的抖动、应用短暂升级或者其他因素导致过慢，若是我们直接设置接口最大请求耗时超过2s（持续一个时间段），那我们就面临着疯狂的告警轰炸，同时告警也就失去了针对某个接口的异常活动做出提示供开发人员处理的意义。
 
 > **服务级别目标**（Service-level objective，SLO）是指服务提供者向客户作出的服务保证的量化指标。服务级别目标与服务级别协议有所不同。服务级别协议是指服务提供者向客户保证会提供什么样的服务，服务级别目标则是服务的量化说明。
 > [Service-level objective](https://zh.wikipedia.org/wiki/%E6%9C%8D%E5%8A%A1%E7%BA%A7%E5%88%AB%E7%9B%AE%E6%A0%87) 服务级别目标
 
-![请求时间数量分布图](https://static.debuginn.com/202302262155955.png)
+![请求时间数量分布图](https://webp.debuginn.com/202302262155955.png)
 
 比方说我们发现上面的 90% 请求都在 1s 内返回，我们就可以只需要对 90% 请求耗时做监控分析其调用链路并告警。 举个栗子，比方说我们一个首页的接口 `/v1/home/page` 99% 的请求可以在 500ms 内返回，只有个别的请求超过 2s+ 的时间，大多数情况下我们就不会关心这 1%的请求，那我们就可以定制一个 **持续 1分钟首页 99% 请求耗时大于 1s**的报警，这样当我们收到报警的时候，我们就可以第一时间知道首页出现了问题，我们就可以根据报警及时处理。
 
@@ -148,7 +148,7 @@ DefBuckets = []float64{.005, .01, .025, .05, .1, .25, .5, 1, 2.5, 5, 10}
 
 目前的解决方案就是做分布式，采用 prometheus [联邦集群](https://prometheus.io/docs/prometheus/latest/federation/)的方式来解决指标收集过大的问题，采用了分布式，就可以将机器分组收集汇总，之后就可以成倍速的缩小 prometheus 拉取的压力。
 
-![联邦集群设计](https://static.debuginn.com/202302262157871.png)
+![联邦集群设计](https://webp.debuginn.com/202302262157871.png)
 
 ### 动态收集机器指标
 

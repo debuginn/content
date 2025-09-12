@@ -6,7 +6,7 @@ slug: "about"
 comments: true
 license: false
 readingTime: false
-image: "https://static.debuginn.com/202302262119034.jpg"
+image: "https://webp.debuginn.com/202302262119034.jpg"
 ---
 
 你好，我是 Meng小羽，一名热爱技术的全栈开发者。除了编程，我还热衷于摄影、音乐和吉他。我对新技术充满好奇，始终保持探索精神。
@@ -33,4 +33,4 @@ image: "https://static.debuginn.com/202302262119034.jpg"
 
 [项目展示](/project)
 
-![Gopher](https://static.debuginn.com/202303022149399.png)
+![Gopher](https://webp.debuginn.com/202303022149399.png)

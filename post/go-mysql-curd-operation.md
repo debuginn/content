@@ -9,7 +9,7 @@ keywords: "go, mysql, curd"
 comments: true
 tags: ["go", "mysql", "curd"]
 categories: ["golang"]
-image: "https://static.debuginn.com/202303031910934.jpg"
+image: "https://webp.debuginn.com/202303031910934.jpg"
 ---
 
 MySQL 是目前开发中最常见的关系型数据库，使用 Go 语言进行操控数据库需要使用 Go 自带`database/sql`和驱动`go-sql-driver/mysql`来实现，

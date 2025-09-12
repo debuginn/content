@@ -5,7 +5,7 @@ keywords: "Debug客栈,2023,2024,年度总结"
 comments: true
 tags: ["Debug客栈","2023","2024","年度总结"]
 categories: ["summary"]
-image: "https://static.debuginn.com/202312221929863.jpg"
+image: "https://webp.debuginn.com/202312221929863.jpg"
 ---
 
 ## 工作
@@ -18,9 +18,9 @@ image: "https://static.debuginn.com/202312221929863.jpg"
 
 今年由于站点域名和子域名的调整，统计开始包含自己的子域名访问记录，由于期间有部分访问记录丢失，环比指标都有下降，不过随着自己开始专注于文章的输出，情况开始变好。
 
-![访问人数](https://static.debuginn.com/202312231204963.png)
+![访问人数](https://webp.debuginn.com/202312231204963.png)
 
-![访问国家](https://static.debuginn.com/202312231209707.png)
+![访问国家](https://webp.debuginn.com/202312231209707.png)
 
 由于自己重新调整了博客链接组织结构，404 的页面一直占据着很高的比例 😂。
 
@@ -41,7 +41,7 @@ image: "https://static.debuginn.com/202312221929863.jpg"
 
 今年由于自己博客迁移到了 [Github](https://github.com/debuginn)，所以说活跃多了起来 🐶。
 
-![github-2023](https://static.debuginn.com/202312231221971.png)
+![github-2023](https://webp.debuginn.com/202312231221971.png)
 
 ## 生活
 
@@ -63,7 +63,7 @@ image: "https://static.debuginn.com/202312221929863.jpg"
 
 Debug客栈摄影展：[https://photo.debuginn.com](https://photo.debuginn.com)
 
-![摄影展](https://static.debuginn.com/202312311401449.jpg)
+![摄影展](https://webp.debuginn.com/202312311401449.jpg)
 
 ## 阅读
 
