@@ -25,6 +25,10 @@ image: "https://webp.debuginn.com/20250813sgLuED.jpg"
 5LupLo8NuTfC411zAPo6UZTuasoTHaueuptVyGKmsdBV
 ```
 
+当然，你也可以选择领取支付宝红包，这样你可以获取红包，我也可以得到支付宝的赞赏。
+
+![alipay](https://static.debuginn.com/20250905zRtdBM.png)
+
 最后，推荐你关注我的公众号，本站文章会第一时间同步推送，再次感谢你的支持，让我们一起变得更强～
 
 ![wechat](https://webp.debuginn.com/202302202248422.png)

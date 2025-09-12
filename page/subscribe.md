@@ -20,7 +20,7 @@ date: 2021-08-13T08:00:00+08:00
 
 ![wechat](https://webp.debuginn.com/202302202248422.png)
 
-> 当然，您不习惯上方方式订阅，您可以选择你经常阅读的社区进行订阅，目前仅支持 **[知乎专栏](https://www.zhihu.com/people/debuginn/posts)**、**[腾讯云+社区](https://cloud.tencent.com/developer/column/83947)**、**[思否专栏](https://segmentfault.com/blog/debuginn)**、**[掘金社区](https://juejin.cn/user/817692380500702/posts)**。
+> 当然，您不习惯上方方式订阅，您可以选择你经常阅读的社区进行订阅，目前仅支持 **[知乎专栏](https://www.zhihu.com/people/debuginn/posts)**、**[腾讯云+社区（Sync）](https://cloud.tencent.com/developer/column/83947)**、**[思否专栏（停更）](https://segmentfault.com/blog/debuginn)**、**[掘金社区（停更）](https://juejin.cn/user/817692380500702/posts)**。
 
 ## 视频专区
 
