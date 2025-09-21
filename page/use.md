@@ -38,21 +38,21 @@ image: "https://webp.debuginn.com/20250725uaor1Q.jpg"
 
 软件由于使用 Apple 生态，也分为两大阵营，一部分是付费软件（增强原生系统，同时要稳定好用），另外一部分来自于开源软件，也算是付费软件的平替。
 
-|                             名称                             |         系统          | 是否付费 | 推荐指数 | 评价                                                         |
-| :----------------------------------------------------------: | :-------------------: | :------: | :------: | :----------------------------------------------------------- |
-|         [Typora](https://typora.io?ref=debuginn.com)         |        `MacOS`        |   付费   |  🌟🌟🌟🌟🌟   | 编辑博客文章的主力编辑器，喜欢 Markdown 的一定不要错过。     |
-|   [uPic](https://github.com/gee1k/uPic/?ref=debuginn.com)    |        `MacOS`        |   付费   |  🌟🌟🌟🌟🌟   | MacOS 的图片上传工具，主要用来上传博客图片。                 |
-| [Bob Pro 版本](https://apps.apple.com/cn/app/bob-%E7%BF%BB%E8%AF%91%E5%92%8C-ocr-%E5%B7%A5%E5%85%B7/id1630034110?mt=12#?platform=mac&ref=debuginn.com) |        `MacOS`        |   付费   |  🌟🌟🌟🌟🌟   | 翻译软件，选词、截图翻译，搭配快捷键非常好用。               |
-| [iShot Pro](https://apps.apple.com/us/app/ishot-pro-screenshot-recording/id1611347086?mt=12&ref=debuginn.com) |        `MacOS`        |   付费   |  🌟🌟🌟🌟🌟   | 截图、录屏软件，专业、美观、稳定。                           |
-|   [GoodNotes](https://www.goodnotes.com/?ref=debuginn.com)   | `MacOS` `PadOS` `IOS` |   付费   |   🌟🌟🌟🌟   | 笔记软件，我会将一些 PDF 文件上传到这个软件上，用来实时笔记。 |
-| [沉浸式翻译](https://immersivetranslate.com/zh-Hans/?ref=debuginn.com) |       `Chrome`        |   免费   |  🌟🌟🌟🌟🌟   | 中英对照翻译，速度及准确度都 👍                               |
-|       [ChatGPT](https://chatgpt.com/?ref=debuginn.com)       | `MacOS` `PadOS` `IOS` |   免费   |  🌟🌟🌟🌟🌟   | AI 辅助工具，结合 MacOS 深度融合，智能方便就不用说了 No.1。  |
-|          [IINA](https://iina.io/?ref=debuginn.com)           |        `MacOS`        |   免费   |  🌟🌟🌟🌟🌟   | 开源，视频 & 流 播放器，高颜值、功能强悍。                   |
-|        [Motrix](https://motrix.app/?ref=debuginn.com)        |        `MacOS`        |   免费   |   🌟🌟🌟🌟   | 开源，文件 & 种子下载器。                                    |
-|          [Folo](https://folo.is/?ref=debuginn.com)           | `MacOS` `PadOS` `IOS` |   免费   |  🌟🌟🌟🌟🌟   | 开源，RSS 源阅读器，每日必用神器。                           |
-| [Pearcleaner](https://github.com/alienator88/Pearcleaner?ref=debuginn.com) |        `MacOS`        |   免费   |  🌟🌟🌟🌟🌟   | 开源，MacOS 软件深度清理卸载软件。                           |
-| [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=en-US&ref=debuginn.com) | `MacOS` `PadOS` `IOS` |   付费   |  🌟🌟🌟🌟🌟   | 去广告、代理软件，小贵但省电。                               |
-| [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118?ref=debuginn.com) | `MacOS` `PadOS` `IOS` |   付费   |  🌟🌟🌟🌟🌟   | 去广告、代理软件，性价比高但耗电。                           |
+|                                                                          名称                                                                          |         系统          | 是否付费 | 推荐指数 | 评价                                                          |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------: | :------: | :------: | :------------------------------------------------------------ |
+|                                                      [Typora](https://typora.io?ref=debuginn.com)                                                      |        `MacOS`        |   付费   |  🌟🌟🌟🌟🌟   | 编辑博客文章的主力编辑器，喜欢 Markdown 的一定不要错过。      |
+|                                                [uPic](https://github.com/gee1k/uPic/?ref=debuginn.com)                                                 |        `MacOS`        |   付费   |  🌟🌟🌟🌟🌟   | MacOS 的图片上传工具，主要用来上传博客图片。                  |
+| [Bob Pro 版本](https://apps.apple.com/cn/app/bob-%E7%BF%BB%E8%AF%91%E5%92%8C-ocr-%E5%B7%A5%E5%85%B7/id1630034110?mt=12#?platform=mac&ref=debuginn.com) |        `MacOS`        |   付费   |  🌟🌟🌟🌟🌟   | 翻译软件，选词、截图翻译，搭配快捷键非常好用。                |
+|                     [iShot Pro](https://apps.apple.com/us/app/ishot-pro-screenshot-recording/id1611347086?mt=12&ref=debuginn.com)                      |        `MacOS`        |   付费   |  🌟🌟🌟🌟🌟   | 截图、录屏软件，专业、美观、稳定。                            |
+|                                                [GoodNotes](https://www.goodnotes.com/?ref=debuginn.com)                                                | `MacOS` `PadOS` `IOS` |   付费   |   🌟🌟🌟🌟   | 笔记软件，我会将一些 PDF 文件上传到这个软件上，用来实时笔记。 |
+|                                         [沉浸式翻译](https://immersivetranslate.com/zh-Hans/?ref=debuginn.com)                                         |       `Chrome`        |   免费   |  🌟🌟🌟🌟🌟   | 中英对照翻译，速度及准确度都 👍                                |
+|                                                    [ChatGPT](https://chatgpt.com/?ref=debuginn.com)                                                    | `MacOS` `PadOS` `IOS` |   免费   |  🌟🌟🌟🌟🌟   | AI 辅助工具，结合 MacOS 深度融合，智能方便就不用说了 No.1。   |
+|                                                       [IINA](https://iina.io/?ref=debuginn.com)                                                        |        `MacOS`        |   免费   |  🌟🌟🌟🌟🌟   | 开源，视频 & 流 播放器，高颜值、功能强悍。                    |
+|                                                     [Motrix](https://motrix.app/?ref=debuginn.com)                                                     |        `MacOS`        |   免费   |   🌟🌟🌟🌟   | 开源，文件 & 种子下载器。                                     |
+|                                                       [Folo](https://folo.is/?ref=debuginn.com)                                                        | `MacOS` `PadOS` `IOS` |   免费   |  🌟🌟🌟🌟🌟   | 开源，RSS 源阅读器，每日必用神器。                            |
+|                                       [Pearcleaner](https://github.com/alienator88/Pearcleaner?ref=debuginn.com)                                       |        `MacOS`        |   免费   |  🌟🌟🌟🌟🌟   | 开源，MacOS 软件深度清理卸载软件。                            |
+|                            [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=en-US&ref=debuginn.com)                            | `MacOS` `PadOS` `IOS` |   付费   |  🌟🌟🌟🌟🌟   | 去广告、代理软件，小贵但省电。                                |
+|                                [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118?ref=debuginn.com)                                 | `MacOS` `PadOS` `IOS` |   付费   |  🌟🌟🌟🌟🌟   | 去广告、代理软件，性价比高但耗电。                            |
 
 > 这里的软件指的是一次性买断、免费下载或收费但使用免费的版本。
 
@@ -60,8 +60,8 @@ image: "https://webp.debuginn.com/20250725uaor1Q.jpg"
 
 订阅的服务都是日常经常使用的，符合“三天原则”且几乎每天都在使用的。
 
-| 名称                                                         |   系统   | 推荐指数 | 评价                                                         |
-| :----------------------------------------------------------- | :------: | :------: | :----------------------------------------------------------- |
-| Apple Music（中国大陆区）                                    | `全平台` |  🌟🌟🌟🌟🌟   | 长期订阅，简约简单性价比高                                   |
-| Apple iCloud+ 200GB 版本                                     | `全平台` |   🌟🌟🌟🌟   | 小贵，但是可以享受全生态闭环，等待小米 NAS ing               |
-| [VPN XFlash Cloud](https://www.xflash.live/#/register?code=GZRNxKBh) | `全平台` |  🌟🌟🌟🌟🌟   | 稳定使用 3 年，节点干净，速度尚可，可以按流量订阅，[推荐链接](https://www.xflash.live/#/register?code=GZRNxKBh) |
+| 名称                                                                 | 推荐指数 | 评价                                                                                                            |
+| :------------------------------------------------------------------- | :------: | :-------------------------------------------------------------------------------------------------------------- |
+| Apple Music（中国大陆区）                                            |  🌟🌟🌟🌟🌟   | 长期订阅，简约简单性价比高                                                                                      |
+| Apple iCloud+ 200GB 版本                                             |   🌟🌟🌟🌟   | 小贵，但是可以享受全生态闭环，等待小米 NAS ing                                                                  |
+| [VPN XFlash Cloud](https://www.xflash.live/#/register?code=GZRNxKBh) |  🌟🌟🌟🌟🌟   | 稳定使用 3 年，节点干净，速度尚可，可以按流量订阅，[推荐链接](https://www.xflash.live/#/register?code=GZRNxKBh) |
