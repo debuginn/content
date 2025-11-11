@@ -4,7 +4,7 @@ links:
   - title: 刘悦的技术博客
     image: https://v3u.cn/v3u/Public/images/logo_dark.png
     website: https://v3u.cn
-    description: 学习python能做什么并且怎么做的更好，乐于助人的敏捷开发者 
+    description: 学习python能做什么并且怎么做的更好，乐于助人的敏捷开发者
   - title: 在码圈
     image: https://www.bedebug.com/avatar
     website: https://www.bedebug.com
@@ -12,7 +12,7 @@ links:
   - title: 沈唁志
     image: https://gravatar.loli.net/avatar/53093cc242ff08b27984e84c9db92c33
     website: https://qq52o.me/
-    description: 一个 PHPer 的成长之路  
+    description: 一个 PHPer 的成长之路
   - title: 浮云翩迁之间
     image: https://blognas.hwb0307.com/logo.jpg
     website: https://blognas.hwb0307.com
@@ -45,6 +45,10 @@ links:
     image: https://webp.debuginn.com/20250828sqFsS0.png
     website: https://blog.forecho.com/
     description: 把生命浪费在美好的事物上
+  - title: Guoqi Sun
+    image: https://files.guoqi.dev/favicon.ico
+    website: https://blog.guoqi.dev
+    description: 尝试，失败，重试。这就是成长的节奏。
 
 
 comments: true
