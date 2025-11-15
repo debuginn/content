@@ -64,4 +64,4 @@ image: "https://webp.debuginn.com/20250725uaor1Q.jpg"
 | :------------------------------------------------------------------- | :------: | :-------------------------------------------------------------------------------------------------------------- |
 | Apple Music（中国大陆区）                                            |  🌟🌟🌟🌟🌟   | 长期订阅，简约简单性价比高                                                                                      |
 | Apple iCloud+ 200GB 版本                                             |   🌟🌟🌟🌟   | 小贵，但是可以享受全生态闭环，等待小米 NAS ing                                                                  |
-| [VPN XFlash Cloud](https://www.xflash.live/#/register?code=GZRNxKBh) |  🌟🌟🌟🌟🌟   | 稳定使用 3 年，节点干净，速度尚可，可以按流量订阅，[推荐链接](https://www.xflash.org/#/register?code=yGSImRR7) |
+| [VPN XFlash Cloud](https://www.xflash.org/#/register?code=yGSImRR7) |  🌟🌟🌟🌟🌟   | 稳定使用 3 年，节点干净，速度尚可，可以按流量订阅，[推荐链接](https://www.xflash.org/#/register?code=yGSImRR7) |
