@@ -32,7 +32,7 @@ image: "https://webp.debuginn.com/20250725uaor1Q.jpg"
 | IKEA 波席当 升降桌                      | 工作台 |   🌟🌟🌟🌟   | 简约，没有档位记忆，需要手一直按着升降                      |
 | Sony α6400 + 18-135 镜头                |  相机  |  🌟🌟🌟🌟🌟   | 主力相机，出去玩必带，出片神器，聚焦嘎嘎快                  |
 | Sony 16-50 饼干镜头                     |  镜头  |    🌟     | 买了吃灰，强烈不推荐购买，吃灰的！！！                      |
-| Sony ECM-W3 无线蓝牙麦克风              | 麦克风 |    🌟     | 买了吃灰，本来打算用来拍 Vlog，实际没有开始...              |
+| ~~Sony ECM-W3 无线蓝牙麦克风~~              | 麦克风 |    🌟     | 买了吃灰，本来打算用来拍 Vlog，实际没有开始...（已经出售）              |
 
 ## 软件
 
@@ -64,4 +64,4 @@ image: "https://webp.debuginn.com/20250725uaor1Q.jpg"
 | :------------------------------------------------------------------- | :------: | :-------------------------------------------------------------------------------------------------------------- |
 | Apple Music（中国大陆区）                                            |  🌟🌟🌟🌟🌟   | 长期订阅，简约简单性价比高                                                                                      |
 | Apple iCloud+ 200GB 版本                                             |   🌟🌟🌟🌟   | 小贵，但是可以享受全生态闭环，等待小米 NAS ing                                                                  |
-| [VPN XFlash Cloud](https://www.xflash.live/#/register?code=GZRNxKBh) |  🌟🌟🌟🌟🌟   | 稳定使用 3 年，节点干净，速度尚可，可以按流量订阅，[推荐链接](https://www.xflash.live/#/register?code=GZRNxKBh) |
+| [VPN XFlash Cloud](https://www.xflash.live/#/register?code=GZRNxKBh) |  🌟🌟🌟🌟🌟   | 稳定使用 3 年，节点干净，速度尚可，可以按流量订阅，[推荐链接](https://www.xflash.org/#/register?code=yGSImRR7) |
