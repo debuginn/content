@@ -6,7 +6,7 @@ links:
     website: https://v3u.cn
     description: 学习python能做什么并且怎么做的更好，乐于助人的敏捷开发者
   - title: 在码圈
-    image: https://www.bedebug.com/avatar
+    image: https://static.debuginn.com/20251116ko6eyg.ico
     website: https://www.bedebug.com
     description: 代码改变未来，努力codeing
   - title: 沈唁志
@@ -46,7 +46,7 @@ links:
     website: https://blog.forecho.com/
     description: 把生命浪费在美好的事物上
   - title: Guoqi Sun
-    image: https://files.guoqi.dev/favicon.ico
+    image: https://static.debuginn.com/20251116TR5Huz.ico
     website: https://blog.guoqi.dev
     description: 尝试，失败，重试。这就是成长的节奏。
 
