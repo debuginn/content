@@ -49,7 +49,10 @@ links:
     image: https://static.debuginn.com/20251116TR5Huz.ico
     website: https://blog.guoqi.dev
     description: 尝试，失败，重试。这就是成长的节奏。
-
+  - title: 老T博客
+    description: 法律、科技和生活
+    website: https://lawtee.com/
+    image: https://lawtee.com/links/avatar.jpg
 
 comments: true
 license: false
