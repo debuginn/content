@@ -12,7 +12,9 @@ date: 2021-08-13T08:00:00+08:00
 
 欢迎订阅下面的 Feed，您可以及时跟踪我的更新：
 
-- [https://blog.debuginn.com/index.xml](https://blog.debuginn.com/index.xml)
+```xml
+https://blog.debuginn.com/index.xml
+```
 
 本博客已经有 [![Folo](https://badge.follow.is/feed/41458948890269701?color=FF5C00&labelColor=black&style=flat-square)](follow://add?url=https%3A%2F%2Fblog.debuginn.com%2Findex.xml) [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcloud.feedly.com%2Fv3%2Ffeeds%2Ffeed%252Fhttps%253A%252F%252Fblog.debuginn.com%252Findex.xml&label=Feedly&query=%24.subscribers&logo=feedly&style=flat-square)](https://feedly.com/i/discover/sources?query=feed%2Fhttps%3A%2F%2Fblog.debuginn.com%2Findex.xml) 订阅者。
 
