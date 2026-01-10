@@ -1,0 +1,25 @@
+name: Notify Blog on Content Update
+
+# 监听 main 分支的 push
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dispatch-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Blog Repository Workflow
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          # 必须是有权限访问 blog 仓库的 PAT，建议新建专用 token 存在 secrets.BLOG_DISPATCH_TOKEN
+          token: ${{ secrets.BLOG_DISPATCH_TOKEN }}
+          repository: debuginn/blog
+          event-type: content-updated
+          # 可以传递一些额外数据，如果需要的话
+          client-payload: |
+            {
+              "branch": "main",
+              "trigger": "content push"
+            }
