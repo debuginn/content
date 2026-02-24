@@ -53,6 +53,10 @@ links:
     description: 法律、科技和生活
     website: https://lawtee.com/
     image: https://lawtee.com/links/avatar.jpg
+  - title: 绘星里
+    description: 一起来绘制属于自己的星星！
+    website: https://blog.storia.ren
+    image: https://blog.storia.ren/images/icon.png
 
 comments: true
 license: false
