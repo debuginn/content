@@ -68,9 +68,9 @@ Hugo 用 TOML/YAML 做配置，用 Markdown 写内容，所有结构都是格式
 hugo mod init github.com/yourname/your-site
 
 # 第二步：在 hugo.toml 里引入主题
-  [module]
-    [[module.imports]]
-      path = "github.com/debuginn/hugo-theme-skills"
+[module]
+  [[module.imports]]
+    path = "github.com/debuginn/hugo-theme-skills"
 
 # 第三步：拉取主题
 hugo mod get github.com/debuginn/hugo-theme-skills
