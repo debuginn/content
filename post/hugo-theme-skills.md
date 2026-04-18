@@ -68,9 +68,9 @@ Hugo 用 TOML/YAML 做配置，用 Markdown 写内容，所有结构都是格式
 hugo mod init github.com/yourname/your-site
 
 # 第二步：在 hugo.toml 里引入主题
-  [module]
-    [[module.imports]]
-      path = "github.com/debuginn/hugo-theme-skills"
+[module]
+  [[module.imports]]
+    path = "github.com/debuginn/hugo-theme-skills"
 
 # 第三步：拉取主题
 hugo mod get github.com/debuginn/hugo-theme-skills
@@ -89,8 +89,8 @@ hugo mod tidy
 
 如果你也在用 Hermes、Claude 这类 AI 助手，手里也攒了一批自己的 skill，希望有个好看的地方把它们展示出来，不妨试试这个主题。说不定搭着搭着，就搭出了一个属于自己的小 skill 市场。
 
-- Demo：https://skills.debuginn.com/
-- 我的工具站点：https://tools.debuginn.com/
-- GitHub：https://github.com/debuginn/hugo-theme-skills
+- Demo：[ttps://skills.debuginn.com](https://skills.debuginn.com)
+- 我的工具站点：[https://tools.debuginn.com](https://tools.debuginn.com)
+- GitHub：[https://github.com/debuginn/hugo-theme-skills](https://github.com/debuginn/hugo-theme-skills)
 
 欢迎 Star，欢迎提 Issue，也欢迎直接 PR 进来一起玩～
