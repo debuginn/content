@@ -9,8 +9,6 @@ categories: ["AI"]
 image: "https://webp.debuginn.com/20260418dE4G1Y.png"
 ---
 
-![](https://webp.debuginn.com/20260418dE4G1Y.png)
-
 大家好呀，我是 Meng小羽。
 
 最近一直在折腾 AI 工作流，用 Hermes 这类 AI 助手越用越深，手里的 skill 攒了一大堆——说白了就是一堆"遇到这类问题该怎么做"的操作手册。写着写着就发现一个问题：这些 skill 全躺在本地吃灰，想找个地方展示出来，搜了一圈也没找到合适的现成方案。
