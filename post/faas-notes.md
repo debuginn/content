@@ -106,12 +106,12 @@ AWS Lambda 是大型公共云供应商提供的第一个 FAAS，随后是 Google
 
 ## Reference
 
-* https://en.wikipedia.org/wiki/Function_as_a_service
-* https://serverless.aliyun.com/
-* https://cloud.tencent.com/product/scf
-* https://www.huaweicloud.com/product/functiongraph.html
-* https://martinfowler.com/articles/serverless.html
-* https://aws.amazon.com/cn/lambda/
-* https://time.geekbang.org/column/article/226574
-* https://www.techtarget.com/searchitoperations/definition/service-mesh
-* https://www.zhaohuabing.com/2018/03/29/what-is-service-mesh-and-istio/
+* [https://en.wikipedia.org/wiki/Function_as_a_service](https://en.wikipedia.org/wiki/Function_as_a_service)
+* [https://serverless.aliyun.com/](https://serverless.aliyun.com/)
+* [https://cloud.tencent.com/product/scf](https://cloud.tencent.com/product/scf)
+* [https://www.huaweicloud.com/product/functiongraph.html](https://www.huaweicloud.com/product/functiongraph.html)
+* [https://martinfowler.com/articles/serverless.html](https://martinfowler.com/articles/serverless.html)
+* [https://aws.amazon.com/cn/lambda/](https://aws.amazon.com/cn/lambda/)
+* [https://time.geekbang.org/column/article/226574](https://time.geekbang.org/column/article/226574)
+* [https://www.techtarget.com/searchitoperations/definition/service-mesh](https://www.techtarget.com/searchitoperations/definition/service-mesh)
+* [https://www.zhaohuabing.com/2018/03/29/what-is-service-mesh-and-istio/](https://www.zhaohuabing.com/2018/03/29/what-is-service-mesh-and-istio/)
