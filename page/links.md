@@ -37,6 +37,10 @@ links:
     image: https://guopengzhen.com/img/avater.jpg
     website: https://guopengzhen.com
     description: Thoughts, stories and ideas of Patten Kuo .
+  - title: Z.L Vansiit's blog
+    image: https://vansiit.cc/img/logo.svg
+    website: https://vansiit.cc/
+    description: 技术博客 | 生活随笔 | 唠嗑扯淡
 
 comments: true
 license: false
