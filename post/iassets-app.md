@@ -5,7 +5,7 @@ draft: false
 keywords: "iAssets,知盈,家庭资产管理,理财,记账,iOS App"
 comments: true
 tags: ["iAssets","产品","理财"]
-categories: ["产品"]
+categories: ["iassets"]
 image: "https://webp.debuginn.com/20260607dSXDdX.jpeg"
 ---
 
