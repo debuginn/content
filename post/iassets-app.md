@@ -1,6 +1,6 @@
 ---
 title: "做了一款家庭资产管理 App — 知盈 iAssets"
-date: 2026-06-08T07:00:53+08:00
+date: 2026-06-08T14:00:00+08:00
 draft: false
 keywords: "iAssets,知盈,家庭资产管理,理财,记账,iOS App"
 comments: true
