@@ -6,7 +6,7 @@ keywords: "iAssets,知盈,家庭资产管理,理财,记账,iOS App"
 comments: true
 tags: ["iAssets","产品","理财"]
 categories: ["iassets"]
-image: "https://webp.debuginn.com/20260607dSXDdX.jpeg"
+image: "https://webp.debuginn.com/20260618mAyBxB.jpeg"
 ---
 
 大家好呀，我是 Meng小羽
@@ -14,6 +14,8 @@ image: "https://webp.debuginn.com/20260607dSXDdX.jpeg"
 说起记账和资产管理，市面上其实不缺工具，但用了一圈下来，总觉得差点意思——有的只记流水不看全局，有的功能臃肿得像企业级 ERP，还有的满屏广告，让人心烦。说白了，我就是想要一个**简单、好看、能把家里所有资产和负债一目了然展示出来**的工具。
 
 找了一圈没找到满意的，行吧，那就自己做一个。于是就有了**知盈 iAssets**。
+
+![知盈 iAssets](https://webp.debuginn.com/20260607dSXDdX.jpeg)
 
 ## 知盈是什么
 
