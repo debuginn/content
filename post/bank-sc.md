@@ -10,8 +10,6 @@ categories: ["coin"]
 image: "https://webp.debuginn.com/20260621hOoPFn.png"
 ---
 
-![](https://webp.debuginn.com/20260621hOoPFn.png)
-
 大家好呀，我是 Meng小羽。
 
 之前写过一篇《[港卡开卡指南](/p/financial-hongkong-card/)》，主要是分享我亲自去香港办卡的过程。后来又写了《[蚂蚁银行（澳门）开户指南](/p/financial-macao-ant/)》，给大家补了一个澳门数字银行的选择。
