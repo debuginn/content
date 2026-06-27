@@ -11,7 +11,7 @@ date: 2023-06-06T08:00:00+08:00
 ## 🤠 Hi，我是 Meng小羽
 
 [![Blog](https://img.shields.io/badge/blog.debuginn.com-0066ff?logo=blogger&logoColor=white)](https://blog.debuginn.com)
-[![X](https://img.shields.io/badge/@idebuginn-000000?logo=x&logoColor=white)](https://twitter.com/idebuginn)
+[![X](https://img.shields.io/badge/@xdebuginn-000000?logo=x&logoColor=white)](https://twitter.com/xdebuginn)
 [![WeChat](https://img.shields.io/badge/@debuginn-07C160?logo=wechat&logoColor=white)](https://blog.debuginn.com/subscribe)
 [![Profile views](https://komarev.com/ghpvc/?username=debuginn&color=blueviolet)](https://github.com/debuginn)
 
