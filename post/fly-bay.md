@@ -4,7 +4,7 @@ date: 2026-05-05T09:19:00+08:00
 keywords: "港卡,港美股,大湾区,飞湾计划"
 comments: true
 tags: ["港卡","港美股","大湾区","飞湾计划"]
-categories: ["Coin"]
+categories: ["flybay"]
 image: "https://webp.debuginn.com/20260504vs1oCH.png"
 ---
 

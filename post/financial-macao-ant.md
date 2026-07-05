@@ -4,7 +4,7 @@ date: 2026-01-08T13:00:00+08:00
 keywords: "理财,澳门卡,澳门卡开户,投资,港美股,跨境支付通,蚂蚁银行,蚂蚁,众安银行,长桥"
 comments: true
 tags: ["理财","澳门卡","澳门卡开户","投资","港美股","跨境支付通","蚂蚁银行","蚂蚁","众安银行","长桥"]
-categories: ["coin"]
+categories: ["flybay"]
 image: "https://webp.debuginn.com/202601073zBxvR.jpeg"
 ---
 
