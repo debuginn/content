@@ -1,4 +1,4 @@
 ---
 title: iAssets
-image: "https://webp.debuginn.com/20260607dSXDdX.jpeg"
+image: "https://webp.debuginn.com/20260618mAyBxB.jpeg"
 ---
