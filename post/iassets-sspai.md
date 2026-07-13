@@ -1,11 +1,11 @@
 ---
 title: "我设计的软件 iAssets 知盈 上了少数派热门了"
-date: 2026-07-13T19:00:00+08:00
+date: 2026-07-13T20:00:00+08:00
 draft: false
 keywords: "iAssets,知盈,少数派,热门,sspai,家庭资产管理,理财 App"
 comments: true
 tags: ["iAssets","知盈","产品","少数派"]
-categories: ["产品"]
+categories: ["iAssets"]
 image: "https://webp.debuginn.com/20260713D2yAZe.jpeg"
 ---
 
