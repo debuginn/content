@@ -69,7 +69,7 @@ image: "https://webp.debuginn.com/20260713D2yAZe.jpeg"
 - 📱 **国区 App Store**：[知盈](https://apps.apple.com/cn/app/%E7%9F%A5%E7%9B%88/id6759790991)
 - 📱 **美区 App Store**：[iAssets](https://apps.apple.com/us/app/%E7%9F%A5%E7%9B%88/id6759790991)
 
-欢迎加入 [Telegram 群](https://t.me/xiaoyupark) 一起交流反馈。
+欢迎加入 [Telegram 群](https://t.me/xdebuginn) 一起交流反馈。
 
 再次感谢每一位支持知盈的朋友！你们的肯定让我觉得所有深夜的代码和设计都是值得的。
 
