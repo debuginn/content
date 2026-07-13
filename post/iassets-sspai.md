@@ -1,5 +1,5 @@
 ---
-title: "我设计的软件 iAssets 知盈 上了少数派热门了"
+title: "我设计的软件 iAssets 知盈 上少数派热门了"
 date: 2026-07-13T20:00:00+08:00
 draft: false
 keywords: "iAssets,知盈,少数派,热门,sspai,家庭资产管理,理财 App"
