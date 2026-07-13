@@ -9,7 +9,6 @@ categories: ["iAssets"]
 image: "https://webp.debuginn.com/20260713D2yAZe.jpeg"
 ---
 
-![](https://webp.debuginn.com/20260713D2yAZe.jpeg)
 
 大家好，我是 Meng小羽。
 
