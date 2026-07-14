@@ -62,6 +62,11 @@ links:
     website: https://blog.storia.ren
     image: https://blog.storia.ren/images/icon.png
 
+  - title: Nemo
+    image: https://ibb.co/WG32NVn
+    website: https://nemo.cool
+    description: Nemo's Blog
+
 comments: true
 license: false
 readingTime: false
