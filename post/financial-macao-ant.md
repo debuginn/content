@@ -48,12 +48,12 @@ image: "https://webp.debuginn.com/202601073zBxvR.jpeg"
 ![Invite](https://webp.debuginn.com/20260107HzcUMC.jpeg)
 
 
-**未注册的用户**：建议通过邀请链接或者上方二维码进行注册， [点击这里进行注册](https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPKLBRJ9)。
+**未注册的用户**：建议通过邀请链接或者上方二维码进行注册， [点击这里进行注册](https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPCPRHSF)。
 
 **已注册的用户**：APP -> 证券(Tab) -> 个人中心(右上角图标) -> 我的邀请 -> 入资邀请人 -> 绑定，输入：
 
 ```
-LPKLBRJ9
+LPCPRHSF
 ```
 
 ## 开户流程
@@ -62,7 +62,7 @@ LPKLBRJ9
 
 ### 内地进行注册
 
-通过上面专属邀请码：**LPKLBRJ9** 或者[点击这里进行注册](https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPKLBRJ9)，需要填写身份证、港澳通行证等信息开户。最好下载好 APP ，5 分钟左右搞定。
+通过上面专属邀请码：**LPCPRHSF** 或者[点击这里进行注册](https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPCPRHSF)，需要填写身份证、港澳通行证等信息开户。最好下载好 APP ，5 分钟左右搞定。
 
 ### 澳门进行激活
 
@@ -74,7 +74,7 @@ LPKLBRJ9
 
 > 已经开户，还能参加活动获取激励么？
 
-可以，只要是没有入金，绑定专属邀请码：**LPKLBRJ9** ，还可以享受到活动激励和我的红包。
+可以，只要是没有入金，绑定专属邀请码：**LPCPRHSF** ，还可以享受到活动激励和我的红包。
 
 > 感觉最好还是有工作人员指导开户更安心，我可以联系到么？
 
