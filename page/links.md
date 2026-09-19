@@ -13,11 +13,10 @@ links:
     image: https://gravatar.loli.net/avatar/53093cc242ff08b27984e84c9db92c33
     website: https://qq52o.me/
     description: 一个 PHPer 的成长之路
-  # [disabled 2026-09-19] 浮云翩迁之间: 网站不可访问 (Operation timed out after 15070 milliseconds with 0 bytes received)
-#   - title: 浮云翩迁之间
-#     image: https://blognas.hwb0307.com/logo.jpg
-#     website: https://blognas.hwb0307.com
-#     description: 百代繁华一朝都，谁非过客；千秋明月吹角寒，花是主人。
+  - title: 浮云翩迁之间
+    image: https://blognas.hwb0307.com/logo.jpg
+    website: https://blognas.hwb0307.com/
+    description: 百代繁华一朝都，谁非过客；千秋明月吹角寒，花是主人。
   - title: 浮云的博客
     image: https://webp.debuginn.com/202311181848462.ico
     website: https://last2win.com/
