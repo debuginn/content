@@ -6,19 +6,20 @@ links:
     website: https://v3u.cn
     description: 学习python能做什么并且怎么做的更好，乐于助人的敏捷开发者
   - title: 在码圈
-    image: https://bedebug.com/upload/2020/04/favicon-2ee997cf2a3c4ec7b65f3373cf4f3c6b.ico
+    image: https://static.debuginn.com/20251116ko6eyg.ico
     website: https://www.bedebug.com
     description: 代码改变未来，努力codeing
   - title: 沈唁志
     image: https://gravatar.loli.net/avatar/53093cc242ff08b27984e84c9db92c33
     website: https://qq52o.me/
     description: 一个 PHPer 的成长之路
-  - title: 浮云翩迁之间
-    image: https://blognas.hwb0307.com/logo.jpg
-    website: https://blognas.hwb0307.com
-    description: 百代繁华一朝都，谁非过客；千秋明月吹角寒，花是主人。
+  # [disabled 2026-09-19] 浮云翩迁之间: 网站不可访问 (Operation timed out after 15070 milliseconds with 0 bytes received)
+#   - title: 浮云翩迁之间
+#     image: https://blognas.hwb0307.com/logo.jpg
+#     website: https://blognas.hwb0307.com
+#     description: 百代繁华一朝都，谁非过客；千秋明月吹角寒，花是主人。
   - title: 浮云的博客
-    image: https://last2win.com/favicon.ico
+    image: https://webp.debuginn.com/202311181848462.ico
     website: https://last2win.com/
     description: 浮云的博客
   - title: 王明明的小站
@@ -29,31 +30,30 @@ links:
     image: https://gorpeln.top/favicon.ico
     website: https://gorpeln.top
     description: 趁年轻，做自己想做的！
-  # [disabled 2026-09-19] Chaoszhu'Blog: 网站不可访问 (URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>)
+  # [disabled 2026-09-19] Chaoszhu'Blog: 网站不可访问 (DNS 解析失败 / 连接失败)
 #   - title: Chaoszhu'Blog
 #     image: https://chaoszhu.com/avatar.png
 #     website: https://chaoszhu.com/
 #     description: 好记性不如烂笔头~
-  # [disabled 2026-09-19] PattenKuo的博客: 网站不可访问 (URLError: <urlopen error _ssl.c:1112: The handshake operation timed out>)
-#   - title: PattenKuo的博客
-#     image: https://guopengzhen.com/img/avater.jpg
-#     website: https://guopengzhen.com
-#     description: Thoughts, stories and ideas of Patten Kuo .
+  - title: PattenKuo的博客
+    image: https://guopengzhen.com/img/avater.jpg
+    website: https://guopengzhen.com
+    description: Thoughts, stories and ideas of Patten Kuo .
   - title: Z.L Vansiit's blog
     image: https://vansiit.cc/img/logo.svg
     website: https://vansiit.cc/
     description: 技术博客 | 生活随笔 | 唠嗑扯淡
-  # [disabled 2026-09-19] 码农观测站: 网站不可访问 (URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>)
+  # [disabled 2026-09-19] 码农观测站: 网站不可访问 (连接被重置)
 #   - title: 码农观测站
 #     image: https://codeobservatory.cn/img/butterfly-icon.webp
 #     website: https://codeobservatory.cn
 #     description: 技术分享，编程学习
   - title: forecho
-    image: https://avatars0.githubusercontent.com/u/1725326?s=460&v=4
+    image: https://webp.debuginn.com/20250828sqFsS0.png
     website: https://blog.forecho.com/
     description: 把生命浪费在美好的事物上
   - title: Guoqi Sun
-    image: https://api.apiflash.com/v1/urltoimage?access_key=d749a09196274841b74adfdf634632a4&url=https://blog.guoqi.dev/&format=png&width=1500&height=788&ttl=86400&wait_until=network_idle&no_tracking=true
+    image: https://files.guoqi.dev/favicon.ico
     website: https://blog.guoqi.dev
     description: 尝试，失败，重试。这就是成长的节奏。
   - title: 老T博客
@@ -65,7 +65,7 @@ links:
     website: https://blog.storia.ren
     image: https://blog.storia.ren/images/icon.png
 
-  # [disabled 2026-09-19] Nemo: 网站不可访问 (timeout: The read operation timed out)
+  # [disabled 2026-09-19] Nemo: 网站不可访问 (连接超时)
 #   - title: Nemo
 #     image: https://ibb.co/WG32NVn
 #     website: https://nemo.cool
