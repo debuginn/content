@@ -59,11 +59,10 @@ links:
     description: 法律、科技和生活
     website: https://lawtee.com/
     image: https://lawtee.com/links/avatar.jpg
-  # [disabled 2026-09-26] 绘星里: 网站不可访问 (代理隧道失败)
-#   - title: 绘星里
-#     description: 一起来绘制属于自己的星星！
-#     website: https://blog.storia.ren
-#     image: https://blog.storia.ren/images/icon.png
+  - title: 绘星里
+    description: 一起来绘制属于自己的星星！
+    website: https://blog.storia.ren
+    image: https://blog.storia.ren/images/icon.png
 
   # [disabled 2026-09-19] Nemo: 网站不可访问 (连接超时)
 #   - title: Nemo
