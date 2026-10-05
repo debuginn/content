@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["linux", "vim"]
 categories: ["OS"]
-image: "https://webp.debuginn.com/202303121850205.jpg"
+image: "https://static.debuginn.com/202303121850205.jpg"
 ---
 
 经常使用 Linux 的同学在编辑文本文件的时候一定知道 Vim 这一款神器，它代替 Linux 默认原装的 Vi 编辑器，它的快捷键可以使你在操控文件的时候如庖丁解牛般流畅，博主目前只会简单的命令，感觉不能满足开发需求，今天特地的学习了一下，并且针对于常用的命令做了整理及汇总：
@@ -23,7 +23,7 @@ image: "https://webp.debuginn.com/202303121850205.jpg"
 
 ## 常用命令示意图
 
-![vim 常用命令示意图](https://webp.debuginn.com/202303121856602.png)
+![vim 常用命令示意图](https://static.debuginn.com/202303121856602.png)
 
 ## 常用命令参考
 
@@ -74,5 +74,5 @@ image: "https://webp.debuginn.com/202303121850205.jpg"
 
 ## 键盘标识
 
-![vi / vim 键盘图](https://webp.debuginn.com/202303121909492.gif)
+![vi / vim 键盘图](https://static.debuginn.com/202303121909492.gif)
 

@@ -14,13 +14,13 @@ categories: ["debuginn"]
 官网： [https://www.anaconda.com/](https://www.anaconda.com/)
 下载： [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 
-![anaconda 下载选择](https://webp.debuginn.com/202303241219353.png)
+![anaconda 下载选择](https://static.debuginn.com/202303241219353.png)
 
 ### 安装环境
 
 下载过程中使用默认，但有一个页面需要确认，如下图。
 
-![anaconda选择页面](https://webp.debuginn.com/202303241219803.png)
+![anaconda选择页面](https://static.debuginn.com/202303241219803.png)
 
 第一个勾是是否把 Anaconda 加入环境变量，这涉及到能否直接在 cmd中使用 conda、jupyter、 ipython 等命令，推荐打勾。
 
@@ -28,7 +28,7 @@ categories: ["debuginn"]
 
 安装完成后，在开始菜单中显示“Anaconda2”如下图所示。
 
-![安装显示界面](https://webp.debuginn.com/202303241220350.png)
+![安装显示界面](https://static.debuginn.com/202303241220350.png)
 
 ### 安装第三方程序包 Graphviz
 
@@ -36,7 +36,7 @@ categories: ["debuginn"]
 
 1、打开 Anaconda Prompt ，输入 conda install python-graphviz，回车即可完成安装，如下图所示，本图所示已经安装 了 graphviz 包，若之前没有安装，这时会花点时间安装，安装不用干预。
 
-![安装决策树依赖包](https://webp.debuginn.com/202303241221843.png)
+![安装决策树依赖包](https://static.debuginn.com/202303241221843.png)
 
 安装完成后先输入 python，然后再输入 import graphviz，测试是否成功安装，如上图所示。
 需要设置环境变量，才能使用新安装的 graphviz。
@@ -58,7 +58,7 @@ categories: ["debuginn"]
 将下图的表 demo 输入到 Excel 中，保存为.csv 文件（.csv 为逗号分隔值文件格式）。
 注意将表  demo 中的汉字值转换成数据字值，例如“是否是公司职员”列中的“是”为“1”， “否”为“0”。转换后的表中数据如下图所示。
 
-![学习表](https://webp.debuginn.com/202303241222952.png)
+![学习表](https://static.debuginn.com/202303241222952.png)
 
 ### 编写数据分析代码
 
@@ -120,7 +120,7 @@ node [shape=box] ;
 
 程序运行结果在与该程序在同一目录下的 table.pdf 文件中，将每一个叶子结点转换成 IF-THEN 规则。
 
-![决策树分析结果](https://webp.debuginn.com/202303241223943.png)
+![决策树分析结果](https://static.debuginn.com/202303241223943.png)
 
 ### IF-THEN分类规则
 

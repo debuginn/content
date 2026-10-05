@@ -1,4 +1,4 @@
 ---
 title: AI
-image: "https://webp.debuginn.com/20260705IDCtOt.png"
+image: "https://static.debuginn.com/20260705IDCtOt.png"
 ---

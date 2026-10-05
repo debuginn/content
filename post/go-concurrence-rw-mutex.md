@@ -6,7 +6,7 @@ keywords: "go,concurrence,RWMutex"
 comments: true
 tags: ["go","concurrence","RWMutex"]
 categories: ["golang"]
-image: "https://webp.debuginn.com/202302281957667.jpg"
+image: "https://static.debuginn.com/202302281957667.jpg"
 ---
 
 Mutex 是用来保证只有一个 goroutine 访问共享资源，在大量的并发场景中，特别是读场景中，一个共享资源块只能让 goroutine 串行访问，这就导致了性能的影响，解决方法就是区分读写操作。

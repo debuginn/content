@@ -1,4 +1,4 @@
 ---
 title: Software
-image: "https://webp.debuginn.com/202303191228166.jpg"
+image: "https://static.debuginn.com/202303191228166.jpg"
 ---

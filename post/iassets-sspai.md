@@ -6,7 +6,7 @@ keywords: "iAssets,知盈,少数派,热门,sspai,家庭资产管理,理财 App"
 comments: true
 tags: ["iAssets","知盈","产品","少数派"]
 categories: ["iAssets"]
-image: "https://webp.debuginn.com/20260713D2yAZe.jpeg"
+image: "https://static.debuginn.com/20260713D2yAZe.jpeg"
 ---
 
 
@@ -14,7 +14,7 @@ image: "https://webp.debuginn.com/20260713D2yAZe.jpeg"
 
 前几天，我在少数派发布了一篇关于知盈（iAssets）的文章，没想到这么快就上了热门。看到阅读量、收藏和评论一路上涨，心里真的特别激动和感激。
 
-![少数派](https://webp.debuginn.com/20260713Lqr2J7.jpeg)
+![少数派](https://static.debuginn.com/20260713Lqr2J7.jpeg)
 
 首先要**衷心感谢每一位支持知盈的朋友**：
 
@@ -25,7 +25,7 @@ image: "https://webp.debuginn.com/20260713D2yAZe.jpeg"
 
 没有你们的支持，就没有今天的 iAssets 知盈。真的谢谢大家！
 
-![SSPAI](https://webp.debuginn.com/20260713YCmowC.jpeg)
+![SSPAI](https://static.debuginn.com/20260713YCmowC.jpeg)
 
 ## 知盈是什么
 
@@ -49,7 +49,7 @@ image: "https://webp.debuginn.com/20260713D2yAZe.jpeg"
 
 每张卡片都支持截图分享。iPad 上还支持瀑布流布局，大屏体验更舒服。
 
-![iAssets](https://webp.debuginn.com/20260607dSXDdX.jpeg)
+![iAssets](https://static.debuginn.com/20260607dSXDdX.jpeg)
 
 ## 接下来的一些小进展
 
@@ -75,4 +75,4 @@ image: "https://webp.debuginn.com/20260713D2yAZe.jpeg"
 
 让我们一起把知盈做得更好～
 
-![](https://webp.debuginn.com/20260607AjediG.jpg)
+![](https://static.debuginn.com/20260607AjediG.jpg)

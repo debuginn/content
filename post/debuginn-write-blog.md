@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["技术","博文"]
 categories: ["summary"]
-image: "https://webp.debuginn.com/202302272135755.jpg"
+image: "https://static.debuginn.com/202302272135755.jpg"
 ---
 
 2021 年的一月份马上就过去了，在这一个月中，并没有新鲜出炉的博文，恰恰相反的是我这一个月以来，在思考，自己的博客怎么输出高质量有水平的文章，正如一首优美的旋律，怎么听都可以让人回味无穷，每一遍都有自己的收获。

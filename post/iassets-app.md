@@ -6,7 +6,7 @@ keywords: "iAssets,知盈,家庭资产管理,理财,记账,iOS App"
 comments: true
 tags: ["iAssets","产品","理财"]
 categories: ["iassets"]
-image: "https://webp.debuginn.com/20260618mAyBxB.jpeg"
+image: "https://static.debuginn.com/20260618mAyBxB.jpeg"
 ---
 
 大家好呀，我是 Meng小羽
@@ -15,7 +15,7 @@ image: "https://webp.debuginn.com/20260618mAyBxB.jpeg"
 
 找了一圈没找到满意的，行吧，那就自己做一个。于是就有了**知盈 iAssets**。
 
-![知盈 iAssets](https://webp.debuginn.com/20260607dSXDdX.jpeg)
+![知盈 iAssets](https://static.debuginn.com/20260607dSXDdX.jpeg)
 
 ## 知盈是什么
 
@@ -27,7 +27,7 @@ image: "https://webp.debuginn.com/20260618mAyBxB.jpeg"
 
 ## 首页看板 — 你的资产仪表盘
 
-![首页看板](https://webp.debuginn.com/20260607yXdU8D.jpeg)
+![首页看板](https://static.debuginn.com/20260607yXdU8D.jpeg)
 
 首页是我最花心思的地方，也是我最初想做这款 App的出发点——打开 App，一眼看到全貌。
 
@@ -48,7 +48,7 @@ image: "https://webp.debuginn.com/20260618mAyBxB.jpeg"
 
 ## 账户管理 — 30+ 种类型全覆盖
 
-![账户管理](https://webp.debuginn.com/20260607id86Am.jpeg)
+![账户管理](https://static.debuginn.com/20260607id86Am.jpeg)
 
 资产管理的核心是账户，知盈覆盖了 **30+ 种账户类型**，基本你能想到的都有了：
 
@@ -72,7 +72,7 @@ image: "https://webp.debuginn.com/20260618mAyBxB.jpeg"
 
 对于夫妻共同管理家庭财务来说，这个功能很实用。不用再两个人各自记账然后月底对账了，一个账本全家透明。
 
-![Fatures](https://webp.debuginn.com/20260607bnZKT6.jpeg)
+![Fatures](https://static.debuginn.com/20260607bnZKT6.jpeg)
 
 ## 搜索 — 跨账本全局搜索
 
@@ -106,7 +106,7 @@ image: "https://webp.debuginn.com/20260618mAyBxB.jpeg"
 
 涨跌颜色也支持自定义——中国习惯红涨绿跌，海外习惯绿涨红跌，按你的习惯来就行。
 
-![Setting](https://webp.debuginn.com/20260607NqADRc.jpeg)
+![Setting](https://static.debuginn.com/20260607NqADRc.jpeg)
 
 ## 定价
 
@@ -129,7 +129,7 @@ Pro 功能包括：iCloud 同步与加密备份、多账本管理、家庭资产
 
 ## 最后
 
-![to](https://webp.debuginn.com/20260607AjediG.jpg)
+![to](https://static.debuginn.com/20260607AjediG.jpg)
 
 做这款 App 的初衷很简单——我自己需要一个这样的工具，找不到合适的，就自己做了。从今年元旦开始写，到现在半年时间，229 个 Swift 文件，一点一点打磨出来。
 

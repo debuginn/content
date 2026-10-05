@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["go","gvm"]
 categories: ["golang"]
-image: "https://webp.debuginn.com/202303011938210.jpg"
+image: "https://static.debuginn.com/202303011938210.jpg"
 ---
 
 在 Go 项目开发中，团队要保持开发版本一致，怎么能够快速的安装及部署并且切换 Go 环境，在这里推荐一款工具 GVM （ Go Version Manager ），它可以便捷切换与自定义 Go Path 、Go Root 等参数，是一款实打实的多版本安装及管理利器。

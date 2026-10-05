@@ -5,7 +5,7 @@ keywords: "港卡,港美股,大湾区,飞湾计划"
 comments: true
 tags: ["港卡","港美股","大湾区","飞湾计划"]
 categories: ["flybay"]
-image: "https://webp.debuginn.com/20260504vs1oCH.png"
+image: "https://static.debuginn.com/20260504vs1oCH.png"
 ---
 
 大家好呀，我是 Meng小羽。
@@ -43,7 +43,7 @@ image: "https://webp.debuginn.com/20260504vs1oCH.png"
 
 > 一份会算账、会列机构、会提醒流程的大湾区开户地图。
 
-![FlyBay](https://webp.debuginn.com/202605040JcFr9.png)
+![FlyBay](https://static.debuginn.com/202605040JcFr9.png)
 
 ## 为什么要做这个？
 
@@ -187,7 +187,7 @@ image: "https://webp.debuginn.com/20260504vs1oCH.png"
 
 到了现场才发现短信收不到、APP 下不了、材料没带，那种感觉就像副本打到 Boss 门口发现没带钥匙，多少有点离谱。
 
-![FlyBay](https://webp.debuginn.com/20260504qyQd9b.png)
+![FlyBay](https://static.debuginn.com/20260504qyQd9b.png)
 
 ## 合规说明，也请大家认真看
 
@@ -205,7 +205,7 @@ image: "https://webp.debuginn.com/20260504vs1oCH.png"
 
 > 信息可以参考，决策要自己负责；账户可以开，风险要看清楚。
 
-![FlyBay](https://webp.debuginn.com/202605047UhiWe.png)
+![FlyBay](https://static.debuginn.com/202605047UhiWe.png)
 
 ## 最后
 
@@ -217,7 +217,7 @@ image: "https://webp.debuginn.com/20260504vs1oCH.png"
 
 如果你对港澳银行卡、港美股开户、澳门银行、内地见证开户这些方向感兴趣，也欢迎关注微信公众号「**Debug客栈**」，回复「**飞湾计划**」加入交流群。
 
-![FlyBay](https://webp.debuginn.com/20260504ZeJqa5.png)
+![FlyBay](https://static.debuginn.com/20260504ZeJqa5.png)
 
 我们一起把复杂的事情拆简单，把出行变成探索，把一趟大湾区之行安排得明明白白。
 

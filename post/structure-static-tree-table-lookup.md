@@ -5,7 +5,7 @@ keywords: "笔记,数据结构"
 comments: true
 tags: ["笔记", "数据结构"]
 categories: ["algorithm"]
-image: "https://webp.debuginn.com/202302221903175.jpg"
+image: "https://static.debuginn.com/202302221903175.jpg"
 ---
 
 ## 算法思想
@@ -22,7 +22,7 @@ image: "https://webp.debuginn.com/202302221903175.jpg"
 
 在查找表中各关键字查找概率不相同的情况下，对于使用折半查找算法，按照之前的方式进行，其查找的效率并不一定是最优的。例如，某查找表中有 5 个关键字，各关键字被查找到的概率分别为：0.1，0.2，0.1，0.4，0.2（全部关键字被查找概率和为 1 ），则根据之前介绍的折半查找算法，建立相应的判定树为（树中各关键字用概率表示）：
 
-![判定树公式](https://webp.debuginn.com/202304132328870.png)
+![判定树公式](https://static.debuginn.com/202304132328870.png)
 
 折半查找查找成功的平均查找长度计算方式：
 
@@ -42,7 +42,7 @@ ASL=0.41 + 0.22 + 0.22 + 0.13 + 0.1*3=1.8
 
 首先取出查找表中每个关键字及其对应的权值，采用如下公式计算出每个关键字对应的一个值：
 
-![构建二叉树](https://webp.debuginn.com/202304132329596.png)
+![构建二叉树](https://static.debuginn.com/202304132329596.png)
 
 > 其中 wj 表示每个关键字的权值（被查找到的概率），h 表示关键字的个数。
 
@@ -96,23 +96,23 @@ void SecondOptimal(BiTree T, ElemType R[], float sw[], int low, int high){
 
 例如，一含有 9 个关键字的查找表及其相应权值如下表所示：
 
-![查找表](https://webp.debuginn.com/202304132330104.png)
+![查找表](https://static.debuginn.com/202304132330104.png)
 
 则构建次优查找树的过程如下：
 
 首先求出查找表中所有的 △P 的值，找出整棵查找表的根结点：
 
-![查找根节点](https://webp.debuginn.com/202304132331426.png)
+![查找根节点](https://static.debuginn.com/202304132331426.png)
 
 > 例如，关键字 F 的 △P 的计算方式为：从 G 到 I 的权值和 – 从 A 到 E 的权值和 = 4+3+5-1-1-2-5-3 = 0。
 
 通过上图左侧表格得知，根结点为 F，以 F 为分界线，左侧子表为 F 结点的左子树，右侧子表为 F 结点的右子树（如上图右侧所示），继续查找左右子树的根结点：
 
-![继续查找](https://webp.debuginn.com/202304132331288.png)
+![继续查找](https://static.debuginn.com/202304132331288.png)
 
 通过重新分别计算左右两查找子表的 △P 的值，得知左子树的根结点为 D，右子树的根结点为 H （如上图右侧所示），以两结点为分界线，继续判断两根结点的左右子树：
 
-![判定](https://webp.debuginn.com/202304132332976.png)
+![判定](https://static.debuginn.com/202304132332976.png)
 
 通过计算，构建的次优查找树如上图右侧二叉树所示。
 

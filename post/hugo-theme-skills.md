@@ -6,7 +6,7 @@ keywords: "Hugo,AI,Skill,开源,主题,Hermes,工具"
 comments: true
 tags: ["AI","Hugo","开源","Skill"]
 categories: ["AI"]
-image: "https://webp.debuginn.com/20260418dE4G1Y.png"
+image: "https://static.debuginn.com/20260418dE4G1Y.png"
 ---
 
 大家好呀，我是 Meng小羽。
@@ -37,23 +37,23 @@ Hugo 用 TOML/YAML 做配置，用 Markdown 写内容，所有结构都是格式
 
 ### 首页
 
-![首页](https://webp.debuginn.com/20260418kl6pGt.jpg)
+![首页](https://static.debuginn.com/20260418kl6pGt.jpg)
 
 ### Skill Install
 
-![Skill](https://webp.debuginn.com/20260418YA9wI1.jpg)
+![Skill](https://static.debuginn.com/20260418YA9wI1.jpg)
 
 ### 暗黑模式
 
-![模式](https://webp.debuginn.com/20260418TRRDh2.jpg)
+![模式](https://static.debuginn.com/20260418TRRDh2.jpg)
 
 ### 工具页面
 
-![Tools](https://webp.debuginn.com/202604185Xtt4k.jpg)
+![Tools](https://static.debuginn.com/202604185Xtt4k.jpg)
 
 ### 多语言
 
-![多语言](https://webp.debuginn.com/20260418HMMmlo.jpg)
+![多语言](https://static.debuginn.com/20260418HMMmlo.jpg)
 
 
 

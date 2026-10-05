@@ -13,8 +13,8 @@ tags: ["蓝桥杯","algorithm"]
 categories: ["algorithm"]
 
 
-image: "https://webp.debuginn.com/202303241303887.jpg"
-imagePreview: "https://webp.debuginn.com/202303241303887.jpg"
+image: "https://static.debuginn.com/202303241303887.jpg"
+imagePreview: "https://static.debuginn.com/202303241303887.jpg"
 ---
 
 求1个整数的第k位数字有很多种方法。

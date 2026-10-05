@@ -5,7 +5,7 @@ keywords: "软件工程"
 comments: true
 tags: ["软件工程"]
 categories: ["software"]
-image: "https://webp.debuginn.com/202303191159338.jpg"
+image: "https://static.debuginn.com/202303191159338.jpg"
 ---
 
 **1、软件部署是（  B  ）**
@@ -36,7 +36,7 @@ A）依赖关系     B）构件       C）包      D）节点
 
 **5、 下面哪个符号代表部署图的节点（ C  ）**
 
-![寻找节点符号](https://webp.debuginn.com/202303191350568.png)
+![寻找节点符号](https://static.debuginn.com/202303191350568.png)
 
 **6、下列不属于部署图中的设备类型的是：（   B   ）。**
 
@@ -62,7 +62,7 @@ A．处理器     B．规范    C．接口     D．设备
 
 **10、下图中，表示“节点”的图为_____C_______。**
 
-![寻找节点](https://webp.debuginn.com/202303191351333.png)
+![寻找节点](https://static.debuginn.com/202303191351333.png)
 
 **11、_____B_____图可以用来描述系统硬件的物理拓扑结构以及在此结构上运行的软件。**
 

@@ -1,4 +1,4 @@
 ---
 title: FlyBay
-image: "https://webp.debuginn.com/20260504vs1oCH.png"
+image: "https://static.debuginn.com/20260504vs1oCH.png"
 ---

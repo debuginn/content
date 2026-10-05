@@ -7,7 +7,7 @@ description: ""
 comments: true
 tags: ["渣打银行","内地见证开户","优先理财","港卡","跨境理财"]
 categories: ["flybay"]
-image: "https://webp.debuginn.com/20260621hOoPFn.png"
+image: "https://static.debuginn.com/20260621hOoPFn.png"
 ---
 
 大家好呀，我是 Meng小羽。
@@ -42,7 +42,7 @@ image: "https://webp.debuginn.com/20260621hOoPFn.png"
 
 渣打本身就是国际化银行，在中国香港、新加坡、阿联酋、泽西、马来西亚等地都有服务网络。对普通用户来说，最直观的好处就是：你不是单独去找一家境外银行碰运气，而是通过渣打中国的客户经理去对接境外团队。
 
-![global](https://webp.debuginn.com/20260621ZfaAd3.png)
+![global](https://static.debuginn.com/20260621ZfaAd3.png)
 
 这个体验会舒服很多。
 
@@ -85,7 +85,7 @@ image: "https://webp.debuginn.com/20260621hOoPFn.png"
 
 如果只是为了开户，50 万放 3 个月之后马上全部转走，后续很多权益可能就无法持续享受了。所以这笔钱最好本来就是你计划做中长期配置的资金，而不是硬凑出来短期周转一下。
 
-![Priority](https://webp.debuginn.com/20260621ExqnFp.png)
+![Priority](https://static.debuginn.com/20260621ExqnFp.png)
 
 ## 需要准备什么材料
 
@@ -104,7 +104,7 @@ image: "https://webp.debuginn.com/20260621hOoPFn.png"
 
 ## 办理流程
 
-![Proof](https://webp.debuginn.com/202606218az6BA.png)
+![Proof](https://static.debuginn.com/202606218az6BA.png)
 
 我把流程拆成 5 步，大家看起来会更清楚一些。
 
@@ -165,7 +165,7 @@ image: "https://webp.debuginn.com/20260621hOoPFn.png"
 
 ## 费用和权益怎么理解
 
-![Costs](https://webp.debuginn.com/20260621I00wPB.png)
+![Costs](https://static.debuginn.com/20260621I00wPB.png)
 
 这一段我单独拿出来说，因为很多文章喜欢写“0 手续费”“永久免费”，看起来很爽，但实际执行里往往有条件。
 
@@ -216,7 +216,7 @@ image: "https://webp.debuginn.com/20260621hOoPFn.png"
 
 另外，外币定存不是稳赚不赔的“高息存款”。如果你最后要换回人民币，汇率波动可能把利息吃掉，甚至出现本金折算后的损失。这个风险一定要提前想清楚。
 
-![IR](https://webp.debuginn.com/20260621EMzWn3.png)
+![IR](https://static.debuginn.com/20260621EMzWn3.png)
 
 ## 新开户福利
 
@@ -245,7 +245,7 @@ image: "https://webp.debuginn.com/20260621hOoPFn.png"
 
 ## 常见问题
 
-![QA](https://webp.debuginn.com/202606211LzwqJ.png)
+![QA](https://static.debuginn.com/202606211LzwqJ.png)
 
 ### 达标之后资金能不能转走？
 

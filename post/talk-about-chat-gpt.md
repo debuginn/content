@@ -6,7 +6,7 @@ keywords: "AI,GPT,chatGPT"
 comments: true
 tags: ["AI","GPT","chatGPT"]
 categories: ["debuginn"]
-image: "https://webp.debuginn.com/202311111831345.jpg"
+image: "https://static.debuginn.com/202311111831345.jpg"
 ---
 
 ## 前言
@@ -27,13 +27,13 @@ OpenAI 官方网址：[https://openai.com/](https://openai.com/)
 
 ChatGPT 官方网址：[https://chat.openai.com/](https://chat.openai.com/)
 
-![ChatGPT](https://webp.debuginn.com/202311111716355.png)
+![ChatGPT](https://static.debuginn.com/202311111716355.png)
 
 ### MacGPT
 
 由于现在官方没有发布 Mac 的桌面 ChatGPT APP，这款是目前感觉使用体验最好的软件了，可以在顶部工具栏和侧边栏呼出，使用起来非常便捷。
 
-![MacGPT](https://webp.debuginn.com/202311111730037.webp)
+![MacGPT](https://static.debuginn.com/202311111730037.webp)
 
 ### Chat2DB
 
@@ -41,7 +41,7 @@ ChatGPT 官方网址：[https://chat.openai.com/](https://chat.openai.com/)
 
 Github 地址：[https://github.com/chat2db/Chat2DB/](https://github.com/chat2db/Chat2DB/)
 
-![Chat2DB](https://webp.debuginn.com/202311111736506.webp)
+![Chat2DB](https://static.debuginn.com/202311111736506.webp)
 
 ## 感悟
 
@@ -55,7 +55,7 @@ Github 地址：[https://github.com/chat2db/Chat2DB/](https://github.com/chat2db
 
 未来，我的文章将使用 ChatGPT 来帮助我润色文章与统计分析，当然，这篇文章就不是 AI 生成的 。
 
-![NotByAi](https://webp.debuginn.com/202311102342418.png)
+![NotByAi](https://static.debuginn.com/202311102342418.png)
 
 
 最后大家要是对 GPT 有什么想法或者有什么好用的工具，可以分享在评论区，让 AI 帮助我们解放生产力，让我们变得更强～

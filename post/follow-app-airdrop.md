@@ -6,7 +6,7 @@ keywords: "follow,app,RSS,RSS3"
 comments: true
 tags: ["follow", "app", "RSS", "RSS3"]
 categories: ["debuginn"]
-image: "https://webp.debuginn.com/20241013ivn8eL.jpeg"
+image: "https://static.debuginn.com/20241013ivn8eL.jpeg"
 ---
 
 ## Follow Airdrop
@@ -15,7 +15,7 @@ image: "https://webp.debuginn.com/20241013ivn8eL.jpeg"
 
 今天看官网提供了 9051 $POWER 代币，按照公测到自由下载预估时间，再加上邀请码生成需要有使用时间限制，差不多可以无限发码啦～
 
-![Airdrop](https://webp.debuginn.com/20241102Sg7rhN.png)
+![Airdrop](https://static.debuginn.com/20241102Sg7rhN.png)
 
 ## 下载地址
 

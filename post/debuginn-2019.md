@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["Debug客栈","2020","2019","年度总结"]
 categories: ["summary"]
-image: "https://webp.debuginn.com/202304121931935.jpg"
+image: "https://static.debuginn.com/202304121931935.jpg"
 ---
 
 2019年，这一年来是我经历最多的一年，上半年的我还在学校上着学校学年安排的课程，谈着美好的校园恋爱，下半年就脱离了校园生活，开始独自一人的北漂生活，这一年来也是这个社会变化较大的一年，5G 的商业化的元年，最难就业的一年，等等，这一年现在告诉自己，我坚持了下来，在这个多变的社会生存了下来，顺利找到了实习工作，从**校园实验室**生活转变为**两点一线的上班生活**，开始了不一样的生活体验。
@@ -44,10 +44,10 @@ image: "https://webp.debuginn.com/202304121931935.jpg"
 
 用户访问量：8125，事件数：9.5万，新用户数：2.1万。
 
-![用户访问量](https://webp.debuginn.com/202303161958776.png)
+![用户访问量](https://static.debuginn.com/202303161958776.png)
 
-![用户访问量](https://webp.debuginn.com/202303161958253.png)
+![用户访问量](https://static.debuginn.com/202303161958253.png)
 
 Google Analytics 在线报告：[点击此处访问](https://analytics.google.com/analytics/web/#/p207970635/reports/home?params=_u..nav%3Dga1-experimental%26_u.dateOption%3DyearToDate%26_u.comparisonOption%3Ddisabled%26_r.4..cardDateRange%3Dcustom%26_r.4..date00%3D20190820%26_r.4..date01%3D20191227)（需墙）
 
-![2020年，新年快乐](https://webp.debuginn.com/202303161959295.jpg)
+![2020年，新年快乐](https://static.debuginn.com/202303161959295.jpg)

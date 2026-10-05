@@ -13,8 +13,8 @@ tags: ["coin"]
 categories: ["coin"]
 
 
-image: "https://webp.debuginn.com/202303162005793.jpg"
-imagePreview: "https://webp.debuginn.com/202303162005793.jpg"
+image: "https://static.debuginn.com/202303162005793.jpg"
+imagePreview: "https://static.debuginn.com/202303162005793.jpg"
 ---
 
 自己有着收藏纪念币的习惯，在11月21号凌晨成功预约到了央行发行的首枚异型纪念币普币“泰山纪念币”，看官网通知这枚纪念币值发行了1.2亿枚，所以说相对来说具有较高的收藏价值，并且此纪念币有塑料桶包装，对于收藏来说更容易一些。
@@ -35,11 +35,11 @@ imagePreview: "https://webp.debuginn.com/202303162005793.jpg"
 
 今天昌平区支行进行兑换，总体来说比较顺利，可能是去的比较晚，竟然没有排队的，顺利兑换完毕，接下来给大家看一下泰山币。
 
-![](https://webp.debuginn.com/202303162007928.jpg)
+![](https://static.debuginn.com/202303162007928.jpg)
 
-![](https://webp.debuginn.com/202303162007374.jpg)
+![](https://static.debuginn.com/202303162007374.jpg)
 
-![](https://webp.debuginn.com/202303162007381.jpg)
+![](https://static.debuginn.com/202303162007381.jpg)
 
 ## 发行
 

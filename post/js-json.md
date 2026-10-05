@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: [ "js","json" ]
 categories: [ "js" ]
-image: "https://webp.debuginn.com/202304131856440.jpg"
+image: "https://static.debuginn.com/202304131856440.jpg"
 ---
 
 ## JSON基本概念

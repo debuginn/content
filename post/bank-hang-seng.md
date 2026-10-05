@@ -7,7 +7,7 @@ description: ""
 comments: true
 tags: ["恒生银行","内地见证开户","优越理财","港卡","跨境理财","家庭账户"]
 categories: ["flybay"]
-image: "https://webp.debuginn.com/20260704clHoOq.png"
+image: "https://static.debuginn.com/20260704clHoOq.png"
 ---
 
 大家好呀，我是 Meng小羽。
@@ -20,7 +20,7 @@ image: "https://webp.debuginn.com/20260704clHoOq.png"
 
 恒生银行本身也是**汇丰集团成员**，主做香港和内地市场，1933 年创立至今快一百年了，算是港资银行里非常老牌的一家。它在内地的业务定位很清晰：通过恒生中国对接恒生香港，帮内地用户打通跨境金融服务。
 
-![恒生银行](https://webp.debuginn.com/20260704bNmEEG.png)
+![恒生银行](https://static.debuginn.com/20260704bNmEEG.png)
 
 > 和上篇一样，银行政策、审核口径、费用标准变化都很快，最终一定以客户经理和银行实际为准。本文更像是一个办理前的功课清单，帮大家把路先看明白。
 
@@ -54,7 +54,7 @@ image: "https://webp.debuginn.com/20260704clHoOq.png"
 
 恒生是汇丰集团的成员银行，这意味着它的国际结算能力、合规体系、客户服务标准都依托汇丰集团的体系。虽然恒生的网点和客户经理数量不如汇丰多，但底层的银行能力是同一个体系出来的。
 
-![恒生银行卡](https://webp.debuginn.com/20260704qhSxmm.png)
+![恒生银行卡](https://static.debuginn.com/20260704qhSxmm.png)
 
 ## 两种开户方式
 
@@ -121,7 +121,7 @@ image: "https://webp.debuginn.com/20260704clHoOq.png"
 
 整个周期，从内地开户到港卡拿到手，一般 **2-3 周**。如果遇到补材料、节假日、审核排队，时间拉长也正常，别太焦虑。
 
-![恒生开户流程](https://webp.debuginn.com/20260704eP06sr.png)
+![恒生开户流程](https://static.debuginn.com/20260704eP06sr.png)
 
 ## 家庭账户：恒生比较有特色的一项服务
 
@@ -137,7 +137,7 @@ image: "https://webp.debuginn.com/20260704clHoOq.png"
 - 你的成年子女 → 0 门槛，开一个港户；
 - 在满足条件的前提下，主账户人及符合条件的直系亲属可各自申请内地及香港账户，**相关账户费用以银行最新政策为准**。
 
-![家庭账户](https://webp.debuginn.com/20260704fgazAW.png)
+![家庭账户](https://static.debuginn.com/20260704fgazAW.png)
 
 这个设计对以下几类人特别友好：
 
@@ -165,7 +165,7 @@ image: "https://webp.debuginn.com/20260704clHoOq.png"
 
 恒生的港卡是银联卡，可以在内地带银联标识的 ATM 上直接取现和查询余额。对于偶尔需要从港卡取钱出来用的场景，不需要专门跑到香港去操作。
 
-![跨境转账](https://webp.debuginn.com/2026070469F2sa.png)
+![跨境转账](https://static.debuginn.com/2026070469F2sa.png)
 
 ## 账户管理费详解
 
@@ -197,7 +197,7 @@ image: "https://webp.debuginn.com/20260704clHoOq.png"
 
 6 个月之后也可以主动申请降级，降级后没有管理费。但要注意一个重要细节：**降级之后，你的客户经理不再是优越理财级别的了**。账户出现任何问题——比如风控、冻结、反洗钱审查——可能需要自己跑网点或者打客服解决，服务力度会明显下降。
 
-![账户管理费](https://webp.debuginn.com/20260704Lh8jlY.png)
+![账户管理费](https://static.debuginn.com/20260704Lh8jlY.png)
 
 > **一个重要的提示**：如果是长期使用的账户，尤其是家庭账户，条件允许的话建议长期保留 50 万。不是为了省管理费那几百块钱，而是因为现在银行对账户的审查越来越严格，账户流水异常、资金来源不清这些都是重点排查方向。保持一定资产配置后，客户经理通常能够提供更持续的账户服务与沟通支持，遇到账户资料补充需求时，也便于协助补充账户资料及资金来源说明，有助于后续与银行的顺畅沟通。这不是吓唬大家，是实际经验。如果资金全部转出，后续账户服务支持力度可能会有所下降。
 
@@ -212,7 +212,7 @@ image: "https://webp.debuginn.com/20260704clHoOq.png"
 
 恒生港卡在资金使用上比内地账户灵活很多，跨境转账、外币收付都更方便，适合有海外用款需求的朋友。
 
-![港卡用途](https://webp.debuginn.com/2026070492O6nQ.png)
+![港卡用途](https://static.debuginn.com/2026070492O6nQ.png)
 
 ## 和其他方案对比
 

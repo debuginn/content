@@ -9,14 +9,14 @@ keywords: "证券,长桥,港美股,longbridge"
 comments: true
 tags: ["证券","长桥","港美股","longbridge"]
 categories: ["coin"]
-image: "https://webp.debuginn.com/202302242223160.jpg"
+image: "https://static.debuginn.com/202302242223160.jpg"
 ---
 
 办理港卡之后，在证券市场找到了一款注重用户交互的证券 APP（长桥证券 APP），使用体验是大家常用港美股证券 APP 中最好的，**活动期间通过专属链接注册开户，可以申请港美股终身免佣**，推荐大家使用，投资港美股主要就是港卡比较难办，现在长桥与两个银行搞团办活动，大家感兴趣的可以办理注册下，另外现在入金还有奖励，办理好港卡和银行账户，就可以投资港美股了，就可以做世界 Top 公司的股东了。当然要牢记**股市有风险，投资需谨慎**，理性投资。
 
 ## 注册长桥
 
-![专属邀请页面](https://webp.debuginn.com/202302242233592.jpeg)
+![专属邀请页面](https://static.debuginn.com/202302242233592.jpeg)
 
 ## 办理港卡
 
@@ -66,6 +66,6 @@ image: "https://webp.debuginn.com/202302242223160.jpg"
 
 如果你是可支持认证的企业员工的话，建议做一下企业认证，一般有企业邮箱的话直接输入邮箱账号接收验证码就可以完成认证了，企业认证后有需要优惠活动。
 
-![企业认证](https://webp.debuginn.com/202302242229071.jpeg)
+![企业认证](https://static.debuginn.com/202302242229071.jpeg)
 
-![企业用户活动](https://webp.debuginn.com/202302242230664.png)
+![企业用户活动](https://static.debuginn.com/202302242230664.png)

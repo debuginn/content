@@ -5,7 +5,7 @@ keywords: "os,introduction"
 comments: true
 tags: ["os", "system"]
 categories: ["OS"]
-image: "https://webp.debuginn.com/202302221853276.jpg"
+image: "https://static.debuginn.com/202302221853276.jpg"
 ---
 
 > 计算机的主要功能之一就是对数据进行数值或非数值计算。系统软件必须提供数据存储、数据处理、数据管理的基本功能。数据管理是通过文件管理的方式来完成的，而目录又是建立在分区或卷的基础之上的。操作系统中文件和目录相关的子系统称之为文件系统。

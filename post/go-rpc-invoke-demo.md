@@ -9,7 +9,7 @@ keywords: "go,rpc,invoke"
 comments: true
 tags: ["go","rpc","invoke"]
 categories: ["golang"]
-image: "https://webp.debuginn.com/202303011930703.jpg"
+image: "https://static.debuginn.com/202303011930703.jpg"
 ---
 
 ## RPC
@@ -28,7 +28,7 @@ image: "https://webp.debuginn.com/202303011930703.jpg"
 5. 服务端stub（server stub）解析信息。该过程叫 unmarshalling; 
 6. 服务端stub（server stub）调用程序，并通过类似的方式返回给客户端。
 
-![C/S 架构调用](https://webp.debuginn.com/202303011932520.png)
+![C/S 架构调用](https://static.debuginn.com/202303011932520.png)
 
 ## RPC 与 HTTP 区别
 

@@ -9,7 +9,7 @@ keywords: "5g,sa,nsa"
 comments: true
 tags: ["5g","sa","nsa"]
 categories: ["debuginn"]
-image: "https://webp.debuginn.com/202303182246662.jpg"
+image: "https://static.debuginn.com/202303182246662.jpg"
 ---
 
 今天又一次看了何同学的5G的视频，从视频上看了关于何同学讲联通试运行的是NSA架构，SA架构还在研发试运行中，我就纳闷了，作为一个计算机行业的学生，怎么不明白这个架构名词，是自己out了么，后来上网找了资料，原来这个是通讯技术的专业名词，今天算是恶补了一下。
@@ -20,11 +20,11 @@ image: "https://webp.debuginn.com/202303182246662.jpg"
 
 为了大家能够通俗易懂的描述这5G的两个架构，给大家举个栗子：
 
-![举个栗子](https://webp.debuginn.com/202303182247885.jpg)
+![举个栗子](https://static.debuginn.com/202303182247885.jpg)
 
 话说这个张老板，家里养着一头肥朵1， 肥朵1 的小日子过得也很不错！
 
-![ 肥朵1 的小日子](https://webp.debuginn.com/202303182248732.jpg)
+![ 肥朵1 的小日子](https://static.debuginn.com/202303182248732.jpg)
 
 但是突然有一天 肥朵 的价钱大涨，张老板想再养一只  肥朵，可是由于资金不足，（理想状态是一头 肥朵 需要有一个单独的房间）张老板很是苦恼，于是张老板给想出了两套方案：
 
@@ -33,11 +33,11 @@ image: "https://webp.debuginn.com/202303182246662.jpg"
 
 方案一按照理想状态的话，有一个比较大的缺点就是花费比较多，这就比较难受了......，但是 肥朵 比较开心~~~~
 
-![方案一理想状态](https://webp.debuginn.com/202303182248092.jpg)
+![方案一理想状态](https://static.debuginn.com/202303182248092.jpg)
 
 方案二是将房子重新升级变大即可作为资金花费最少，同时能够获得最大效益，张老板选择的面比较大，可就难受了 肥朵，唉，万恶的资本家。
 
-![方案二节省资金](https://webp.debuginn.com/202303182249596.jpg)
+![方案二节省资金](https://static.debuginn.com/202303182249596.jpg)
 
 想必大家就已经知道**制约SA和NSA的因素**了吧！就是money~~~
 
@@ -45,11 +45,11 @@ image: "https://webp.debuginn.com/202303182246662.jpg"
 - 按照方案一  肥朵1 的房子 可以看作是 4G核心网络；
 - 按照方案一  肥朵2 的房子 可以看作是 5G核心网络；
 
-![方案一对比](https://webp.debuginn.com/202303182251067.jpg)
+![方案一对比](https://static.debuginn.com/202303182251067.jpg)
 
 按照方案二的话是将  **肥朵1 和肥朵2的房子** 看作是**4G核心网络**，而 **肥朵1** 也是 **4G基站**，**肥朵2** 也是**5G基站**，请看下图 ：
 
-![方案二](https://webp.debuginn.com/202303182252318.jpg)
+![方案二](https://static.debuginn.com/202303182252318.jpg)
 
 **简而言之，之所以有SA与NSA架构主要是因为运营商愿意不愿意出钱重新部署。**
 
@@ -57,7 +57,7 @@ image: "https://webp.debuginn.com/202303182246662.jpg"
 
 目前讲到的都是 5G网络架构 中的两种，其实还有以下多种选项：
 
-![5G网络架构的8个选项](https://webp.debuginn.com/202303182252847.png)
+![5G网络架构的8个选项](https://static.debuginn.com/202303182252847.png)
 
 这8个选项分为独立组网和非独立组网两组。其中选项1，2，5，6是独立组网，选项3，4，7，8是非独立组网。非独立组网的选项3，4，7还有不同的子选项。
 
@@ -65,7 +65,7 @@ image: "https://webp.debuginn.com/202303182246662.jpg"
 
 ### 独立组网SA
 
-![独立组网SA](https://webp.debuginn.com/202303182254891.png)
+![独立组网SA](https://static.debuginn.com/202303182254891.png)
 
 - 选项1：就是单纯的4G核心网+4G核心站，就是纯4G组网架构； 
 - 选项2：可以看得出来，就是我们上面例子的方案一，纯5G组网架构； 
@@ -80,13 +80,13 @@ image: "https://webp.debuginn.com/202303182246662.jpg"
 
 #### NSA3系
 
-![NSA3系](https://webp.debuginn.com/202303182256536.png)
+![NSA3系](https://static.debuginn.com/202303182256536.png)
 
 可以看到3系的解决方案就是将原有4G网络升级加5G基站，让手机实现“双通道上网”，但是控制面在4G，用户面4G与5G互相向用户终端提供支持，这样的好处就是可以在5G升级过度时期起到临时代替作用，但是这样会加大4G基站的负荷，本来好好的够1头肥朵居住，突然之间加到了10头肥朵，想想也是有些吃不消的。
 
 #### NSA7系
 
-![NSA7系](https://webp.debuginn.com/202303182257729.png)
+![NSA7系](https://static.debuginn.com/202303182257729.png)
 
 看到了7系你是不是有了对3系的对比，相比而言，7系有三点改进：
 
@@ -98,7 +98,7 @@ image: "https://webp.debuginn.com/202303182246662.jpg"
 
 #### NSA4系
 
-![NSA4系](https://webp.debuginn.com/202303182258069.png)
+![NSA4系](https://static.debuginn.com/202303182258069.png)
 
 可以看到，到达4系阶段，把控制权交了出来，5G就距离SA架构只差一步了吧，这种状态应该是目前转型阶段后期的事情了吧！这样的架构方式同时能享受到4G的低费率，5G的高速率，你是不是有所期待！！！
 

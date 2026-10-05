@@ -10,7 +10,7 @@ comments: true
 weight: 0
 tags: ["git","gource"]
 categories: ["git"]
-image: "https://webp.debuginn.com/202303161933689.jpg"
+image: "https://static.debuginn.com/202303161933689.jpg"
 ---
 
 **Gource** 是一款版本控制可视化的工具，使用这个工具可以将自己的 Git 提交的代码包括对 **Mercurial**，**Bazaar** 和 **SVN** 的内置日志生成可视化支持。Gource 还可以解析由多个第三方工具为 CVS 存储库生成的日志。

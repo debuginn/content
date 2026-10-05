@@ -13,8 +13,8 @@ tags: ["蓝桥杯","algorithm"]
 categories: ["algorithm"]
 
 
-image: "https://webp.debuginn.com/202303241303887.jpg"
-imagePreview: "https://webp.debuginn.com/202303241303887.jpg"
+image: "https://static.debuginn.com/202303241303887.jpg"
+imagePreview: "https://static.debuginn.com/202303241303887.jpg"
 ---
 
 ## 题目背景
@@ -25,11 +25,11 @@ imagePreview: "https://webp.debuginn.com/202303241303887.jpg"
 
 你控制着n 名高阶圣堂武士，方便起见标为`1; 2; ...... ; n`。每名高阶圣堂武士 需要一定的灵能来战斗，每个人有一个灵能值ai 表示其拥有的灵能的多少（ai 非负表示这名高阶圣堂武士比在最佳状态下多余了ai 点灵能，ai 为负则表示这 名高阶圣堂武士还需要-ai 点灵能才能到达最佳战斗状态）。现在系统赋予了 你的高阶圣堂武士一个能力，传递灵能，每次你可以选择一个i 属于`2 [2; n - 1]`，若 ai >=0 则其两旁的高阶圣堂武士，也就是 i - 1、i + 1 这两名高阶圣堂武士会从 i 这名高圣堂武士这里各抽取ai 点灵能；若ai < 0 则其两旁的高阶圣堂武士， 也就是i - 1;i + 1 这两名高阶圣堂武士会给i 这名高阶圣堂武士?ai 点灵能。形式化来讲就
 
-![形式化](https://webp.debuginn.com/202303241304141.png)
+![形式化](https://static.debuginn.com/202303241304141.png)
 
 灵能是非常高效的作战工具，同时也非常危险且不稳定，一位高阶圣堂 武士拥有的灵能过多或者过少都不好，定义一组高阶圣堂武士的不稳定度为
 
-![公式](https://webp.debuginn.com/202303241305171.png)
+![公式](https://static.debuginn.com/202303241305171.png)
 
 请你通过不限次数的传递灵能操作使得你控制的这一组高阶圣堂武 士的不稳定度最小。
 
@@ -116,10 +116,10 @@ imagePreview: "https://webp.debuginn.com/202303241303887.jpg"
 
 对于所有评测用例:
 
-![评测用例](https://webp.debuginn.com/202303241307949.png)
+![评测用例](https://static.debuginn.com/202303241307949.png)
 
 评测时将使用25 个评测用例测试你的程序，每个评测用例的限制如下：
 
-![评测](https://webp.debuginn.com/202303241308856.png)
+![评测](https://static.debuginn.com/202303241308856.png)
 
 注意：本题输入量较大请使用快速的读入方式。

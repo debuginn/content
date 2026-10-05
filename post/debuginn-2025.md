@@ -5,7 +5,7 @@ keywords: "Debug客栈,2025,2026,年度总结"
 comments: true
 tags: ["Debug客栈","2025","2026","年度总结"]
 categories: ["summary"]
-image: "https://webp.debuginn.com/20251230bDqf7H.jpeg"
+image: "https://static.debuginn.com/20251230bDqf7H.jpeg"
 ---
 
 大家好呀，我是 Meng小羽，又到了一年一度写年度总结的时候了，每年的总结总是要感慨下时间过得可真快呀，今年最重要的人生大事就是**我结婚了**，从此不再是一个人，而是两个人的小家庭，同时自己也多了一个丈夫的角色，也意味着要承担起更多家庭的责任。
@@ -18,7 +18,7 @@ image: "https://webp.debuginn.com/20251230bDqf7H.jpeg"
 
 今年生活最大的改变就是开篇所说的结婚了，首先要感谢我的妻子，在我们订婚、拍婚纱照、领证、备婚、出阁宴、结婚中，相比我的付出而言，多操心了很多，为了我们的小家庭也贡献与付出了很多，我不是一个浪漫的人，但是有一个浪漫的妻子，多亏了我的妻子，让我的生活也充满了很多的浪漫的瞬间与难忘的时刻。之后要感谢我的爸爸妈妈姐姐姐夫，对于我们新式婚礼的理解与支持。
 
-![大合影](https://webp.debuginn.com/20251230KIsvrG.jpg)
+![大合影](https://static.debuginn.com/20251230KIsvrG.jpg)
 
 婚前，我认为生活不单单是大人们（我家的风俗习惯，没有结婚的人都是小孩子一样对待）口中的柴米油盐，一直过平淡且稳定的生活。当然，不可否定的是大人们一味的稳定不是没有道理的，特别在我的老家：山东。
 
@@ -28,7 +28,7 @@ image: "https://webp.debuginn.com/20251230bDqf7H.jpeg"
 
 今年，是我入职的第 5 年，有很多的感悟，也写了篇文章 [《入职 5 周年，我和小米的 5 周年》](/p/work-5-years/)。
 
-![5 years](https://webp.debuginn.com/20250708YetNyt.jpeg)
+![5 years](https://static.debuginn.com/20250708YetNyt.jpeg)
 
 今年工作内容也变得丰富起来，今年开始了全栈的路线，可谓是天下大势、合久必分、分久必合，大学时期，自己开始做项目，做比赛，需要前后端都有所了解及开发能力，现在在职场中，最开始为了更加合理的分工，将前后端逐渐分离，同时前端工程化越来越完善，服务端也走向了微服务化、FAAS 的道路，都在工程化的道路上发展出来不同的分支。现在为了降低沟通成本，提升开发效率。一些公司包括我所在的公司项目组内，也在试点全栈工程师，我也是第一时间参加到试点的项目中去。
 
@@ -40,17 +40,17 @@ image: "https://webp.debuginn.com/20251230bDqf7H.jpeg"
 
 今年，各家 AI 搜索功能的爆发，给我们带来最直观的感觉就是对互联网搜索带来的冲击是非常巨大的，不开玩笑的说，各家的 AI 爬虫访问量比真人访问的量都多，当然，相信从今年开始，网站的浏览量会逐年降低。虽然说浏览量会逐步降低，但是我不会放弃对站点的维护与不时文章的发表，每个技术人都有一个属于自己的数字后花园，对于我而言，博客和我的卫星站点就是我的答案。
 
-![浏览量](https://webp.debuginn.com/20251229SO9ug7.jpg)
+![浏览量](https://static.debuginn.com/20251229SO9ug7.jpg)
 
 AI 给大家带来的搜索习惯的改变是革命性的，特别对于个人博客类型网站来说，访问量下降是感受最为强烈的。网站去年访问 3.6w ，今年只有 8016 环比下降约 78%。
 
-![访问国家](https://webp.debuginn.com/20251229VsUbFA.jpg)
+![访问国家](https://static.debuginn.com/20251229VsUbFA.jpg)
 
 ## 文章
 
 25年，文章发表数量和去年一样，但是有一个变化，就是我也开始在博客上发表我的游记类的文章，同时意味着我的网站也不单纯是技术类的站点，更像是一个人兴趣爱好与这个世界在交朋友一样。
 
-![post](https://webp.debuginn.com/20251230zyEs3c.jpg)
+![post](https://static.debuginn.com/20251230zyEs3c.jpg)
 
 ### 游记
 
@@ -75,25 +75,25 @@ AI 给大家带来的搜索习惯的改变是革命性的，特别对于个人�
 
 今年和去年一样，开源的数据只有贡献的博客文章还有静态网点的一些改动。
 
-![github](https://webp.debuginn.com/20251222IpeOJr.png)
+![github](https://static.debuginn.com/20251222IpeOJr.png)
 
 ## 摄影
 
 https://photo.debuginn.com/2025
 
-![2025 photo](https://webp.debuginn.com/20251227Bou96r.jpg)
+![2025 photo](https://static.debuginn.com/20251227Bou96r.jpg)
 
 ## 阅读
 
 今年，同样，站在巨人的肩膀上，阅读了一些有营养的书籍，也阅读了一些小说或文章集合。
 
-![read](https://webp.debuginn.com/20251226WCnO6h.jpg)
+![read](https://static.debuginn.com/20251226WCnO6h.jpg)
 
 还有《左耳听风》和《自洽的程序员》，电子书的形式，推荐给大家阅读。
 
 ## 总结
 
-![2026](https://webp.debuginn.com/20251230x3hGSb.jpg)
+![2026](https://static.debuginn.com/20251230x3hGSb.jpg)
 
 写到这里的时候，自己已经坐上了回家的地铁，25年，感慨万千，但最终汇成一句网上流行的话，“万千灯火，总有一盏为我而亮”，虽是租房，但家里有我有她也有十七（我们养的猫咪），未来还需继续努力奋斗，为了我、为了她，更为了我们的小家。
 

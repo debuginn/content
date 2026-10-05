@@ -5,7 +5,7 @@ keywords: "理财,澳门卡,澳门卡开户,投资,港美股,跨境支付通,蚂
 comments: true
 tags: ["理财","澳门卡","澳门卡开户","投资","港美股","跨境支付通","蚂蚁银行","蚂蚁","众安银行","长桥"]
 categories: ["flybay"]
-image: "https://webp.debuginn.com/202601073zBxvR.jpeg"
+image: "https://static.debuginn.com/202601073zBxvR.jpeg"
 ---
 
 在 25 年，我去了一趟香港旅游，主要动机是去办理港卡，因为这是投资海外的第一步，回来后写了一篇文章 《[港卡开卡指南](/p/financial-hongkong-card/)》，但是随着 25 年之后，各大支持港美股的平台以及券商陆续关门或者提高门槛，26 年起，汇丰的 One 账户也提升资金门槛，代表着普通人去出海投资的门槛和成本越来越高。
@@ -16,7 +16,7 @@ image: "https://webp.debuginn.com/202601073zBxvR.jpeg"
 
 ## 蚂蚁银行澳门
 
-![Ant Bank](https://webp.debuginn.com/20260107qouyyK.jpeg)
+![Ant Bank](https://static.debuginn.com/20260107qouyyK.jpeg)
 
 **蚂蚁银行（澳门）**（官方名称：螞蟻銀行（澳門）股份有限公司，英文：Ant Bank (Macao) Limited）是澳门一家持牌**虚拟银行**（数字银行），由支付宝母公司**蚂蚁集团**发起设立。
 
@@ -26,7 +26,7 @@ image: "https://webp.debuginn.com/202601073zBxvR.jpeg"
 
 从 25 年 11 月开始蚂蚁银行（澳门）正式对内地居民开放开户通道，26 年，开户迎来了最新的开户优惠活动。
 
-![Ant](https://webp.debuginn.com/20260107HWg8Fm.jpeg)
+![Ant](https://static.debuginn.com/20260107HWg8Fm.jpeg)
 
 - **10 分钟开户**：只要人在澳门，线上 10 分钟左右就可以完成开户，无需去柜台办理；
 	- **需要材料**：身份证、港澳通行证、出入境记录文件即可；
@@ -35,7 +35,7 @@ image: "https://webp.debuginn.com/202601073zBxvR.jpeg"
 - **1 站式投资理财 APP**：可以快速开通投资账户（美股、港股等），费用低于其他银行；
 - **存款利率高**，且有存款保险保障；
 
-![Ant](https://webp.debuginn.com/20260107uSemQy.jpeg)
+![Ant](https://static.debuginn.com/20260107uSemQy.jpeg)
 
 ## 粉丝专属福利
 
@@ -45,7 +45,7 @@ image: "https://webp.debuginn.com/202601073zBxvR.jpeg"
 2. 入金 100w 港币且交易留存达标，领 iPhone 17 Pro ，这个大家量力而行哈；
 3. **专属补贴**，开户成功后，联系我后可**获得 100 元**（可选人民币或港币）；
 
-![Invite](https://webp.debuginn.com/20260107HzcUMC.jpeg)
+![Invite](https://static.debuginn.com/20260107HzcUMC.jpeg)
 
 
 **未注册的用户**：建议通过邀请链接或者上方二维码进行注册， [点击这里进行注册](https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPCPRHSF)。
@@ -68,7 +68,7 @@ LPCPRHSF
 
 人到澳门境内任意位置，打开 APP 上传身份证+港澳通行证+出入境小票，可激活账户，线上 5 分钟就可完成，全程无需去柜台。
 
-![注册激活流程](https://webp.debuginn.com/202601071WHvam.JPG)
+![注册激活流程](https://static.debuginn.com/202601071WHvam.JPG)
 
 ## 问题解答
 
