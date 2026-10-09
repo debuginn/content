@@ -1,6 +1,6 @@
 ---
 title: "知盈 iAssets 更新近况：家庭共享、AI 资产分析和存款提醒"
-date: "2026-10-09T22:49:49+08:00"
+date: "2026-10-10T08:00:00+08:00"
 draft: false
 keywords: "知盈,iAssets,家庭资产管理 APP,家庭共享,AI 资产分析,动态行情,存款到期提醒,探索"
 comments: true
