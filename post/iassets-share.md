@@ -9,10 +9,6 @@ categories: ["iassets"]
 image: "https://static.debuginn.com/20261009rXFHA4.jpeg"
 ---
 
-# 知盈 iAssets 更新近况：家庭共享、AI 资产分析和存款提醒
-
-![iAssets](https://static.debuginn.com/20261009rXFHA4.jpeg)
-
 大家好呀，我是 Meng小羽，好久不见～
 
 之前给大家介绍过我做的[家庭资产管理 APP——知盈 iAssets](https://blog.debuginn.com/p/iassets-app/)。这段时间没停下来，一边自己用，一边根据大家的反馈继续改。
