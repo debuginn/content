@@ -5,10 +5,11 @@ links:
     image: https://v3u.cn/v3u/Public/images/logo_dark.png
     website: https://v3u.cn
     description: 学习python能做什么并且怎么做的更好，乐于助人的敏捷开发者
-  - title: 在码圈
-    image: https://static.debuginn.com/20251116ko6eyg.ico
-    website: https://www.bedebug.com
-    description: 代码改变未来，努力codeing
+  # [disabled 2026-10-31] 在码圈: 网站不可访问 (代理隧道失败)
+#   - title: 在码圈
+#     image: https://static.debuginn.com/20251116ko6eyg.ico
+#     website: https://www.bedebug.com
+#     description: 代码改变未来，努力codeing
   - title: 沈唁志
     image: https://gravatar.loli.net/avatar/53093cc242ff08b27984e84c9db92c33
     website: https://qq52o.me/
@@ -51,10 +52,11 @@ links:
     image: https://static.debuginn.com/20250828sqFsS0.png
     website: https://blog.forecho.com/
     description: 把生命浪费在美好的事物上
-  - title: Guoqi Sun
-    image: https://files.guoqi.dev/favicon.ico
-    website: https://blog.guoqi.dev
-    description: 尝试，失败，重试。这就是成长的节奏。
+  # [disabled 2026-10-31] Guoqi Sun: 网站不可访问 (SSL 错误)
+#   - title: Guoqi Sun
+#     image: https://files.guoqi.dev/favicon.ico
+#     website: https://blog.guoqi.dev
+#     description: 尝试，失败，重试。这就是成长的节奏。
   - title: 老T博客
     description: 法律、科技和生活
     website: https://lawtee.com/
