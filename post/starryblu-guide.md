@@ -1,6 +1,6 @@
 ---
 title: "Starryblu 使用指南：多币种账户、海外支付与跨境汇款"
-date: 2026-11-10T23:05:17+08:00
+date: 2026-11-11T08:30:00+08:00
 draft: false
 keywords: "Starryblu,多币种账户,海外支付,跨境汇款,Wotransfer,Mastercard"
 description: ""
@@ -48,7 +48,7 @@ image: "https://static.debuginn.com/20261107QfeTfM.jpeg"
 
 ## 丰富的卡片
 
-对于集卡爱好者来说，一款便捷的支付工具仅仅是功能上的满足，更重要的是要有一个实体的载体，Starryblu 发行的的是 Mastercard ，提供了三种 星空卡、星球卡、主神卡 不同等级与权益的卡供你选择。
+对于集卡爱好者来说，一款便捷的支付工具仅仅是功能上的满足，更重要的是要有一个实体的载体，Starryblu 发行的是 Mastercard ，提供了三种 星空卡、星球卡、主神卡 不同等级与权益的卡供你选择。
 
 ![Card](https://static.debuginn.com/20261107QVAC7k.jpeg)
 
