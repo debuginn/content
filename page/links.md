@@ -52,7 +52,11 @@ links:
     image: https://static.debuginn.com/20250828sqFsS0.png
     website: https://blog.forecho.com/
     description: 把生命浪费在美好的事物上
+<<<<<<< Updated upstream
   # [disabled 2026-10-31] Guoqi Sun: 网站不可访问 (SSL 错误)
+=======
+  # [disabled 2026-11-14] Guoqi Sun: 网站不可访问 (SSL 错误)
+>>>>>>> Stashed changes
 #   - title: Guoqi Sun
 #     image: https://files.guoqi.dev/favicon.ico
 #     website: https://blog.guoqi.dev
